@@ -1,0 +1,272 @@
+qid	pss	conf	exit_reason	ladder_path	force_reason	cleared	n_nuggets	final_answer
+0002	0	100	high_confidence			1	2	Black Widow
+0001	0	66	high_confidence			1	2	Bor Gullet
+0005	0	60	high_confidence			1	2	1: On Her Majesty's Secret Service
+0004	0	100	high_confidence			1	3	Roger Moore
+0003	0	95	high_confidence			1	1	A robot may not harm humanity, or, by inaction, allow humanity to come to harm
+0006	0	59	high_confidence			1	1	Soul Stone
+0007	0	97	high_confidence			1	1	Love Is All Around
+0008	0	74	high_confidence			1	2	Ryan Reynolds
+0009	0	100	high_confidence			1	2	National Gallery
+0010	0	95	high_confidence			1	1	Jeff Goldblum
+0011	0	93	high_confidence			1	1	Zeniba
+0012	0	96	high_confidence			1	2	Gareth
+0013	0	87	high_confidence			1	2	Michael J. Fox
+0014	0	100	high_confidence			1	3	The Last Jedi
+0015	0	86	high_confidence			1	2	Donnie Yen
+0018	0	70	high_confidence			1	6	6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0016	0	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:verified	0	7	Avengers: Infinity War
+0017	0	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:verified	0	5	Avatar
+0019	0	70	high_confidence			1	5	5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0020	0	15	force_deliver	final_fallback_submit_history	format_rejected:too_long	0	10	18
+0021	0	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:no_passages	0	4	Natalie Portman
+0022	0	5	force_deliver	canonical_refusal	format_rejected:contains_semicolon	0	3	The corpus does not support an answer to this question; insufficient evidence to respond.
+0024	0	70	high_confidence			1	3	3: The Curse of the Black Pearl (2003), Dead Man's Chest (2006), At World's End (2007)
+0023	0	100	high_confidence			1	5	Ingrid Bergman won more Academy Awards for Best Actress: 2 (for Gaslight in 1944 and Anastasia in 1956), compared to Grace Kelly's 1 (for The Country Girl in 1954).
+0025	0	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0026	0	72	high_confidence			1	2	Joaquin Phoenix
+0028	0	80	high_confidence			1	1	regal blue tang
+0029	0	100	high_confidence			1	2	rock hammer
+0027	0	100	high_confidence			1	2	fava beans
+0030	0	100	high_confidence			1	2	Ian McKellen
+0031	0	100	high_confidence			1	2	Humphrey Bogart
+0033	0	100	high_confidence			1	2	Titanic
+0036	0	97	high_confidence			1	1	Lotso
+0037	0	96	high_confidence			1	1	We Scare Because We Care
+0032	0	60	high_confidence			1	8	8
+0035	0	35	force_deliver	final_fallback_submit_history	try_submit_ass_no_find:refuted	0	8	10 years
+0034	0	60	high_confidence			1	4	14
+0038	0	60	high_confidence			1	11	3
+0040	0	94	high_confidence			1	1	A113
+0041	0	100	high_confidence			1	2	Lloyd Sherr
+0043	0	88	high_confidence			1	2	Totoro
+0039	0	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:verified	0	5	8605 days
+0042	0	20	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:verified	0	4	Castle in the Sky
+0044	0	100	high_confidence			1	2	Spirited Away
+0045	0	70	high_confidence			1	3	5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0046	0	70	high_confidence			1	6	4: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019)
+0049	0	60	high_confidence			1	7	1: Fast X
+0048	0	50	high_confidence			1	6	Furious 7
+0047	0	15	force_deliver	final_fallback_submit_history	try_submit_ass_no_find:verified	0	2	3
+0051	0	100	high_confidence			1	2	Murphy Cooper
+0052	0	100	high_confidence			1	2	Murph
+0050	0	92	high_confidence			1	6	F9 had the higher worldwide box office, grossing $726.2 million compared to Fast X's $714.4 million.
+0053	0	100	high_confidence			1	2	10
+0054	0	87	high_confidence			1	3	Oppenheimer
+0055	0	98	high_confidence			1	1	Tomorrowland
+0056	0	100	high_confidence			1	2	Hoth
+0060	0	98	high_confidence			1	1	Starkiller Base
+0059	0	86	high_confidence			1	2	Samuel L. Jackson
+0058	0	5	force_deliver	canonical_refusal	format_rejected:contains_semicolon	0	4	The corpus does not support an answer to this question; insufficient evidence to respond.
+0063	0	100	high_confidence			1	2	AT-AT walkers
+0062	0	100	high_confidence			1	2	Stardust
+0057	0	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	Plo Koon
+0061	0	25	force_deliver	pre_ladder_tier1	try_submit_recursion_cap:depth=3	0	7	Home
+0064	0	86	high_confidence			1	6	Rogue One is more successful, grossing $1.059 billion worldwide compared to Solo's $393.2 million worldwide.
+0065	0	5	force_deliver	canonical_refusal	format_rejected:too_long	0	7	The corpus does not support an answer to this question; insufficient evidence to respond.
+0002	1	100	high_confidence			1	2	Black Widow
+0001	1	100	high_confidence			1	3	Bor Gullet
+0004	1	63	high_confidence			1	3	Roger Moore
+0006	1	100	high_confidence			1	4	Soul Stone
+0003	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0005	1	60	high_confidence			1	6	1
+0007	1	100	high_confidence			1	1	Love Is All Around
+0008	1	94	high_confidence			1	2	Ryan Reynolds
+0009	1	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	3	National Gallery
+0010	1	100	high_confidence			1	3	Jeff Goldblum
+0011	1	90	high_confidence			1	1	Zeniba
+0012	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	1	The corpus does not support an answer to this question; insufficient evidence to respond.
+0013	1	100	high_confidence			1	2	Michael J. Fox
+0014	1	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:verified	0	10	Star Wars: The Last Jedi
+0015	1	100	high_confidence			1	3	Donnie Yen
+0018	1	70	high_confidence			1	6	6: Memento, Insomnia, Batman Begins, The Prestige, The Dark Knight, Inception
+0016	1	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:verified	0	3	Avengers: Infinity War
+0017	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	1	The corpus does not support an answer to this question; insufficient evidence to respond.
+0019	1	15	force_deliver	path4_prior_rollout_seed	format_rejected:too_long	0	9	5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0020	1	5	force_deliver	canonical_refusal	format_rejected:too_long	0	9	The corpus does not support an answer to this question; insufficient evidence to respond.
+0022	1	5	force_deliver	canonical_refusal	format_rejected:contains_semicolon	0	4	The corpus does not support an answer to this question; insufficient evidence to respond.
+0024	1	70	high_confidence			1	3	3: Pirates of the Caribbean: The Curse of the Black Pearl (2003), Pirates of the Caribbean: Dead Man's Chest (2006), Pirates of the Caribbean: At World's End (2007)
+0021	1	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:no_passages	0	2	Natalie Portman
+0026	1	68	high_confidence			1	2	Joaquin Phoenix
+0023	1	100	high_confidence			1	7	Ingrid Bergman won the Academy Award for Best Actress more times (2 wins: Gaslight 1944 and Anastasia 1956) compared to Grace Kelly (1 win: The Country Girl 1954).
+0028	1	75	high_confidence			1	1	regal blue tang
+0029	1	100	high_confidence			1	2	movie poster
+0025	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0030	1	100	high_confidence			1	2	Ian McKellen
+0027	1	5	force_deliver	canonical_refusal	exhaustion_safety_valve	0	1	The corpus does not support an answer to this question; insufficient evidence to respond.
+0031	1	100	high_confidence			1	2	Humphrey Bogart
+0037	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0036	1	100	high_confidence			1	2	Lotso
+0033	1	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	1	Titanic
+0032	1	60	high_confidence			1	4	8
+0034	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0035	1	15	force_deliver	final_fallback_submit_history	try_submit_ass_no_find:refuted	0	5	10 years
+0041	1	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Lloyd Sherr
+0040	1	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	2	A113
+0038	1	60	high_confidence			1	3	3
+0043	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0042	1	100	high_confidence			1	2	Castle in the Sky
+0044	1	100	high_confidence			1	2	Cinderella (1950)
+0039	1	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:verified	0	5	8612
+0045	1	70	high_confidence			1	3	5: Spirited Away, Howl's Moving Castle, Ponyo, The Wind Rises, The Boy and the Heron
+0046	1	60	high_confidence			1	6	4
+0048	1	100	high_confidence			1	2	Furious 7
+0051	1	100	high_confidence			1	2	Murphy Cooper
+0047	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0049	1	15	force_deliver	final_fallback_submit_history	model_requested_refusal	0	2	1
+0054	1	82	high_confidence			1	3	Oppenheimer
+0050	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0052	1	100	high_confidence			1	3	Murph
+0053	1	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0056	1	96	high_confidence			1	1	Hoth
+0060	1	82	high_confidence			1	2	Starkiller Base
+0059	1	94	high_confidence			1	2	Samuel L. Jackson
+0058	1	100	high_confidence			1	2	I am one with the Force, and the Force is with me
+0055	1	15	force_deliver	path4_prior_rollout_seed	try_submit_ass_no_find:uncertain	0	5	Tomorrowland
+0063	1	59	high_confidence			1	3	AT-AT walker (All Terrain Armored Transport)
+0062	1	100	high_confidence			1	2	Stardust
+0057	1	97	high_confidence			1	3	Jedi Master Plo Koon
+0065	1	84	high_confidence			1	4	Imperial death troopers under Director Krennic's command killed both characters - Chirrut Îmwe was killed by an explosion, and Baze Malbus was killed by a grenade thrown by a death trooper.
+0061	1	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:verified	0	8	Home
+0064	1	25	force_deliver	pre_ladder_tier1	try_submit_ass_no_find:uncertain	0	4	Rogue One: A Star Wars Story
+0002	2	92	high_confidence			1	1	Black Widow
+0001	2	59	high_confidence			1	2	Bor Gullet
+0004	2	52	high_confidence			1	2	Roger Moore
+0006	2	100	high_confidence			1	2	Soul Stone
+0005	2	60	high_confidence			1	2	1: On Her Majesty's Secret Service
+0003	2	15	force_deliver	final_fallback_submit_history	model_requested_refusal	0	1	The corpus does not support an answer to this question.
+0007	2	15	force_deliver	final_fallback_submit_history	model_requested_refusal	0	1	Love Is All Around
+0008	2	68	high_confidence			1	2	Ryan Reynolds
+0009	2	99	high_confidence			1	1	The National Gallery
+0010	2	100	high_confidence			1	2	Jeff Goldblum
+0011	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	1	The corpus does not support an answer to this question; insufficient evidence to respond.
+0012	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0014	2	87	high_confidence			1	3	The Last Jedi
+0018	2	70	high_confidence			1	5	6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0015	2	15	force_deliver	final_fallback_submit_history	model_requested_refusal	0	1	Donnie Yen
+0016	2	100	high_confidence			1	4	Avengers: Infinity War was released earlier. It was released on April 27, 2018, while 1917 was released in 2019 (in some markets) or January 10, 2020 (in North America).
+0017	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	1	The corpus does not support an answer to this question; insufficient evidence to respond.
+0019	2	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0022	2	85	high_confidence			1	2	Katharine Hepburn: 4 Academy Awards for Best Actress, Audrey Hepburn: 1 Academy Award for Best Actress
+0020	2	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	8	8
+0024	2	60	high_confidence			1	4	3
+0021	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0029	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0030	2	94	high_confidence			1	2	Ian McKellen
+0026	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	1	The corpus does not support an answer to this question; insufficient evidence to respond.
+0023	2	15	force_deliver	final_fallback_submit_history	format_rejected:too_long	0	1	Ingrid Bergman
+0028	2	100	high_confidence			1	2	Pacific regal blue tang
+0031	2	85	high_confidence			1	1	Humphrey Bogart
+0025	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0027	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	1	The corpus does not support an answer to this question; insufficient evidence to respond.
+0037	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0033	2	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	1	Titanic
+0034	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0036	2	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	Lotso
+0032	2	5	force_deliver	canonical_refusal	format_rejected:too_long	0	4	The corpus does not support an answer to this question; insufficient evidence to respond.
+0035	2	35	force_deliver	final_fallback_submit_history	try_submit_ass_no_find:refuted	0	4	10
+0041	2	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Lloyd Sherr
+0040	2	98	high_confidence			1	1	A113
+0043	2	15	force_deliver	final_fallback_submit_history	model_requested_refusal	0	1	Totoro
+0044	2	100	high_confidence			1	2	Spirited Away
+0042	2	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	Castle in the Sky
+0038	2	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	3
+0046	2	60	high_confidence			1	5	4
+0045	2	70	high_confidence			1	5	5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0048	2	96	high_confidence			1	4	Furious 7
+0051	2	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Murphy Cooper
+0054	2	100	high_confidence			1	4	Oppenheimer
+0047	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0056	2	94	high_confidence			1	1	Hoth
+0052	2	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Murph
+0049	2	15	force_deliver	final_fallback_submit_history	model_requested_refusal	0	2	2
+0050	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0060	2	100	high_confidence			1	2	Ilum
+0053	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0058	2	100	high_confidence			1	2	The Force is with me, and I am one with the Force
+0059	2	68	high_confidence			1	3	Samuel L. Jackson
+0063	2	82	high_confidence			1	3	AT-AT walker
+0062	2	96	high_confidence			1	1	Liana Halik
+0055	2	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Tomorrowland
+0057	2	64	high_confidence			1	2	Plo Koon
+0039	2	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0013	2	100	high_confidence			1	2	Michael J. Fox
+0061	2	100	high_confidence			1	3	Home
+0065	2	5	force_deliver	canonical_refusal	format_rejected:too_long	0	3	The corpus does not support an answer to this question; insufficient evidence to respond.
+0064	2	7	force_deliver	final_fallback_submit_history	model_requested_refusal	0	1	Rogue One: A Star Wars Story
+0002	3	100	high_confidence			1	2	Black Widow (Natasha Romanoff)
+0006	3	100	high_confidence			1	2	Soul Stone
+0004	3	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	Roger Moore played James Bond in Moonraker (1979), the James Bond film in which the climax takes place in outer space.
+0001	3	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	2	Bor Gullet
+0005	3	60	high_confidence			1	6	1
+0008	3	100	high_confidence			1	3	Ryan Reynolds
+0007	3	15	force_deliver	final_fallback_submit_history	model_requested_refusal	0	1	Love Is All Around
+0009	3	99	high_confidence			1	1	The National Gallery
+0010	3	99	high_confidence			1	1	Jeff Goldblum
+0011	3	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	Zeniba
+0014	3	94	high_confidence			1	3	The Last Jedi
+0024	3	58	high_confidence			1	3	3: The Curse of the Black Pearl (2003), Dead Man's Chest (2006), At World's End (2007)
+0013	3	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Michael J. Fox
+0028	3	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	2	Pacific regal blue tang
+0031	3	58	high_confidence			1	2	Humphrey Bogart
+0015	3	91	high_confidence			1	2	Donnie Yen
+0018	3	94	high_confidence			1	7	6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0030	3	91	high_confidence			1	3	Ian McKellen
+0032	3	58	high_confidence			1	1	8
+0026	3	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	1	Joaquin Phoenix
+0029	3	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0040	3	58	high_confidence			1	1	Directive A113
+0042	3	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Castle in the Sky
+0036	3	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	Lotso
+0045	3	97	high_confidence			1	5	5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0044	3	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Spirited Away
+0046	3	94	high_confidence			1	7	4: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019)
+0056	3	58	high_confidence			1	1	Hoth
+0054	3	91	high_confidence			1	2	Oppenheimer
+0038	3	15	force_deliver	pre_ladder_tier2	phase2_timeout:900s	0	2	3
+0063	3	91	high_confidence			1	3	"AT-AT walker (All Terrain Armored Transport), also referred to as ""Imperial walkers"" in the films"
+0057	3	94	high_confidence			1	3	Plo Koon
+0060	3	91	high_confidence			1	2	Ilum
+0062	3	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Stardust
+0052	3	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Murph
+0059	3	94	high_confidence			1	3	Samuel L. Jackson
+0058	3	91	high_confidence			1	3	"""I am one with the Force and the Force is with me"""
+0051	3	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0023	3	91	high_confidence			1	2	Ingrid Bergman
+0048	3	5	force_deliver	canonical_refusal	phase2_stuck:session=1	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0065	3	97	high_confidence			1	5	Grand Moff Tarkin (via the Death Star)
+0002	4	100	high_confidence			1	2	Black Widow
+0006	4	99	high_confidence			1	1	Soul Stone
+0001	4	100	high_confidence			1	3	Bor Gullet
+0004	4	100	high_confidence			1	4	Roger Moore
+0005	4	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	1	1
+0008	4	100	high_confidence			1	3	Ryan Reynolds
+0009	4	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	2	National Gallery
+0010	4	5	force_deliver	canonical_refusal	model_requested_refusal	0	1	The corpus does not support an answer to this question; insufficient evidence to respond.
+0002	5	91	high_confidence			1	2	Black Widow
+0006	5	94	high_confidence			1	1	Soul Stone
+0001	5	55	high_confidence			1	2	Bor Gullet
+0004	5	79	high_confidence			1	2	Roger Moore
+0005	5	60	high_confidence			1	1	1
+0008	5	100	high_confidence			1	3	Ryan Reynolds
+0009	5	99	high_confidence			1	1	National Gallery
+0002	6	100	high_confidence			1	2	Black Widow
+0006	6	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Soul Stone
+0001	6	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	2	Bor Gullet
+0005	6	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	1
+0004	6	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	2	Roger Moore
+0008	6	100	high_confidence			1	2	Ryan Reynolds
+0009	6	100	high_confidence			1	1	National Gallery
+0002	7	100	high_confidence			1	2	Black Widow
+0006	7	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	2	Soul Stone
+0001	7	15	force_deliver	path4_prior_rollout_seed	model_requested_refusal	0	1	Bor Gullet
+0004	7	86	high_confidence			1	3	Roger Moore
+0005	7	25	force_deliver	pre_ladder_tier1	model_requested_refusal	0	1	1
+0008	7	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0009	7	99	high_confidence			1	1	The National Gallery
+0002	8	100	high_confidence			1	2	Black Widow
+0004	8	15	force_deliver	final_fallback_submit_history	model_requested_refusal	0	1	Roger Moore
+0008	8	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.
+0009	8	99	high_confidence			1	1	The National Gallery
+0002	9	100	high_confidence			1	2	Black Widow
+0004	9	5	force_deliver	canonical_refusal	model_requested_refusal	0	2	The corpus does not support an answer to this question; insufficient evidence to respond.

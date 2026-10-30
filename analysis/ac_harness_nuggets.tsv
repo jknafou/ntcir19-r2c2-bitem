@@ -1,0 +1,714 @@
+qid	pss	idx	status	nli	pid	rank_pg1	rank_pg2	text
+0002	0	0	verified_supporting	0.9755041710424095	Q23895063__00001	1	1	Scarlett Johansson portrays Natasha Romanoff in the MCU
+0002	0	1	verified_supporting	0.9269238435278879	Q23894626__00001	2	10	Scarlett Johansson stars as Natasha Romanoff / Black Widow
+0001	0	0	verified_supporting	0.9522729492537176	557172__00001	1	8	Bor Gullet was a purple-skinned Mairan with the ability to read thoughts
+0001	0	1	verified_supporting	0.9343919763148529	471805__00006	2	9	Saw Gerrera had Bodhi Rook tortured by a Mairan
+0005	0	0	verified_supporting	0.928079426904754	Q205599__00001	2	1	George Lazenby appeared in only one James Bond film
+0005	0	1	verified_supporting	0.9658368129538942	Q131861037__00001	1	4	George Lazenby played James Bond in On Her Majesty's Secret Service
+0004	0	0	verified_supporting	0.9490513992150515	Q334780__00001	2	7	Moonraker is the eleventh James Bond film and fourth to star Roger Moore
+0004	0	1	verified_supporting	0.9171819068784013	Q334780__00014	3	10	Moonraker's climactic scenes are in space
+0004	0	2	verified_supporting	0.9586598174038495	Q334780__00006	1	4	Roger Moore played James Bond in Moonraker
+0003	0	0	verified_supporting	0.9456491544467166	Q200572__00010	1	1	Asimov's Zeroth Law of Robotics states: A robot may not harm humanity, or, by inaction, allow humanity to come to harm
+0006	0	0	verified_supporting	0.6123071238148822	Q23781155__00009	1	1	Natasha Romanoff sacrificed herself to acquire the Soul Stone
+0007	0	0	verified_supporting	0.9709572919711393	Q190588__00003	1	2	Christmas Is All Around is a Christmas version of The Troggs' 1967 song Love Is All Around
+0008	0	0	verified_supporting	0.9375717275139587	Q903885__00001	1	9	Ryan Reynolds stars as Hal Jordan / Green Lantern
+0008	0	1	verified_supporting	0.6074506379274042	Q113485245__00001	2	14	Ryan Reynolds portrayed Deadpool in the Marvel Cinematic Universe (MCU)
+0009	0	0	verified_supporting	0.8680803913386222	Q752103__00001	1	1	Mr. Bean works as a security guard at the National Gallery in London
+0009	0	1	verified_supporting	0.8613010894447226	Q752103__00002	2	2	Bean is a security guard at the National Gallery in London
+0010	0	0	verified_supporting	0.9489659650688227	Q24797403__00006	1	1	Jeff Goldblum plays the Wonderful Wizard of Oz
+0011	0	0	verified_supporting	0.9274086661664026	Q155653__00004	1	1	Yubaba has a twin sister named Zeniba
+0012	0	0	verified_supporting	0.9659786510954165	Q901213__00003	1	1	Gareth died of a fatal heart attack at the wedding
+0012	0	1	verified_supporting	0.9557289370587972	Q901213__00005	2	2	Gareth is played by Simon Callow
+0013	0	0	verified_supporting	0.85	Q2588730__00014	2	5	Marlene McFly is portrayed by Michael J. Fox in Back to the Future Part II
+0013	0	1	verified_supporting	0.9697036248298782	Q2588730__00008	1	1	Marlene and Marty Jr. were both played by Michael J. Fox in Back to the Future Part II
+0014	0	0	verified_supporting	0.9177630435348939	Q6586871__00001	3	9	The Force Awakens was directed by J.J. Abrams
+0014	0	1	verified_supporting	0.9744460625526152	398125__00001	1	4	The Rise of Skywalker was directed by J.J. Abrams
+0014	0	2	verified_supporting	0.947747670164816	Q6586871__00027	2	7	The Last Jedi was directed by Rian Johnson
+0015	0	0	verified_supporting	0.85	Q80322358__00007	2	7	Donnie Yen as Caine, a blind High Table assassin
+0015	0	1	verified_supporting	0.9549130991440148	Q19590955__00006	1	3	Donnie Yen as Chirrut Îmwe: A blind warrior
+0018	0	0	verified_supporting	0.7618942042877005	Q25191__00001	4	15	Nolan directed Memento in 2000
+0018	0	1	verified_supporting	0.638421825357112	Q20429987__00001	2	10	Nolan directed Insomnia in 2002
+0018	0	2	verified_supporting	0.9391921313796986	Q20429987__00001	2	10	Nolan directed Batman Begins in 2005
+0018	0	3	verified_supporting	0.8432352239950636	Q20429987__00001	2	10	Nolan directed The Prestige in 2006
+0018	0	4	verified_supporting	0.9653959069521912	Q163872__00001	1	6	Nolan directed The Dark Knight in 2008
+0018	0	5	verified_supporting	0.8252965191389648	Q20429987__00002	3	18	Nolan directed Inception in 2010
+0016	0	0	verified_supporting	0.9166801659660696	Q14171368__00048	4	10	Avengers: Infinity War was released on April 27, 2018
+0016	0	1	verified_supporting	0.9653366400386474	Q62721520__00001	1	1	1917 was released theatrically in the United States on 25 December
+0016	0	2	verified_supporting	0.9442197195955829	Q51963836__00015	5	11	Avengers: Infinity War was released worldwide on April 27, 2018
+0016	0	3	verified_supporting	0.9580083751836	Q62721520__00011	2	2	The film was released in limited theatres in the United States on 25 December 2019
+0016	0	4	verified_supporting	0.9486987311185563	Q23780914__00002	6	14	Avengers: Infinity War was released in the United States on April 27, 2018
+0016	0	5	verified_supporting	0.9550805100622877	Q23780914__00001	3	3	Avengers: Infinity War is a 2018 American superhero film
+0016	0	6	verified_supporting	0.89892578125	Q23780914__00001	3	3	movie was released earlier, Avengers: Infinity War or 1917 is Avengers: Infinity War
+0017	0	0	verified_supporting	0.8186852698553172	Q24871__00043	5	5	Avatar's opening weekend gross was $77,025,481
+0017	0	1	verified_supporting	0.9483031412645904	Q15270647__00015	1	1	The film scored $75.1 million in its opening weekend
+0017	0	2	verified_supporting	0.8587498211819824	Q16987460__00003	3	3	$77 million on 18-20 December 2009
+0017	0	3	verified_supporting	0.8521684077493206	Q56000996__00011	4	4	$77 million in 2009
+0017	0	4	verified_supporting	0.93603515625	Q15270647__00016	2	2	movie had a higher initial gross, Avatar or Zootopia is Avatar
+0019	0	0	verified_supporting	0.8573044896949236	Q362277__00012	1	1	Ninomiya made his motion picture debut in 2002 with Pikanchi Life Is Hard Dakedo Happy
+0019	0	1	verified_supporting	0.9668911777859037	Q362277__00012	1	1	Ninomiya starred in Kiiroi Namida Yellow Tears in 2007
+0019	0	2	verified_supporting	0.9465257094295632	Q362277__00012	1	1	Ninomiya starred in Ōoku The Inner Chambers in 2010
+0019	0	3	verified_supporting	0.9521391427456363	Q275187__00001	2	3	Letters from Iwo Jima 2006 film starred Kazunari Ninomiya
+0019	0	4	verified_supporting	0.8802351098434438	Q362277__00012	1	1	Ninomiya debuted as voice actor lending voice to Black in Tekkon Kinkreet
+0020	0	0	verified_supporting	0.7120939159086197	Q229228__00001	4		Here on Earth was released in 2000
+0020	0	1	verified_supporting	0.9137290862303478	Q229228__00001	4		Joy Ride was released in 2001
+0020	0	2	verified_supporting	0.856618112204227	Q229228__00001	4		The Glass House was released in 2001
+0020	0	3	verified_supporting	0.9687964469230093	Q229228__00005	1		My First Mister was released in 2001
+0020	0	4	verified_supporting	0.9605023509028237	Q229228__00005	1		L'Idole was released in 2002
+0020	0	5	verified_supporting	0.9488770530396154	Q229228__00007	3		Public Enemies was released in 2009
+0020	0	6	verified_supporting	0.9333767462709003	Q229228__00007	3		Finding Bliss was released in 2010
+0020	0	7	verified_supporting	0.9601328426807322	Q229228__00007	3		Acts of Violence was released in 2010
+0020	0	8	verified_supporting	0.9655037706510071	Q821878__00001	2		Walk All over Me is a 2007 film starring Leelee Sobieski
+0020	0	9	verified_supporting	0.8726232099899931	Q274400__00001	5		88 Minutes is a 2007 thriller film starring Leelee Sobieski
+0021	0	0	verified_supporting	0.9479593878219758	Q229228__00001	3	3	Leelee Sobieski was born on June 10, 1983
+0021	0	1	verified_supporting	0.8744465966689077	Q37876__00003	4	5	Natalie Portman was born on June 9, 1981
+0021	0	2	verified_supporting	0.969347378978413	63259__00001	1	1	Natalie Portman was born in 1981
+0021	0	3	verified_supporting	0.9550096239746411	Q37876__00001	2	2	Natalie Hershlag was born on 1981-6-9
+0022	0	0	verified_supporting	0.8350093526503608	Q103618__00001	3		Katharine Hepburn holds the record with four Academy Award for Best Actress wins
+0022	0	1	verified_supporting	0.85	Q42786__00040	2	13	Audrey Hepburn won one Academy Award for Best Actress in 1953 for Roman Holiday
+0022	0	2	verified_supporting	0.91796875	Q56016__00001	1	12	won the Academy Award for Best Actress more times, Katharine Hepburn or Audrey Hepburn is Katharine Hepburn
+0024	0	0	verified_supporting	0.9678713173231248	Q46717__00002	2	7	Pirates of the Caribbean premiered on June 28, 2003
+0024	0	1	verified_supporting	0.9579318380858863	Q217037__00010	1	1	Dead Man's Chest was released on July 7, 2006
+0024	0	2	verified_supporting	0.9701840795500584	Q217037__00010	1	1	At World's End was released on May 25, 2007
+0023	0	0	verified_supporting	0.8725864490057744	Q43247__00050	4	1	Ingrid Bergman won two Academy Awards for Best Actress
+0023	0	1	verified_supporting	0.9520759461811752	Q3925__00011	2	6	Grace Kelly won the Academy Award for Best Actress
+0023	0	2	verified_supporting	0.663057059745997	Q3510453__00004	5	10	she won for Gaslight (1944) and Anastasia (1956)
+0023	0	3	verified_supporting	0.9722221217886711	Q3925__00001	1	2	Grace Patricia Kelly received an Academy Award
+0023	0	4	verified_supporting	0.9236291554220198	Q841781__00001	3	7	Gaslight won two Academy Awards including Best Actress for Bergman
+0025	0	0	verified_supporting	0.5	Q490092__00001			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0025	0	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0026	0	0	verified_supporting	0.8500225708909486	Q128518__00006	2	2	Joaquin Phoenix as Commodus
+0026	0	1	verified_supporting	0.9679109954081668	Q185140__00001	1	1	Phoenix portrayed Commodus in Gladiator (2000)
+0028	0	0	verified_supporting	0.8937270528725678	Q132863__00007	1	3	Dory is a regal blue tang
+0029	0	0	verified_supporting	0.8570029629307183	Q172241__00005	1	1	Andy Dufresne dug a tunnel with a rock hammer
+0029	0	1	verified_supporting	0.85	Q172241__00020	2	2	Andy used a miniature rock hammer to break into the sewage pipe
+0027	0	0	verified_supporting	0.9454042060381818	Q211013__00004	1	1	He once ate a census taker's liver with some fava beans and a nice Chianti
+0027	0	1	verified_supporting	0.9120597509388044	Q133654__00019	2	2	I ate his liver with some fava beans and a nice Chianti
+0030	0	0	verified_supporting	0.9486023813386149	Q170510__00014	1	3	Ian McKellen played Magneto in the X-Men films
+0030	0	1	verified_supporting	0.9269805565388255	Q170510__00014	1	3	Ian McKellen played Gandalf in The Lord of the Rings trilogy
+0031	0	0	verified_supporting	0.8647309437595649	Q16390__00022	2	5	Humphrey Bogart played Rick Blaine in Casablanca (1942)
+0031	0	1	verified_supporting	0.9671366836596129	Q132689__00001	1	1	Humphrey Bogart starred in Casablanca (1942)
+0033	0	0	verified_supporting	0.8190914490067052	Q44578__00007	2	3	Paxton as Brock Lovett, a treasure hunter looking for the Heart of the Ocean in the wreck of the Titanic
+0033	0	1	verified_supporting	0.9428312710566902	Q44578__00003	1	2	treasure hunter Brock Lovett and his team explore the wreck of RMS Titanic
+0036	0	0	verified_supporting	0.9680592837534426	Q2235021__00050	1	1	Lots-o'-Huggin' Bear's nickname is Lotso
+0037	0	0	verified_supporting	0.9632662867365103	Q6902878__00001	1	1	"the slogan was ""We Scare Because We Care"""
+0032	0	0	verified_supporting	0.6545790655190618	Q125076__00019	6	11	fifteenth film ever to win at least eight Academy Awards
+0032	0	1	verified_supporting	0.8929629521343283	Q3837845__00004	4	7	The film won eight Academy Awards
+0032	0	2	verified_supporting	0.8208270273547105	Q430100__00001	1	1	won the Academy Award for Best Picture (out of eight Academy Awards)
+0032	0	3	verified_supporting	0.8848977901415996	Q125076__00015	5	8	won eight Oscars at the 81st Academy Awards
+0032	0	4	verified_supporting	0.9337515276941267	Q313956__00010	2	4	Slumdog won the Academy Award for Best Picture (one of eight awards)
+0032	0	5	verified_supporting	0.9098717412222762	Q6573943__00002	3	6	Resul Pookutty and A. R. Rahman won the Academy Award for Best Sound Mixing and Best Original Score for Slumdog Millionaire
+0032	0	6	verified_supporting	0.9097327896937166	Q6573943__00002	3	6	Rahman won for Best Original Song for Jai Ho
+0032	0	7	verified_supporting	0.99658203125	Q430100__00001	1	1	The answer to 'How many Academy Awards did Slumdog Millionaire (2008) win?' is 8
+0035	0	0	verified_supporting	0.9410106098393785	Q23781155__00002	8	11	Avengers: Endgame was released theatrically on April 26, 2019
+0035	0	1	verified_supporting	0.8338919763047189	Q24871__00002	7	10	Avatar was released in the United States on December 18, 2009
+0035	0	2	verified_supporting	0.9483989597242316	Q23781155__00025	6	12	Avengers: Endgame was released in the United States on April 26, 2019
+0035	0	3	verified_supporting	0.8688283521584323	Q24871__00031	5	14	Avatar premiered in London on December 10, 2009, and was released theatrically worldwide from December 16 to 18
+0035	0	4	verified_supporting	0.9682705654323375	Q740433__00004	2	3	Avatar was surpassed by Avengers: Endgame as the highest-grossing film of all time on July 21, 2019
+0035	0	5	verified_supporting	0.956386723408793	Q24871__00001	3	7	Avatar is a 2009 epic science fiction film
+0035	0	6	verified_supporting	0.9687140480926766	Q23781155__00001	1	2	Avengers: Endgame is a 2019 American superhero film
+0035	0	7	verified_supporting	0.935546875	Q23781155__00027	4	6	years apart were the theatrical releases of Avatar and Avengers: Endgame is 10 years
+0034	0	0	verified_supporting	0.7850875350440698	Q305561__00001	1	1	Each Quidditch team has seven players
+0034	0	1	verified_supporting	0.7668282236292008	Q305561__00001	1	1	A Quidditch team consists of three Chasers, two Beaters, one Keeper, and one Seeker
+0034	0	2	verified_supporting	0.9445791433765569	Q305561__00004	2	2	A Seeker catching the Snitch ends the game and scores 150 points
+0034	0	3	verified_supporting	0.9931640625	Q305561__00001	1	1	The answer to 'In the Harry Potter series, how many total players are on the field at the start of a Quidditch match?' is 14
+0038	0	0	verified_supporting	0.9040093779905414	Q171048__00001	6	17	Toy Story was Pixar's first feature film
+0038	0	1	verified_supporting	0.85	Q171048__00001	6	17	Toy Story was directed by John Lasseter
+0038	0	2	verified_supporting	0.9121033028886705	Q216153__00001	3	3	A Bug's Life is Pixar's second feature-length film
+0038	0	3	verified_supporting	0.9751111798241625	Q216153__00001	3	3	A Bug's Life was directed by John Lasseter
+0038	0	4	verified_supporting	0.9680689102128394	Q187266__00001	1	1	Toy Story 2 is a 1999 American animated adventure comedy film produced by Pixar Animation Studios
+0038	0	5	verified_supporting	0.9798833831193451	Q187266__00001	1	1	Toy Story 2 was directed by John Lasseter
+0038	0	6	verified_supporting	0.9313265224545066	Q187726__00001	5	7	Monsters, Inc. is a 2001 American animated comedy film produced by Pixar Animation Studios
+0038	0	7	verified_supporting	0.6896801747313199	Q187726__00001	5	7	Monsters, Inc. was directed by Pete Docter
+0038	0	8	verified_supporting	0.8921992159285563	Q132863__00001	2	2	Finding Nemo is a 2003 American animated comedy-drama adventure film produced by Pixar Animation Studios
+0038	0	9	verified_supporting	0.9797999685440246	Q132863__00001	2	2	Finding Nemo was directed by Andrew Stanton
+0038	0	10	verified_supporting	0.97216796875	Q171048__00007	4	4	The answer to 'How many of the first five Pixar feature films were directed by John Lasseter?' is 3
+0040	0	0	verified_supporting	0.9381413944645534	Q104905__00004	1	1	AUTO's secret no-return directive is code-named A113
+0041	0	0	verified_supporting	0.85	Q192212__00008	1	2	Lloyd Sherr as Fillmore
+0041	0	1	verified_supporting	0.85	Q1060986__00016	2	1	Fillmore was voiced by George Carlin in Cars and Lloyd Sherr in all other media after the first film
+0043	0	0	verified_supporting	0.9641285901839743	Q39571__00018	1	1	Totoro made a cameo appearance in Toy Story 3
+0043	0	1	verified_supporting	0.8809871181207931	Q39571__00001	2	2	Totoro made cameo appearances in other films
+0039	0	0	verified_supporting	0.9709392683180275	Q18517638__00014	1	1	Toy Story 4 premiered on June 11, 2019 at El Capitan Theatre in Hollywood, Los Angeles
+0039	0	1	verified_supporting	0.9644840914903917	Q171048__00022	3	5	Toy Story premiered at El Capitan Theatre in Los Angeles on November 19, 1995
+0039	0	2	verified_supporting	0.9691429179306627	Q18517638__00002	2	4	Toy Story 4 premiered in Hollywood, Los Angeles on June 11, 2019
+0039	0	3	verified_supporting	0.8760649932821553	Q171048__00001	4	6	Toy Story is a 1995 American animated film
+0039	0	4	verified_supporting	0.96435546875	Q18517638__00014	1	1	"days passed between the US premiere of ""Toy Story"" and the US premiere of ""Toy Story 4"" is 8605 days"
+0042	0	0	verified_supporting	0.9124106317039432	Q498577__00001	1	1	Castle in the Sky was the first film to be animated by Studio Ghibli
+0042	0	1	verified_supporting	0.9604115655903062	Q713511__00004	2	3	Laputa: Castle in the Sky was a Studio Ghibli film released in 1986
+0042	0	2	verified_supporting	0.8899383233552444	Q55400__00020	3	6	Laputa: Castle in the Sky was the first film by Studio Ghibli
+0042	0	3	verified_supporting	0.99560546875	Q498577__00001	1	1	The answer to 'What was the first movie produced by Studio Ghibli?' is Castle in the Sky (Laputa: Castle in the Sky)
+0044	0	0	verified_supporting	0.958347107492383	Q155653__00002	1	3	Spirited Away was co-recipient of the Golden Bear at the 2002 Berlin International Film Festival
+0044	0	1	verified_supporting	0.7230820415826502	Q55400__00032	2	1	The film was the first animated film to win the Golden Bear at the Berlin International Film Festival
+0045	0	0	verified_supporting	0.9214643999976849	Q24988397__00002	1	10	Howl's Moving Castle (2004) was directed by Hayao Miyazaki
+0045	0	1	verified_supporting	0.9209018859185578	Q24988397__00002	1	10	Ponyo (2008) was directed by Hayao Miyazaki
+0045	0	2	verified_supporting	0.9437433541550295	Q24988397__00002	1	10	The Wind Rises (2013) was directed by Hayao Miyazaki
+0046	0	0	verified_supporting	0.9753083169112079	Q367466__00028	1	1	The Avengers was released in 2012
+0046	0	1	verified_supporting	0.9685263794093124	Q367466__00028	1	1	Avengers: Age of Ultron was released in 2015
+0046	0	2	verified_supporting	0.966426248112155	Q367466__00028	1	1	Avengers: Infinity War was released in 2018
+0046	0	3	verified_supporting	0.9679602694495214	Q367466__00028	1	1	Avengers: Endgame was released in 2019
+0046	0	4	verified_supporting	0.8529502227489507	Q367466__00028	1	1	Avengers: Doomsday is scheduled for 2026
+0046	0	5	verified_supporting	0.9382010005038612	Q367466__00028	1	1	Avengers: Secret Wars is scheduled for 2027
+0049	0	0	verified_supporting	0.9128998181365156	Q31271369__00001	3	4	Fast X is also known as Fast & Furious 10
+0049	0	1	verified_supporting	0.9486521222440897	Q31271369__00001	3	4	Fast X screenplay by Dan Mazeau and Justin Lin
+0049	0	2	verified_supporting	0.9477703467046042	Q213208__00001	4	5	Tokyo Drift written by Chris Morgan
+0049	0	3	verified_supporting	0.9457137456255114	Q380996__00001	5	6	Fast & Furious 2009 written by Chris Morgan
+0049	0	4	verified_supporting	0.9677034429243824	Q401976__00001	1	2	Fast Five written by Chris Morgan
+0049	0	5	verified_supporting	0.9656895149674591	Q5516100__00001	2	3	Fast & Furious 6 written by Chris Morgan
+0049	0	6	verified_supporting	0.85	Q1576873__00031	6	8	F9 screenwriter is Daniel Casey, story by Justin Lin
+0048	0	0	verified_supporting	0.9707106353138467	Q14650496__00001	1	1	God's Eye is a hacking program
+0048	0	1	verified_supporting	0.9297781052750224	Q1991640__00009	5	11	God's Eye is a software named God's Eye
+0048	0	2	verified_supporting	0.855170446742949	Q2714923__00053	6	14	Ramsey is the creator of God's Eye
+0048	0	3	verified_supporting	0.9100535811347336	Q14650496__00007	3	7	God's Eye sent for safekeeping
+0048	0	4	verified_supporting	0.8421815827180588	Q2714923__00074	4	9	flash drive containing the God's Eye program
+0048	0	5	verified_supporting	0.9516240920864998	Q2714923__00108	2	5	Ramsey created God's Eye device
+0047	0	0	verified_supporting	0.9218636191777566	Q14320__00002	2	2	Three helicopters were sent to rescue the British royal family from Balmoral Castle
+0047	0	1	verified_supporting	0.9364663492126557	Q14320__00003	1	1	The helicopter crash was caused by flash freezing temperatures below -150 F freezing the fuel on board
+0051	0	0	verified_supporting	0.621580870326572	Q13417189__00006	2	3	Joseph Cooper's daughter is Murphy Cooper
+0051	0	1	verified_supporting	0.8063626987670656	Q13417189__00003	1	4	Joseph Cooper raises his children Murph and Tom
+0052	0	0	verified_supporting	0.8644105514851504	Q13417189__00006	1	1	Joseph Cooper's daughter is Murphy Cooper, nicknamed Murph
+0052	0	1	verified_supporting	0.6958970802317384	Q13417189__00003	2	5	Joseph Cooper's children are Murph and Tom
+0050	0	0	verified_supporting	0.9636433785574221	Q29466808__00015	5	5	F9 grossed $726.2 million worldwide
+0050	0	1	verified_supporting	0.9539049030473179	Q31271369__00031	4	4	Fast X grossed $714.4 million worldwide
+0050	0	2	verified_supporting	0.9827819466542581	Q1576873__00018	1	1	F9 grossed $726 million worldwide
+0050	0	3	verified_supporting	0.9790268120198539	Q31271369__00002	2	2	Fast X grossed $714 million worldwide
+0050	0	4	verified_supporting	0.9473859906574443	Q63859907__00010	3	3	F9 had a worldwide gross of $726,229,501
+0050	0	5	verified_supporting	0.9573958334865535	Q63859907__00010	3	3	Fast X had a worldwide gross of $704,875,015
+0053	0	0	verified_supporting	0.85	Q13417189__00006	1	1	Murph is Murphy Cooper, Joseph's daughter
+0053	0	1	verified_supporting	0.9332190325137473	Q13417189__00006	1	1	Murph was 10 years old
+0054	0	0	verified_supporting	0.9707248128105663	Q13417189__00001	2	3	Christopher Nolan directed Interstellar
+0054	0	1	verified_supporting	0.9663890729172955	Q108839994__00001	3	4	Oppenheimer was directed by Christopher Nolan in 2023
+0054	0	2	verified_supporting	0.9771728281551285	Q25191__00021	1	1	The Odyssey is scheduled to be released in July 2026
+0055	0	0	verified_supporting	0.9774647081261658	Q7820305__00012	1	1	Tomorrowland was the first film to be released in Dolby Vision format in Dolby Cinema
+0056	0	0	verified_supporting	0.9779513012223467	453782__00001	1	1	Echo Base was established by the Rebel Alliance on Hoth
+0056	0	1	verified_supporting	0.9605747920465849	1855__00016	2	3	Rebel Alliance established headquarters on Hoth as Echo Base
+0060	0	0	verified_supporting	0.9753433565892392	590566__00002	1	7	Han Solo died on Starkiller Base
+0059	0	0	verified_supporting	0.824401327328365	Q42051__00006	2	9	Samuel L. Jackson as Mace Windu
+0059	0	1	verified_supporting	0.9697529667514156	Q23900377__00001	1	2	Samuel L. Jackson portrayed Nick Fury in the MCU
+0058	0	0	verified_supporting	0.8950590818161476	539115__00001	2	2	"Chirrut Îmwe's mantra was ""I'm one with the Force; the Force is with me"""
+0058	0	1	verified_supporting	0.8770131596531673	539115__00037	3	2	"Chirrut's mantra was ""The Force is with me...and I am one with the Force"""
+0058	0	2	verified_supporting	0.92138671875	650696__00012	1		In Rogue One, what was Chirrut Îmwe repeating before he died is I'm one with the Force, the Force is with me
+0058	0	3	verified_supporting	0.9453125	650696__00012	1		In Rogue One, what was Chirrut Îmwe repeating before he died is I am one with the Force and the Force is with me
+0063	0	0	verified_supporting	0.9649632955625168	Q181795__00003	1	20	the Empire launches a large-scale attack using AT-AT walkers
+0063	0	1	verified_supporting	0.9435937006909324	16466__00006	2	14	General Veers commanded his AT-AT walker Blizzard 1
+0062	0	0	verified_supporting	0.9690979822425043	470168__00001	1	1	Jyn Erso was nicknamed Stardust by her father
+0062	0	1	verified_supporting	0.9327520947880499	547019__00002	2	3	Doctor Galen Walton Erso called his daughter Jyn stardust
+0057	0	0	verified_supporting	0.9439435224586775	483523__00001	2	4	Ahsoka Tano used two white lightsabers
+0057	0	1	verified_supporting	0.9444344726391116	453381__00001	1	3	Ahsoka Tano was discovered years before the war
+0061	0	0	verified_supporting	0.9674552281546399	Q2307877__00001	2	3	Spider-Man: Homecoming was released in 2017
+0061	0	1	verified_supporting	0.9699643693432427	Q2307877__00001	2	3	Spider-Man: Far From Home was released in 2019
+0061	0	2	verified_supporting	0.9389105269354198	Q2307877__00001	2	3	Spider-Man: No Way Home was released in 2021
+0061	0	3	verified_supporting	0.970164459029899	Q27985819__00001	1	1	Spider-Man: Far From Home is the sequel to Spider-Man: Homecoming
+0061	0	4	verified_supporting	0.9186084680168474	Q68934496__00001	4	8	Spider-Man: No Way Home is the sequel to Spider-Man: Homecoming and Spider-Man: Far From Home
+0061	0	5	verified_supporting	0.5938901852464019	Q2023710__00002	5	11	Spider-Man: Homecoming had sequels Far From Home and No Way Home
+0061	0	6	verified_supporting	0.95703125	Q27985819__00002	3	6	The answer to 'In the first three MCU Spider-Man movies, what is the common word in their subtitles?' is Home
+0064	0	0	verified_supporting	0.9679361188521093	Q27038847__00019	1	1	Solo grossed $393.2 million worldwide
+0064	0	1	verified_supporting	0.9640109459463618	Q19590955__00022	2	2	Rogue One grossed $1.059 billion worldwide
+0064	0	2	verified_supporting	0.85	Q27038847__00002	4	4	Solo was the first Star Wars film to be a commercial failure
+0064	0	3	verified_supporting	0.9223160549466685	Q19590955__00002	3	3	Rogue One was the second-highest-grossing film of 2016
+0064	0	4	verified_supporting	0.8912704280511332	Q27038847__00020	5	5	Rogue One debuted to $155 million
+0064	0	5	verified_supporting	0.85	452340__00031	6	6	Rogue One surpassed the one billion dollar mark for global box office receipts
+0065	0	0	verified_supporting	0.6366055987083163	Q242446__00014	5		Rogue One grossed $1,058,684,742 worldwide
+0065	0	1	verified_supporting	0.9254765587107946	Q716069__00004	2		Jiang Wen is a Chinese actor who portrayed Baze Malbus in Rogue One
+0065	0	2	verified_supporting	0.9577679785743046	513406__00001	3		Donnie Yen is a Hong Kong actor who portrayed Chirrut Îmwe in Rogue One
+0065	0	3	verified_supporting	0.9580353852305145	539115__00036	6		a death trooper caused an explosion that violently propelled Îmwe forward
+0065	0	4	verified_supporting	0.9334885357960222	539121__00039	4		a death trooper holding a fragmentation grenade was blasted by Malbus, and the grenade rolled downhill toward Malbus
+0065	0	5	verified_supporting	0.6955053881688394	539121__00001	1		Baze Malbus was killed by a C-25 fragmentation grenade
+0065	0	6	verified_supporting	0.9990234375	539121__00001	1		In the most successful Star Wars spinoff movie, who killed the characters that are played by Chinese actors is A C-25 fragmentation grenade killed Baze Malbus
+0002	1	0	verified_supporting	0.9514681408798779	Q34436__00002	4	5	Johansson began portraying Black Widow in Iron Man 2
+0002	1	1	verified_supporting	0.9411441631394806	Q205028__00016		6	Scarlett Johansson signed on to play Black Widow
+0001	1	0	verified_supporting	0.6663254307838967	452340__00005		13	Saw Gerrera used Bor Gullet as a torturing device
+0001	1	1	verified_supporting	0.9653515556496958	557172__00002	1	1	Bor Gullet appeared in the 2016 film Rogue One: A Star Wars Story
+0001	1	2	verified_supporting	0.9680442635278879	539125__00005		5	Bor Gullet caused temporary loss of sanity to Bodhi Rook
+0004	1	0	verified_supporting	0.85	Q334780__00019	1	2	Moonraker takes James Bond into space
+0004	1	1	verified_supporting	0.977529905614763	Q334780__00019	1	2	Moonraker has a space station finale
+0004	1	2	verified_supporting	0.6305504275192879	Q334780__00020	1	16	Roger Moore played James Bond in Moonraker
+0006	1	0	bogus	0.963745405490418	Q23895063__00001	2	7	Natasha Romanoff is portrayed by Scarlett Johansson
+0006	1	1	verified_supporting	0.8551614401398195	Q23895063__00001	2	7	Romanoff sacrificed herself to obtain the Soul Stone
+0006	1	2	verified_supporting	0.9798281157069576	Q24026688__00008		2	Red Skull told them a life sacrifice is required to retrieve the Soul Stone
+0006	1	3	verified_supporting	0.9524931821355459	Q24026688__00008		2	Romanoff jumped over the cliff allowing Barton to obtain the Soul Stone
+0003	1	0	bogus	0.96484375	Q200572__00010	1	1	"In the movie ""I, Robot"" from 2004, Asimov's laws of robotics are cited. Now, what does his zeroth law say is A robot may not harm humanity or, by inaction, allow humanity to come to harm"
+0003	1	1	verified_supporting	0.96484375	Q200572__00010	1	1	"In the movie ""I, Robot"" from 2004, Asimov's laws of robotics are cited. Now, what does his zeroth law say is A robot may not harm humanity or, by inaction, allow humanity to come to harm"
+0005	1	0	verified_supporting	0.85	Q1146142__00001			George Lazenby played James Bond in one film
+0005	1	1	verified_supporting	0.9529083453969067	Q107914__00011		5	George Lazenby left after just one Bond film
+0005	1	2	verified_supporting	0.6402877747194827	Q107894__00017	5	11	On Her Majesty's Secret Service was Lazenby's only outing as Bond
+0005	1	3	verified_supporting	0.8763061298323752	Q107894__00023	5	14	Lazenby's only appearance as 007 is a fine entry
+0005	1	4	verified_supporting	0.9390484996089072	Q205599__00005	2	7	Lazenby decided to leave the role of Bond
+0005	1	5	verified_supporting	0.99951171875	Q205599__00001	2	1	The answer to 'Actor George Lazenby played James Bond in how many movies?' is 1
+0007	1	0	verified_supporting	0.99853515625	Q901213__00012	2	1	"""Love, Actually"" features a cover song called ""Christmas is All Around."" What was the original song title is Love Is All Around by The Troggs"
+0008	1	0	verified_supporting	0.9495869917280724	Q2345627__00003		7	Ryan Reynolds portrayed Green Lantern in the 2011 film
+0008	1	1	verified_supporting	0.9222026539940246	Q192682__00001		10	Ryan Reynolds starred as Deadpool in Deadpool (2016), Deadpool 2 (2018), and Deadpool & Wolverine (2024)
+0009	1	0	bogus	0.99462890625	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is The National Gallery
+0009	1	1	verified_supporting	0.99462890625	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is The National Gallery
+0009	1	2	verified_supporting	0.9951171875	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is National Gallery
+0010	1	0	verified_supporting	0.8927276658664336	Q24797403__00012	1	4	Jeff Goldblum was in final talks to star as the Wizard
+0010	1	1	verified_supporting	0.9563157525933771	Q106706__00001		2	Jeffrey Lynn Goldblum is an American actor
+0010	1	2	verified_supporting	0.85	Q106706__00001		2	he plays the Wizard of Oz in Wicked (2024)
+0011	1	0	verified_supporting	0.90234375	Q1190336__00001		2	In Miyazaki's Spirited Away, what is the name of the old lady who looks exactly like Yubaba is Zeniba
+0012	1	0	verified_supporting	0.99609375	Q901213__00003	1	1	In Four Weddings And A Funeral, who dies of a heart attack at the wedding of Hamish and Carrie is Gareth
+0013	1	0	verified_supporting	0.8132524946202151	Q109331__00006	3	6	Michael J. Fox plays multiple characters including Marlene McFly
+0013	1	1	verified_supporting	0.9307246852156625	Q395274__00022	10	3	Back to the Future Part II role includes Marlene McFly
+0014	1	0	verified_supporting	0.9760400278638026	398122__00001			The Force Awakens was directed by J.J. Abrams
+0014	1	1	verified_supporting	0.9730523714327554	398124__00001		1	The Last Jedi was written and directed by Rian Johnson
+0014	1	2	verified_supporting	0.9782953276754195	Q6586871__00002	2	7	The Rise of Skywalker was directed by Abrams
+0014	1	3	verified_supporting	0.9803330759107661	Q20977110__00001		3	The Rise of Skywalker was directed by J.J. Abrams
+0014	1	4	verified_supporting	0.9753435859344115	27274__00021	7	20	The Last Jedi was directed by Rian Johnson
+0014	1	5	verified_supporting	0.9651501048733444	Q18486021__00009		5	J.J. Abrams was named director of The Force Awakens
+0014	1	6	verified_supporting	0.8906682746902876	Q18486021__00009		5	Rian Johnson would direct Episode VIII
+0014	1	7	verified_supporting	0.7686625134639085	407726__00001		12	J.J. Abrams directed The Force Awakens and The Rise of Skywalker
+0014	1	8	verified_supporting	0.8949124882872852	407726__00001		12	J.J. Abrams was executive producer for The Last Jedi, not director
+0014	1	9	verified_supporting	0.9892578125	398124__00001		1	The answer to 'Of the Star Wars sequel trilogy, which movie was NOT directed by J. J. Abrams?' is Star Wars: The Last Jedi
+0015	1	0	verified_supporting	0.9611771713963463	Q15732802__00048	5	2	Donnie Yen portrays Caine, a blind assassin in John Wick: Chapter 4
+0015	1	1	verified_supporting	0.9682394273458764	539115__00040		1	Donnie Yen portrays Chirrut Îmwe in Rogue One: A Star Wars Story
+0015	1	2	verified_supporting	0.9320282453041461	539115__00040		1	Îmwe is blind
+0018	1	0	verified_supporting	0.9720359069842062	Q190525__00001		3	Memento is a 2000 film directed by Christopher Nolan
+0018	1	1	verified_supporting	0.9727059193037437	Q429969__00001		2	Insomnia is a 2002 film directed by Christopher Nolan
+0018	1	2	verified_supporting	0.9235350748251117	Q25191__00010	4	11	Batman Begins is a 2005 film directed by Christopher Nolan
+0018	1	3	verified_supporting	0.941039864583447	Q25191__00010	4	11	The Prestige is a 2006 film directed by Christopher Nolan
+0018	1	4	verified_supporting	0.9715388073890283	Q189330__00009	5	4	The Dark Knight is a 2008 film directed by Christopher Nolan
+0018	1	5	verified_supporting	0.9556785819292642	Q578595__00017		7	Inception is a 2010 film directed by Christopher Nolan
+0016	1	0	verified_supporting	0.9166801659660696	Q18921635__00003		6	Avengers: Infinity War was released on April 27, 2018
+0016	1	1	verified_supporting	0.8485426468846986	Q75242023__00004		8	1917 is listed as a 2019 film
+0016	1	2	verified_supporting	0.89892578125	Q23780914__00001	3	3	movie was released earlier, Avengers: Infinity War or 1917 is Avengers: Infinity War
+0017	1	0	verified_supporting	0.93603515625	Q15270647__00016	2	2	movie had a higher initial gross, Avatar or Zootopia is Avatar
+0019	1	0	verified_supporting	0.9406817625256984	Q362277__00025	1	2	Pikanchi Life is Hard Dakedo Happy was released in 2002
+0019	1	1	verified_supporting	0.9440571320878233	Q362277__00025	1	2	The Blue Light was released in 2003
+0019	1	2	verified_supporting	0.9468380694943943	Q362277__00025	1	2	Pikanchi Life Is Hard Dakara Happy was released in 2004
+0019	1	3	verified_supporting	0.9513061577154168	Q362277__00025	1	2	Letters from Iwo Jima was released in 2006
+0019	1	4	verified_supporting	0.9435605586280426	Q362277__00025	1	2	Tekkon Kinkreet was released in 2006
+0019	1	5	verified_supporting	0.9350561627059842	Q362277__00025	1	2	Kiiroi Namida was released in 2007
+0019	1	6	verified_supporting	0.9644549649373636	Q362277__00025	1	2	Heaven's Door was released in 2009
+0019	1	7	verified_supporting	0.9167235133602063	Q362277__00025	1	2	Ōoku was released in 2010
+0019	1	8	verified_supporting	0.94775390625	Q4784362__00002		4	The answer to 'How many movies did Kazunari Ninomiya act in between 2000 and 2010?' is 5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Ch
+0020	1	0	verified_supporting	0.9635615146072498	Q229228__00011	1		Here on Earth was released in 2000
+0020	1	1	verified_supporting	0.9642843615018135	Q229228__00011	1		My First Mister was released in 2001
+0020	1	2	verified_supporting	0.9714126719321409	Q229228__00011	1		A 2001 film featured Ruby Baker
+0020	1	3	verified_supporting	0.9558578709067076	Q229228__00011	1		Lying was released in 2006
+0020	1	4	verified_supporting	0.8414386205234051	Q229228__00011	1		The Elder Son was released in 2006
+0020	1	5	verified_supporting	0.9666414871716003	Q229228__00011	1		Walk All over Me was released in 2007
+0020	1	6	verified_supporting	0.9601349690148655	Q229228__00011	1		Finding Bliss was released in 2009
+0020	1	7	verified_supporting	0.9544047300736824	Q229228__00011	1		Acts of Violence was released in 2010
+0020	1	8	verified_supporting	0.97216796875	Q229228__00007	3		The answer to 'How many movies did Leelee Sobieski act in between 2000 and 2010?' is 15
+0022	1	0	verified_supporting	0.8964885442217281	Q43247__00050			Katharine Hepburn holds the record with four Academy Awards for Best Actress
+0022	1	1	verified_supporting	0.8889764794929551	Q201293__00001			Audrey Hepburn is referred to as Hepburn in the passage
+0022	1	2	verified_supporting	0.6465644288948131	Q201293__00001			Audrey Hepburn won an Academy Award for Best Actress for Roman Holiday
+0022	1	3	verified_supporting	0.91796875	Q56016__00001	1	12	won the Academy Award for Best Actress more times, Katharine Hepburn or Audrey Hepburn is Katharine Hepburn
+0024	1	0	verified_supporting	0.9786674290095343	Q46717__00001	2	2	Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003
+0024	1	1	verified_supporting	0.9770568655800539	Q161087__00001		3	Pirates of the Caribbean: Dead Man's Chest was released in 2006
+0024	1	2	verified_supporting	0.9749654144370361	Q54274__00016	9	4	Pirates of the Caribbean: At World's End was released in 2007
+0021	1	0	verified_supporting	0.9234607752619841	63277__00003		4	Natalie Portman was born June 9, 1981
+0021	1	1	verified_supporting	0.7442423318541216	Q4889256__00054		6	Leelee Sobieski was born June 10, 1983
+0026	1	0	verified_supporting	0.6635753509420097	Q115789958__00006	8	5	Joaquin Phoenix's performance as Commodus from the previous film
+0026	1	1	verified_supporting	0.8491314239623919	Q1143478__00010		3	Joaquin Phoenix played Commodus in Gladiator
+0023	1	0	verified_supporting	0.9666429171061646	Q1305029__00001	8	4	Grace Kelly won the Academy Award for Best Actress
+0023	1	1	verified_supporting	0.6021602276562279	Q841781__00010	3	7	Ingrid Bergman won Academy Awards Best Actress
+0023	1	2	verified_supporting	0.85	Q18151712__00021	20	9	Ingrid Bergman Total 2 wins Anastasia 1956
+0023	1	3	verified_supporting	0.748670105582322	Q18151712__00017	20	11	Grace Kelly Wins 1 The Country Girl 1954
+0023	1	4	verified_supporting	0.6260466076531067	Q43247__00051	4	1	Year 1944 Category Gaslight Nominated work won Year 1956 Category Anastasia Nominated work won
+0023	1	5	verified_supporting	0.9419898575093539	Q11637__00023		13	Grace Kelly won Oscar The Country Girl 1954
+0023	1	6	verified_supporting	0.9694313207965176	Q43247__00041	4	3	New York Times stated Ingrid Bergman Winner of Three Oscars Is Dead
+0028	1	0	verified_supporting	0.8337694180223862	Q132863__00001	1	2	Dory is a regal blue tang
+0029	1	0	verified_supporting	0.9636508036015311	Q42745__00029			A succession of posters hides a hole in a jail cell wall in the novella
+0029	1	1	verified_supporting	0.9297233536153878	Q172241__00010	1	1	Andy passes through a hole in his cell hidden by a movie poster to escape
+0025	1	0	verified_supporting	0.5	Q487482__00001			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0025	1	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0030	1	0	verified_supporting	0.6660076125445622	Q106182__00006		7	Ian McKellen played Magneto in the X-Men films
+0030	1	1	verified_supporting	0.8436745518765714	Q170510__00002	1	5	Ian McKellen played Gandalf in The Lord of the Rings trilogy
+0027	1	0	verified_supporting	0.9990234375	Q133654__00019	2	2	In The Silence of the Lambs (1991), what food is Hannibal Lecter famously associated with when he describes eating a census taker is liver with fava beans and a nice Chianti
+0031	1	0	verified_supporting	0.9318587467598206	Q132689__00006	1	4	Humphrey Bogart played Rick Blaine
+0031	1	1	verified_supporting	0.9529836825137213	Q132689__00003	1	2	Rick Blaine owned a nightclub in Casablanca
+0037	1	0	bogus	0.99853515625	Q6902878__00001	1	1	the slogan of Monsters, Inc. in the movie is We scare because we care
+0037	1	1	verified_supporting	0.99853515625	Q6902878__00001	1	1	the slogan of Monsters, Inc. in the movie is We scare because we care
+0036	1	0	verified_supporting	0.8618735569008039	Q2235021__00052	1	3	The character is called Lotso
+0036	1	1	verified_supporting	0.9119046756339734	Q973621__00002		2	Lots-O'-Huggin' Bear is from Toy Story 3
+0033	1	0	verified_supporting	0.9592771878521018	Q110374__00011	3	1	Aliens featured Private William Hudson
+0032	1	0	bogus	0.970308190098599	Q134867__00009	7	2	Slumdog Millionaire is the film being discussed
+0032	1	1	verified_supporting	0.9572053162383524	Q134867__00009	7	2	Slumdog Millionaire won eight Academy Awards
+0032	1	2	verified_supporting	0.9168700797136738	Q5057425__00001		5	Slumdog Millionaire won eight Oscars
+0032	1	3	verified_supporting	0.69769998902223	Q125076__00002	5	9	won 8 Academy Awards
+0034	1	0	bogus	0.9931640625	Q305561__00001	1	1	The answer to 'In the Harry Potter series, how many total players are on the field at the start of a Quidditch match?' is 14
+0034	1	1	verified_supporting	0.9931640625	Q305561__00001	1	1	The answer to 'In the Harry Potter series, how many total players are on the field at the start of a Quidditch match?' is 14
+0035	1	0	verified_supporting	0.9775954305627758	Q1040119__00007		1	Avatar was released on December 18, 2009
+0035	1	1	verified_supporting	0.9498382917984859	Q14171368__00002	9	8	Avengers: Endgame was released in 2019
+0035	1	2	verified_supporting	0.8299969125560717	Q23781155__00018	1	15	Avengers: Endgame was released on April 26, 2019
+0035	1	3	verified_supporting	0.8728702315243203	Q96389464__00004		9	Avatar was released in 2009
+0035	1	4	verified_supporting	0.935546875	Q23781155__00027	4	6	years apart were the theatrical releases of Avatar and Avengers: Endgame is 10 years
+0041	1	0	verified_supporting	0.98193359375	Q1060986__00016	2	1	voiced Fillmore in Cars 2 is Lloyd Sherr
+0040	1	0	verified_supporting	0.9833984375	Q104905__00004	1	1	In the movie WALL-E, what is the code name for the secret directive received by AUTO, the Axiom's autopilot, which prohibits the return to Earth is Directive A113
+0040	1	1	verified_supporting	0.99267578125	Q104905__00004	1	1	In the movie WALL-E, what is the code name for the secret directive received by AUTO, the Axiom's autopilot, which prohibits the return to Earth is A113
+0038	1	0	verified_supporting	0.9498848342322183	Q357627__00004		6	Monsters, Inc. was the first Pixar film not directed by Lasseter
+0038	1	1	verified_supporting	0.6607608679843482	Q18517638__00007		8	John Lasseter directed the first two Toy Story films
+0038	1	2	verified_supporting	0.97216796875	Q171048__00007	4	4	The answer to 'How many of the first five Pixar feature films were directed by John Lasseter?' is 3
+0043	1	0	bogus	0.982421875	Q39571__00018	1	1	Ghibli movie character made a cameo appearance in Toy Story 3 is Totoro
+0043	1	1	verified_supporting	0.982421875	Q39571__00018	1	1	Ghibli movie character made a cameo appearance in Toy Story 3 is Totoro
+0042	1	0	verified_supporting	0.9494056203397319	Q24988397__00002		2	Miyazaki co-founded Studio Ghibli in 1985
+0042	1	1	verified_supporting	0.9739755686000805	Q24988397__00002		2	Laputa: Castle in the Sky was released in 1986
+0044	1	0	verified_supporting	0.9377171603452573	Q316165__00014			Dimensions of Dialogue won Golden Bear at Berlinale in 1983
+0044	1	1	verified_supporting	0.9562621555072673	Q191753__00001			Cinderella is a 1950 American animated film
+0039	1	0	verified_supporting	0.9716983596085385	Q6605904__00005		3	Toy Story was released in the United States on November 22, 1995
+0039	1	1	verified_supporting	0.7833938318314583	Q18517638__00015	1	7	Toy Story 4 was released in the United States on June 21, 2019
+0039	1	2	verified_supporting	0.9738293166695541	Q171048__00019	3	2	Toy Story soundtrack was released November 22, 1995, the week of the film's release
+0039	1	3	verified_supporting	0.5896619699599879	Q18517638__00015	1	7	Toy Story 4 was released on June 21, 2019 in the United States
+0039	1	4	verified_supporting	0.98046875	Q18517638__00014	1	1	"days passed between the US premiere of ""Toy Story"" and the US premiere of ""Toy Story 4"" is 8612"
+0045	1	0	verified_supporting	0.9654513386951721	Q28154809__00005	8	5	Spirited Away was directed by Hayao Miyazaki in 2001
+0045	1	1	verified_supporting	0.9657014571403386	Q28154809__00005	8	5	Howl's Moving Castle was directed by Hayao Miyazaki in 2004
+0045	1	2	verified_supporting	0.9682119508982026	Q28154809__00005	8	5	Ponyo was directed by Hayao Miyazaki in 2008
+0046	1	0	verified_supporting	0.9511156237435919	Q51963292__00015		6	The Avengers was released May 4, 2012
+0046	1	1	verified_supporting	0.9748711499192685	Q14171368__00001	4	2	Avengers: Age of Ultron was released in 2015
+0046	1	2	verified_supporting	0.9739188653321385	Q23780914__00001	12	3	Avengers: Infinity War was released in 2018
+0046	1	3	verified_supporting	0.9657096532158915	Q23781155__00002	3	4	Avengers: Endgame was released in 2019
+0046	1	4	verified_supporting	0.9651634224764472	Q113281347__00012	13	5	Avengers: Secret Wars is scheduled for December 17, 2027
+0046	1	5	verified_supporting	0.6957672529234348	Q113281347__00008	13	11	Avengers: Doomsday is scheduled for December 18, 2026
+0048	1	0	verified_supporting	0.9665467184224895	Q14650496__00004	1	2	God's Eye is a computer program capable of tracking individuals using digital networks
+0048	1	1	verified_supporting	0.852940862574789	Q1991640__00011	5	8	God's Eye hacking device was in Furious 7
+0051	1	0	verified_supporting	0.8845868111155536	Q284653__00003		2	Murph is the nickname for Murphy Cooper
+0051	1	1	verified_supporting	0.93903051140312	Q13417189__00005	1	1	Cooper realizes he was always Murph's ghost
+0047	1	0	verified_supporting	0.5	Q24705671__00007			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0047	1	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0049	1	0	verified_supporting	0.9705970094026147	Q29466808__00001		1	Justin Lin co-wrote F9 screenplay with Daniel Casey
+0049	1	1	verified_supporting	0.880859375	Q31271369__00009	3	7	The answer to 'How many mainline films of The Fast & the Furious series did Justin Lin work as a screenwriter?' is 1
+0054	1	0	verified_supporting	0.9591616064762355	Q514003__00004		5	Christopher Nolan directed Interstellar
+0054	1	1	verified_supporting	0.9305693713355699	Q514003__00004		5	Christopher Nolan directed Oppenheimer
+0054	1	2	verified_supporting	0.8983527225158727	Q984047__00003		9	The Odyssey is scheduled for 2026
+0050	1	0	verified_supporting	0.5	Q155476__00012			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0050	1	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0052	1	0	verified_supporting	0.9438530749063265	Q6609350__00011		3	Murphy Cooper is a character in Interstellar
+0052	1	1	verified_supporting	0.9495615450379832	Q2926695__00003		2	Joseph Cooper is played by Matthew McConaughey in Interstellar
+0052	1	2	verified_supporting	0.9127182043599278	Q94913__00001		4	Murph is a character in Interstellar
+0053	1	0	verified_supporting	0.5	Q25191__00015			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0053	1	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0056	1	0	verified_supporting	0.956976375076138	327__00036		4	The Rebel command headquarters was established at Echo Base on Hoth
+0060	1	0	verified_supporting	0.9607663215413261	452394__00005	4	13	Solo fell to his death in the bowels of the Starkiller weapon
+0060	1	1	verified_supporting	0.9425920974419764	475265__00016			Han Solo died at Starkiller
+0059	1	0	verified_supporting	0.9551715483526924	78__00001		5	Samuel L. Jackson portrayed Jedi Master Mace Windu in the Star Wars prequel trilogy
+0059	1	1	verified_supporting	0.9327974987549861	Q172678__00015		6	Samuel L. Jackson made cameo appearances as Fury in the Avengers sequels Infinity War and Endgame
+0058	1	0	verified_supporting	0.9269487421925247	569521__00002		1	Chirrut Îmwe spoke the Guardian's Mantra in his final moments
+0058	1	1	verified_supporting	0.9728825138049757	569521__00002		1	The Guardian's Mantra includes I am one with the Force
+0055	1	0	verified_supporting	0.9391446617776512	Q18359358__00010		12	The film was released in Dolby Vision format in Dolby Cinema in North America
+0055	1	1	verified_supporting	0.9784546816563694	Q18547944__00013		2	The Martian is the film released in Dolby Vision format in Dolby Cinema in North America
+0055	1	2	verified_supporting	0.85	Q10307713__00016		3	The Hunger Games: Mockingjay – Part 2 was released in Dolby Vision format in Dolby Cinemas
+0055	1	3	verified_supporting	0.8777111078555857	Q6074__00030		7	The film released in the Dolby Vision format in Dolby Cinema
+0055	1	4	verified_supporting	0.99951171875	Q7820305__00012	1	1	the first film to be released in Dolby Vision format in Dolby Cinema is Tomorrowland
+0063	1	0	verified_supporting	0.9744560286228485	544__00001		2	The AT-AT walker was also known as the Imperial Walker
+0063	1	1	verified_supporting	0.9750721274082637	454368__00001	3	1	The AT-AT was a four-legged combat walker
+0063	1	2	verified_supporting	0.9664957857869939	581124__00002		4	AT-ATs were used during the Battle of Hoth
+0062	1	0	verified_supporting	0.8841908290356217	509001__00036	3	5	Jyn Erso's nickname is Stardust
+0062	1	1	verified_supporting	0.9675816367536216	462213__00001		2	Stardust was codenamed by Galen Erso
+0057	1	0	verified_supporting	0.9042720974104037	453246__00001		6	Ahsoka Tano was discovered on Shili by Jedi Master Plo Koon
+0057	1	1	verified_supporting	0.7403103587331059	453246__00001		6	Plo Koon brought Ahsoka Tano to the Jedi Temple
+0057	1	2	verified_supporting	0.9432215925669888	453246__00270		5	Ahsoka Tano constructed a pair of lightsabers with white blades
+0065	1	0	verified_supporting	0.7489831172851569	Q19590955__00006		2	Donnie Yen played Chirrut Îmwe in Rogue One
+0065	1	1	verified_supporting	0.622419859473934	Q19590955__00006		2	Jiang Wen played Baze Malbus in Rogue One
+0065	1	2	verified_supporting	0.9603872824947816	452340__00022		12	Chirrut was killed after activating the master switch
+0065	1	3	verified_supporting	0.9683942973587213	452340__00022		12	Baze was killed by a grenade
+0061	1	0	verified_supporting	0.9579348548614351	Q23010088__00023	6	5	The film title is Spider-Man: Homecoming
+0061	1	1	verified_supporting	0.9012871384445488	Q27985819__00028	1	17	The film title is Spider-Man: Far From Home
+0061	1	2	verified_supporting	0.8364195532553332	Q68934496__00002	4	12	The film title is Spider-Man: No Way Home
+0061	1	3	verified_supporting	0.8257037714905767	Q55537283__00001		20	The relationship produced Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home
+0061	1	4	verified_supporting	0.932583311377587	Q62604229__00016	9		The film is the culmination of the Homecoming trilogy
+0061	1	5	verified_supporting	0.9673024279258345	Q68934496__00017	4	4	No Way Home continues the naming convention of featuring home in the title
+0061	1	6	verified_supporting	0.9432364659409352	Q27985819__00011	1	7	The sequel would have a subtitle like Homecoming
+0061	1	7	verified_supporting	0.95703125	Q27985819__00002	3	6	The answer to 'In the first three MCU Spider-Man movies, what is the common word in their subtitles?' is Home
+0064	1	0	verified_supporting	0.6497306552061801	Q15854651__00003			Rogue One: A Star Wars Story grossed more than $1 billion worldwide
+0064	1	1	verified_supporting	0.671462369500498	Q27038847__00021	1	1	the film opened to just $65 million internationally
+0064	1	2	verified_supporting	0.8970553014438434	60016__00018			Solo ended up underperforming
+0064	1	3	verified_supporting	0.8227356309915548	60016__00018			Solo was a film's flop
+0002	2	0	verified_supporting	0.9241178819941718	Q4435758__00002		14	Scarlett Johansson stars as Natasha Romanoff / Black Widow
+0001	2	0	verified_supporting	0.9782654288013419	602088__00001		3	Mairan were often used as a form of torture
+0001	2	1	verified_supporting	0.884085320992197	539125__00006		11	Rook had been affected by Bor Gullet
+0004	2	0	verified_supporting	0.6885619520545952	Q334780__00005	1	17	Moonraker's climax takes place in outer space on Drax's space station
+0004	2	1	verified_supporting	0.8895380532311693	Q545216__00003		12	Roger Moore played James Bond in Moonraker
+0006	2	0	verified_supporting	0.80527475529524	Q23781155__00003	1	8	Romanoff is Natasha Romanoff
+0006	2	1	verified_supporting	0.9584094479121651	Q23781155__00004	1	3	Romanoff sacrificed herself to obtain the Soul Stone
+0005	2	0	verified_supporting	0.9307231325937393	Q309289__00009		10	George Lazenby played Bond in On Her Majesty's Secret Service
+0005	2	1	verified_supporting	0.8768476345458496	Q107914__00009		12	George Lazenby departed from the Bond role
+0003	2	0	verified_supporting	0.96484375	Q200572__00010	1	1	"In the movie ""I, Robot"" from 2004, Asimov's laws of robotics are cited. Now, what does his zeroth law say is A robot may not harm humanity or, by inaction, allow humanity to come to harm"
+0007	2	0	verified_supporting	0.99853515625	Q901213__00012	2	1	"""Love, Actually"" features a cover song called ""Christmas is All Around."" What was the original song title is Love Is All Around by The Troggs"
+0008	2	0	verified_supporting	0.8974754443627072	Q94998134__00020		15	Ryan Reynolds portrayed Hal Jordan in Green Lantern (2011)
+0008	2	1	verified_supporting	0.8841457295512519	Q4435782__00002		16	Reynolds reprised his role in the MCU media franchise
+0009	2	0	verified_supporting	0.99462890625	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is The National Gallery
+0010	2	0	verified_supporting	0.85	Q106706__00010		5	Wicked (2024) role is The Wonderful Wizard of Oz
+0010	2	1	verified_supporting	0.9474094212899469	Q126889073__00003		3	Jeff Goldblum is in the ensemble cast
+0011	2	0	verified_supporting	0.90234375	Q1190336__00001		2	In Miyazaki's Spirited Away, what is the name of the old lady who looks exactly like Yubaba is Zeniba
+0012	2	0	bogus	0.99609375	Q901213__00003	1	1	In Four Weddings And A Funeral, who dies of a heart attack at the wedding of Hamish and Carrie is Gareth
+0012	2	1	verified_supporting	0.99609375	Q901213__00003	1	1	In Four Weddings And A Funeral, who dies of a heart attack at the wedding of Hamish and Carrie is Gareth
+0014	2	0	verified_supporting	0.913753571818456	Q188137__00001		10	J.J. Abrams directed The Force Awakens
+0014	2	1	verified_supporting	0.7349935274879116	Q188137__00001		10	J.J. Abrams directed The Rise of Skywalker
+0014	2	2	verified_supporting	0.9518738133528196	Q621818__00001		6	Rian Johnson wrote and directed The Last Jedi
+0018	2	0	verified_supporting	0.9430078680117311	Q46551__00012		16	Christopher Nolan directed Insomnia in 2002
+0018	2	1	verified_supporting	0.9673383558717138	Q46551__00001		5	Christopher Nolan directed The Prestige in 2006
+0018	2	2	verified_supporting	0.9241143542373931	Q372788__00001	15	13	Christopher Nolan directed Memento in 2000
+0018	2	3	verified_supporting	0.7839728709812348	Q6563449__00004		12	Christopher Nolan directed The Dark Knight trilogy including Batman Begins and The Dark Knight
+0018	2	4	verified_supporting	0.9484987681834319	Q777825__00008		8	Christopher Nolan directed Inception
+0015	2	0	verified_supporting	0.9387862526330164	Q311723__00010		4	Donnie Yen played Chirrut Îmwe, a blind warrior, in Rogue One
+0016	2	0	verified_supporting	0.7054199675835725	Q22350811__00007	12	9	Avengers: Infinity War was released on April 27, 2018
+0016	2	1	verified_supporting	0.9384282267610718	Q10859479__00028		4	1917 released in North America on 10 January 2020
+0016	2	2	verified_supporting	0.8915522159755247	Q23780914__00019	3	7	Avengers: Infinity War released April 27, 2018
+0016	2	3	verified_supporting	0.9259230518101895	Q79950361__00003		5	1917 is a 2019 film
+0017	2	0	verified_supporting	0.93603515625	Q15270647__00016	2	2	movie had a higher initial gross, Avatar or Zootopia is Avatar
+0019	2	0	verified_supporting	0.94775390625	Q4784362__00002		4	The answer to 'How many movies did Kazunari Ninomiya act in between 2000 and 2010?' is 5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Ch
+0022	2	0	verified_supporting	0.8075022685147375	Q1139614__00037		2	Katharine Hepburn won 4 Academy Awards for Best Actress
+0022	2	1	verified_supporting	0.9665591740314222	Q51495__00014		1	Audrey Hepburn won an Academy Award for Best Actress for Roman Holiday
+0020	2	0	verified_supporting	0.9655003400495679	Q1375887__00004	10	1	"Leelee Sobieski played Samantha ""Sam"" Cavanaugh"
+0020	2	1	verified_supporting	0.9480242274691623	Q1346982__00006	16	5	Leelee Sobieski played Ruby Baker
+0020	2	2	verified_supporting	0.951709488712574	Q831476__00005	12	4	"Leelee Sobieski played Jennifer ""J"" Wilson"
+0020	2	3	verified_supporting	0.9530696874768954	Q26970__00005	15	3	Leelee Sobieski played Venna Wilcox
+0020	2	4	verified_supporting	0.9245752437418041	Q235870__00012		8	Leelee Sobieski appeared in Lying (2006)
+0020	2	5	verified_supporting	0.9325849152659514	Q1351818__00002	11	7	Leelee Sobieski portrayed a young white woman
+0020	2	6	verified_supporting	0.9368007934431506	Q166031__00006		6	Leelee Sobieski played Muriella
+0020	2	7	verified_supporting	0.9538162062178438	Q1249597__00004	19	2	Leelee Sobieski played Chloe
+0024	2	0	verified_supporting	0.9656901390294766	Q194318__00002	4	8	Dead Man's Chest was released in 2006
+0024	2	1	verified_supporting	0.8810662699450595	Q194318__00002	4	8	At World's End was released in 2007
+0024	2	2	verified_supporting	0.9721213771925868	Q202857__00015		6	The Curse of the Black Pearl was released in 2003
+0024	2	3	verified_supporting	0.99951171875	Q217037__00010	1	1	The answer to 'How many films in the Pirates of the Caribbean series were released between 2000 and 2010?' is 3
+0021	2	0	verified_supporting	0.5	Q6968119__00001			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0021	2	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0029	2	0	verified_supporting	0.5	Q2383592__00004			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0029	2	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0030	2	0	verified_supporting	0.9342215099148571	Q221168__00006		4	Ian McKellen played Erik Lehnsherr / Magneto
+0030	2	1	verified_supporting	0.9514241727061107	Q164963__00006		2	Ian McKellen played Gandalf the White
+0026	2	0	verified_supporting	0.99951171875	Q185140__00007	4	10	In Gladiator (2000), who plays the Roman emperor Commodus is Joaquin Phoenix
+0023	2	0	verified_supporting	0.9814453125	Q43247__00050	4	1	won the Academy Award for Best Actress more times, Grace Kelly or Ingrid Bergman is Ingrid Bergman
+0028	2	0	verified_supporting	0.8826948474698266	Q3253306__00002		4	Dory is a Pacific regal blue tang
+0028	2	1	verified_supporting	0.99609375	Q9321426__00023	3	1	In Finding Nemo (2003), what kind of fish is Dory is Pacific regal blue tang
+0031	2	0	verified_supporting	0.8073654415437002	Q767819__00004		6	Humphrey Bogart played Rick Blaine in Casablanca
+0025	2	0	verified_supporting	0.5	Q485303__00001			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0025	2	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0027	2	0	verified_supporting	0.99853515625	Q133654__00019	2	2	In The Silence of the Lambs (1991), what food is Hannibal Lecter famously associated with when he describes eating a census taker is liver with some fava beans and a nice Chianti
+0037	2	0	bogus	0.99853515625	Q6902878__00001	1	1	the slogan of Monsters, Inc. in the movie is We scare because we care
+0037	2	1	verified_supporting	0.99853515625	Q6902878__00001	1	1	the slogan of Monsters, Inc. in the movie is We scare because we care
+0033	2	0	verified_supporting	0.81117567476252	Q104814__00019		4	Bill Paxton is referred to as Paxton in this passage
+0034	2	0	bogus	0.9794921875	Q305561__00001	1	1	The answer to 'In the Harry Potter series, how many total players are on the field at the start of a Quidditch match?' is 26
+0034	2	1	verified_supporting	0.9794921875	Q305561__00001	1	1	The answer to 'In the Harry Potter series, how many total players are on the field at the start of a Quidditch match?' is 26
+0036	2	0	verified_supporting	0.5	Q2235021__00001	1	1	[auto-synthesised] Lotso
+0036	2	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0032	2	0	verified_supporting	0.9699060657104354	Q134867__00001	7	2	Slumdog Millionaire won eight Academy Awards
+0032	2	1	verified_supporting	0.8084397808668421	Q390018__00007			Slumdog Millionaire won eight Oscars at the 2009 Academy Awards
+0032	2	2	verified_supporting	0.9317189709308644	Q112243__00015			A. R. Rahman and Gulzar won Academy Award for Best Original Song for Jai Ho
+0032	2	3	verified_supporting	0.99560546875	Q430100__00001	1	1	The answer to 'How many Academy Awards did Slumdog Millionaire (2008) win?' is eight
+0035	2	0	verified_supporting	0.963520021719482	Q42574__00034		5	Avatar was released in 2009
+0035	2	1	verified_supporting	0.9679602694495214	Q367466__00002		4	Avengers: Endgame was released in 2019
+0035	2	2	verified_supporting	0.7833076284949413	Q6619889__00062		13	Avatar (2009) and Avengers: Endgame (2019) release years
+0035	2	3	verified_supporting	0.95751953125	Q23781155__00027	4	6	years apart were the theatrical releases of Avatar and Avengers: Endgame is 10
+0041	2	0	verified_supporting	0.98193359375	Q1060986__00016	2	1	voiced Fillmore in Cars 2 is Lloyd Sherr
+0040	2	0	verified_supporting	0.9833984375	Q104905__00004	1	1	In the movie WALL-E, what is the code name for the secret directive received by AUTO, the Axiom's autopilot, which prohibits the return to Earth is Directive A113
+0043	2	0	verified_supporting	0.982421875	Q39571__00018	1	1	Ghibli movie character made a cameo appearance in Toy Story 3 is Totoro
+0044	2	0	verified_supporting	0.6980517292188065	Q753338__00004		4	Spirited Away listed as Golden Bear winner Berlin Film Festival
+0044	2	1	verified_supporting	0.9713478084326699	Q182950__00001		2	Studio Ghibli won one Golden Bear award
+0042	2	0	verified_supporting	0.9350326605680607	Q178713__00001		4	Takahata, Miyazaki and others formed Studio Ghibli in 1985
+0042	2	1	verified_supporting	0.8958940009983267	Q3133373__00003		5	Castle in the Sky was released in 1986
+0038	2	0	verified_supporting	0.9594082248076379	Q374093__00005		5	John Lasseter directed or executive-produced each of the first 20 Pixar films
+0038	2	1	verified_supporting	0.8536718590852068	Q192212__00009		9	John Lasseter was director of Pixar films including Toy Story 2
+0046	2	0	verified_supporting	0.6312387134756504	Q182218__00030	8		The Avengers was released on May 4, 2012
+0046	2	1	verified_supporting	0.5912039510555133	Q14171368__00039	4	12	Avengers: Age of Ultron was released on May 1, 2015
+0046	2	2	verified_supporting	0.7156089880943348	Q51963836__00015	6	15	Avengers: Infinity War premiered on April 23, 2018
+0046	2	3	verified_supporting	0.9401018112661413	Q18921635__00003		8	Avengers: Endgame was released on April 26, 2019
+0046	2	4	verified_supporting	0.9065902879475648	Q133779833__00015	11	18	Doomsday was delayed to December 18, 2026
+0045	2	0	verified_supporting	0.85	Q236728__00001		17	Ponyo is a 2008 Japanese animated fantasy film written and directed by Hayao Miyazaki
+0045	2	1	verified_supporting	0.9759156787027126	Q888131__00001		2	The Wind Rises is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki
+0045	2	2	verified_supporting	0.6403991379698095	Q888131__00001		2	The Wind Rises was produced by Studio Ghibli
+0045	2	3	verified_supporting	0.9768400524133366	Q47482560__00001		1	The Boy and the Heron is a 2023 Japanese animated fantasy film written and directed by Hayao Miyazaki
+0045	2	4	verified_supporting	0.96803562583441	Q55400__00053	2	6	This filmography list is Hayao Miyazaki's selected films
+0048	2	0	verified_supporting	0.9415011180282006	Q19803416__00014	17	6	God's Eye is a device that can locate anyone on Earth
+0048	2	1	verified_supporting	0.5927695167589933	Q14650496__00005	1	13	Ramsey controls God's Eye
+0048	2	2	verified_supporting	0.9623016803312802	Q19829521__00004		3	God's Eye is a mass surveillance computer program created by Ramsey
+0048	2	3	verified_supporting	0.9526250259027736	Q2714923__00035	2	4	In Furious 7, Roman helps rescue a hacker named Ramsey
+0051	2	0	verified_supporting	0.8720703125	Q13417189__00006	2	3	In Interstellar, what is the full name of Joseph Cooper's daughter is Murphy Cooper
+0054	2	0	verified_supporting	0.9176911272430779	Q57966510__00004		8	Christopher Nolan directed Interstellar
+0054	2	1	verified_supporting	0.8067954311842473	Q108839994__00044	3	10	Nolan directed Oppenheimer
+0054	2	2	verified_supporting	0.9728835893724447	Q108839994__00022	3	2	Oppenheimer was released in 2023
+0054	2	3	verified_supporting	0.9263919933896557	Q25191__00027	1	7	The Odyssey is scheduled for 2026
+0047	2	0	verified_supporting	0.5	Q4373862__00002			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0047	2	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0056	2	0	verified_supporting	0.9441692557364485	Q181795__00003		5	The Rebel Alliance base was on the ice planet Hoth
+0052	2	0	verified_supporting	0.966796875	Q13417189__00006	1	1	In Interstellar, what is the nick name of Joseph Cooper's daughter is Murph
+0049	2	0	verified_supporting	0.8357344077987111	Q551876__00017	7	12	F9 Writer: {{yes}}
+0049	2	1	verified_supporting	0.9022922728945125	Q551876__00017	7	12	Fast X Writer: {{yes}}
+0050	2	0	verified_supporting	0.5	Q283799__00001			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0050	2	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0060	2	0	verified_supporting	0.8567996318994493	472920__00067		4	Han Solo fell to his death in the bowels of the oscillator
+0060	2	1	verified_supporting	0.9800898577147613	506048__00001		1	Starkiller Base was built on the ice planet Ilum
+0053	2	0	verified_supporting	0.5	Q229313__00012			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0053	2	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0058	2	0	verified_supporting	0.9185892853637563	675033__00002		4	Chirrut Îmwe's mantra is The Force is with me and I am one with the Force
+0058	2	1	verified_supporting	0.9302861397986334	539115__00035	2	3	Îmwe was repeating his mantra as he approached the console
+0059	2	0	bogus	0.9740658648652779	Q172678__00002		3	Samuel L. Jackson gained widespread recognition as the Jedi Mace Windu in the Star Wars prequel trilogy (1999-2005)
+0059	2	1	verified_supporting	0.9690286138520755	Q172678__00002		3	Samuel L. Jackson played Nick Fury in 11 Marvel Cinematic Universe films
+0059	2	2	verified_supporting	0.8603955259106983	Q51725__00003		8	Mace Windu was portrayed by Jackson in all three prequel films
+0063	2	0	verified_supporting	0.9670768503647557	581124__00008		3	AT-ATs were used to attack Echo Base during the Battle of Hoth
+0063	2	1	verified_supporting	0.9444219470688066	717347__00002		6	AT-AT walkers marched on Hoth
+0063	2	2	verified_supporting	0.9469453878478353	717347__00002		6	AT-AT walkers were ordered to attack the rebel base
+0062	2	0	verified_supporting	0.9622370959428472	452340__00003			Jyn Erso used the alias Liana Halik
+0055	2	0	verified_supporting	0.99951171875	Q7820305__00012	1	1	the first film to be released in Dolby Vision format in Dolby Cinema is Tomorrowland
+0057	2	0	verified_supporting	0.8895585502207318	483523__00006	2	7	Ahsoka Tano has two white lightsabers
+0057	2	1	verified_supporting	0.9573800958739743	1249__00005	3	1	Plo Koon found Ahsoka Tano on Shili and brought her to the Temple
+0039	2	0	verified_supporting	0.5	Q187726__00015			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0039	2	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0013	2	0	verified_supporting	0.9220210240159746	Q109331__00009	3	4	Fox played Marlene
+0013	2	1	verified_supporting	0.6636139037486187	Q109331__00020	3	7	Michael J. Fox dressed in drag
+0061	2	0	verified_supporting	0.9674552281546399	Q26268915__00002		2	Spider-Man: Homecoming was released in 2017
+0061	2	1	verified_supporting	0.9699643693432427	Q26268915__00002		2	Spider-Man: Far From Home was released in 2019
+0061	2	2	verified_supporting	0.9389105269354198	Q26268915__00002		2	Spider-Man: No Way Home was released in 2021
+0065	2	0	verified_supporting	0.9512784955746337	Q19590955__00002		2	Rogue One grossed $1 billion worldwide
+0065	2	1	verified_supporting	0.8710143092823392	577827__00013			Donnie Yen played Chirrut Îmwe in Rogue One
+0065	2	2	verified_supporting	0.675653057436038	653923__00005			Îmwe was killed by Krennic's squadron trooper
+0064	2	0	verified_supporting	0.9566083490857074	Q21527419__00043	7	7	A New Hope released May 25, 1977
+0002	3	0	verified_supporting	0.8564162195451275	Q205028__00008		15	Scarlett Johansson is referred to as Johansson in this passage
+0002	3	1	verified_supporting	0.9670036167535146	Q182218__00010	5	2	Scarlett Johansson played Natasha Romanoff / Black Widow
+0006	3	0	verified_supporting	0.8954746806568419	Q24026688__00001		5	Natasha Romanoff sacrificed herself to obtain the Soul Stone
+0006	3	1	verified_supporting	0.8822854626758837	Q23895063__00023	2	6	Romanoff's death was grieved by Barton and others
+0004	3	0	verified_supporting	0.5	Q2734422__00007			[auto-synthesised] Roger Moore played James Bond in Moonraker (1979), the James Bond film in which the climax takes place in outer space.
+0004	3	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0001	3	0	verified_supporting	0.99169921875	335592__00002		2	did Saw Gerrera use as a torturing device in a Star Wars spinoff movie from 2016 is A carbon-freezing chamber
+0001	3	1	verified_supporting	0.99609375	557172__00002	1	1	did Saw Gerrera use as a torturing device in a Star Wars spinoff movie from 2016 is Bor Gullet
+0005	3	0	verified_supporting	0.952532673731332	Q42308506__00004		6	George Lazenby portrayed James Bond in On Her Majesty's Secret Service
+0005	3	1	verified_supporting	0.9316619631369778	Q232876__00006		9	On Her Majesty's Secret Service (1969) featured George Lazenby
+0005	3	2	verified_supporting	0.9003204884457621	Q6129980__00002	4	15	George Lazenby portrayed James Bond in film
+0005	3	3	verified_supporting	0.9386871460875644	Q205599__00007	2	8	Lazenby said he would not do it again
+0005	3	4	verified_supporting	0.8560877948380503	Q42308506__00004		6	George Lazenby is known internationally for portraying James Bond in On Her Majesty's Secret Service
+0005	3	5	verified_supporting	0.99951171875	Q205599__00001	2	1	The answer to 'Actor George Lazenby played James Bond in how many movies?' is 1
+0008	3	0	verified_supporting	0.9666446006629357	Q978649__00007		3	Ryan Reynolds starred as Green Lantern in the DC Comics film Green Lantern
+0008	3	1	verified_supporting	0.9631125728289017	Q19347291__00005	9	4	Ryan Reynolds plays Wade Wilson/Deadpool
+0008	3	2	verified_supporting	0.9211468097618697	Q133779833__00012		17	Deadpool & Wolverine stars Ryan Reynolds as Wade Wilson/Deadpool in the MCU
+0007	3	0	verified_supporting	0.99853515625	Q901213__00012	2	1	"""Love, Actually"" features a cover song called ""Christmas is All Around."" What was the original song title is Love Is All Around by The Troggs"
+0009	3	0	verified_supporting	0.99462890625	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is The National Gallery
+0010	3	0	verified_supporting	0.9921875	Q24797403__00006	1	1	plays the Wizard of Oz in Wicked the movie is Jeff Goldblum
+0011	3	0	verified_supporting	0.5	Q155653__00015	1	1	[auto-synthesised] Zeniba
+0011	3	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0014	3	0	verified_supporting	0.980541073263556	Q6074__00001		2	The Force Awakens was directed by J.J. Abrams
+0014	3	1	verified_supporting	0.9376501079382986	Q621818__00005		8	Rian Johnson would write and direct the eighth installment in the Star Wars film series
+0014	3	2	verified_supporting	0.6857065056824176	622453__00002		11	J.J. Abrams returns to direct The Rise of Skywalker
+0024	3	0	verified_supporting	0.9735059900218938	Q1764242__00001		5	The Curse of the Black Pearl was released in 2003
+0024	3	1	verified_supporting	0.9662057220928423	Q1764242__00001		5	Dead Man's Chest was released in 2006
+0024	3	2	verified_supporting	0.9693449206862885	Q1764242__00001		5	At World's End was released in 2007
+0013	3	0	verified_supporting	0.93359375	Q116272399__00001		2	In Back To The Future Part Two, who plays Marlene McFly is Michael J. Fox
+0028	3	0	verified_supporting	0.95947265625	Q132863__00001	1	2	In Finding Nemo (2003), what kind of fish is Dory is Blue tang
+0028	3	1	verified_supporting	0.99609375	Q9321426__00023	3	1	In Finding Nemo (2003), what kind of fish is Dory is Pacific regal blue tang
+0031	3	0	verified_supporting	0.948399764797689	Q3521139__00014		3	Rick Blaine is a character from Casablanca
+0031	3	1	verified_supporting	0.8781928912557151	Q3521139__00014		3	Humphrey Bogart played Rick Blaine
+0015	3	0	verified_supporting	0.8873885361011847	539115__00001		6	Chirrut Îmwe is a blind human male character
+0015	3	1	verified_supporting	0.8933453486778863	577827__00013		5	Donnie Yen plays Chirrut Îmwe in Rogue One
+0018	3	0	verified_supporting	0.7058255912142967	Q242951__00001		14	Emma Thomas produced all feature films directed by Christopher Nolan
+0018	3	1	verified_supporting	0.9400641283752399	Q1811998__00001		9	Christopher Nolan directed Batman Begins in 2005
+0018	3	2	verified_supporting	0.938876576506916	Q1811998__00001		9	Christopher Nolan directed The Prestige in 2006
+0018	3	3	verified_supporting	0.9475169543845701	Q1811998__00001		9	Christopher Nolan directed The Dark Knight in 2008
+0018	3	4	verified_supporting	0.9757626866730332	Q185867__00033		1	Christopher Nolan directed Memento in 2000
+0018	3	5	verified_supporting	0.9659313251129366	Q185867__00033		1	Christopher Nolan directed Insomnia in 2002
+0018	3	6	verified_supporting	0.9262167872671266	Q1811998__00001		9	Christopher Nolan directed Inception in 2010
+0030	3	0	bogus	0.6066720207492817	Q4207298__00003		12	Ian McKellen played Gandalf in The Lord of the Rings trilogy
+0030	3	1	verified_supporting	0.971233510501499	Q80379__00006		1	Ian McKellen portrayed Gandalf in The Lord of the Rings film trilogy
+0030	3	2	verified_supporting	0.6960975733879486	Q4435782__00001		6	Ian McKellen played Erik Lehnsherr / Magneto in X-Men films
+0032	3	0	verified_supporting	0.9430859036958892	Q4766110__00002		3	Slumdog Millionaire won eight Academy Awards
+0026	3	0	verified_supporting	0.8177465910956384	Q56005__00032		4	Joaquin Phoenix ; Film: Gladiator ; Result: {{nom}}
+0029	3	0	verified_supporting	0.5	Q104553056__00003			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0029	3	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0040	3	0	verified_supporting	0.9833984375	Q104905__00004	1	1	In the movie WALL-E, what is the code name for the secret directive received by AUTO, the Axiom's autopilot, which prohibits the return to Earth is Directive A113
+0042	3	0	verified_supporting	0.99853515625	Q498577__00001	1	1	the first movie produced by Studio Ghibli is Castle in the Sky
+0036	3	0	verified_supporting	0.5	Q2235021__00039	1	5	[auto-synthesised] Lotso
+0036	3	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0045	3	0	verified_supporting	0.9648745759392242	Q155653__00017		7	Spirited Away was released in Japan on July 20, 2001
+0045	3	1	verified_supporting	0.973605966029438	Q498577__00023		3	Howl's Moving Castle was released in 2004
+0045	3	2	verified_supporting	0.956497264218932	Q236728__00009		8	Ponyo was released in 2008
+0045	3	3	verified_supporting	0.9730985266333524	Q888131__00008		4	The Wind Rises was released on July 20, 2013
+0045	3	4	verified_supporting	0.85	Q47482560__00016		9	The Boy and the Heron released July 14 2023
+0044	3	0	verified_supporting	0.97607421875	Q55400__00032	2	1	the first animated movie to win the Golden Bear (Goldener Bär) is Spirited Away
+0046	3	0	verified_supporting	0.7870242938495151	Q55619363__00008	18	13	The Avengers series has four films
+0046	3	1	verified_supporting	0.859184389218838	Q6619889__00062		7	The Avengers (2012) is an Avengers film
+0046	3	2	verified_supporting	0.938209197320468	Q6619889__00062		7	Avengers: Age of Ultron (2015) is an Avengers film
+0046	3	3	verified_supporting	0.9425671023948514	Q6619889__00062		7	Avengers: Infinity War (2018) is an Avengers film
+0046	3	4	verified_supporting	0.9403715354241772	Q6619889__00062		7	Avengers: Endgame (2019) is an Avengers film
+0046	3	5	verified_supporting	0.8529502227489507	Q105105219__00026		9	Avengers: Doomsday is scheduled for 2026
+0046	3	6	verified_supporting	0.9382010005038612	Q105105219__00026		9	Avengers: Secret Wars is scheduled for 2027
+0056	3	0	verified_supporting	0.9714801344139994	35737__00003		2	Echo Base was located on the planet Hoth
+0054	3	0	verified_supporting	0.9552384908933225	Q1811998__00004		6	Christopher Nolan directed Interstellar
+0054	3	1	verified_supporting	0.6403283128885175	Q6570069__00011		11	Christopher Nolan directed Oppenheimer in 2023
+0038	3	0	verified_supporting	0.5	Q269214__00022	20	19	[auto-synthesised] 3
+0038	3	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0063	3	0	verified_supporting	0.8713210114303962	544__00002		7	AT-AT walker was a behemoth war machine standing 22.5 meters tall
+0063	3	1	verified_supporting	0.9522178291812957	544__00010		5	AT-AT machines are referred to as Imperial walkers in the films
+0063	3	2	verified_supporting	0.9487643914913708	544__00010		5	AT-ATs were used in The Empire Strikes Back
+0057	3	0	verified_supporting	0.8770447934509225	140058__00017		9	Plo Koon brought Ahsoka Tano to the Jedi Temple
+0057	3	1	verified_supporting	0.8872896236259187	471861__00016		8	Ahsoka Tano wields white lightsabers
+0057	3	2	verified_supporting	0.953931230054118	562888__00002		2	Master Plo Koon would take Tano back to the Jedi Temple
+0060	3	0	verified_supporting	0.9741218122824872	472571__00002		2	Han Solo died at Ilum
+0060	3	1	verified_supporting	0.9662112878518614	374695__00053		3	Han Solo died at Starkiller at the hands of Kylo Ren
+0062	3	0	verified_supporting	0.9052734375	509001__00001	3	4	In Rogue One, what is Jyn Erso's nickname is Stardust
+0052	3	0	verified_supporting	0.966796875	Q13417189__00006	1	1	In Interstellar, what is the nick name of Joseph Cooper's daughter is Murph
+0059	3	0	verified_supporting	0.9223429214455422	Q165713__00017		7	Samuel L. Jackson was cast to play Mace Windu in Star Wars
+0059	3	1	verified_supporting	0.97067915945302	452970__00001		1	Mace Windu is a Jedi Master
+0059	3	2	verified_supporting	0.9553420930606863	Q16199610__00016		4	Samuel L. Jackson played Nick Fury in Avengers: Endgame
+0058	3	0	verified_supporting	0.8585318557313785	452340__00009		5	"Chirrut Îmwe repeated the mantra ""I am one with the Force and the Force is with me"""
+0058	3	1	verified_supporting	0.6783729231427276	539115__00015	2	2	Chirrut Îmwe is referred to as Îmwe in this passage
+0058	3	2	verified_supporting	0.9437644008388664	539115__00015	2	2	Îmwe repeated the Guardian's Mantra to himself
+0051	3	0	verified_supporting	0.5	Q242951__00006			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0051	3	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0023	3	0	verified_supporting	0.8572137575983333	Q18151712__00015	20	8	Ingrid Bergman Wins: 3
+0023	3	1	verified_supporting	0.9584800589060432	Q734944__00009		5	Kelly won Best Actress
+0048	3	0	verified_supporting	0.5	Q213208__00001			[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0048	3	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0065	3	0	verified_supporting	0.9640109459463618	Q19590955__00022		2	Rogue One grossed $1.059 billion worldwide
+0065	3	1	verified_supporting	0.9152820300480659	Q21973843__00005		1	Rogue One: A Star Wars Story featured Donnie Yen in its cast
+0065	3	2	verified_supporting	0.9655388994890063	Q21973843__00005		1	Rogue One: A Star Wars Story featured Jiang Wen in its cast
+0065	3	3	verified_supporting	0.833202795539869	472997__00004		4	Death Star blast killed all forces at Scarif
+0065	3	4	verified_supporting	0.8860074900752781	Q51800__00006		3	Tarkin ordered Death Star to destroy Scarif base
+0002	4	0	verified_supporting	0.85	Q34436__00019	4	16	Scarlett Johansson played Black Widow in the MCU
+0002	4	1	verified_supporting	0.85	Q51963292__00010		11	Scarlett Johansson was cast as Natasha Romanoff / Black Widow
+0006	4	0	verified_supporting	0.98974609375	Q23781155__00009	1	1	In Avengers: Endgame, the Scarlett Johansson character died to obtain which inifinity stone is Soul Stone
+0001	4	0	verified_supporting	0.9671944904849472	556271__00001		6	Derek Arnold portrayed Bor Gullet in Rogue One: A Star Wars Story
+0001	4	1	verified_supporting	0.8408444361255061	452340__00010		10	Bor Gullet's effects on Bodhi are clear
+0001	4	2	verified_supporting	0.9693397626114711	598960__00006		4	The creature can delete or distort past memories
+0004	4	0	verified_supporting	0.9360905437308137	Q753322__00002		8	Moonraker is the 11th film in the James Bond franchise
+0004	4	1	verified_supporting	0.9538061962638766	Q320423__00001		5	The Spy Who Loved Me was followed by Moonraker in 1979
+0004	4	2	verified_supporting	0.8158820535976904	Q5806741__00003			Moonraker (James Bond)
+0004	4	3	verified_supporting	0.9794921875	Q320423__00005		1	played James Bond in the movie in which the climax take place in outer space is Roger Moore
+0005	4	0	verified_supporting	0.8164839471453577	Q4547__00011		13	George Lazenby previously played Bond
+0008	4	0	verified_supporting	0.9622930042766498	Q1376074__00009		5	Ryan Reynolds starred in the 2011 Green Lantern film
+0008	4	1	verified_supporting	0.9682574146785629	Q19561563__00003		2	Ryan Reynolds starred as Deadpool in the Deadpool film
+0008	4	2	verified_supporting	0.6079019077623286	Q19347291__00036	9	11	Ryan Reynolds plays Deadpool in the Marvel Cinematic Universe
+0009	4	0	verified_supporting	0.99462890625	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is The National Gallery
+0009	4	1	verified_supporting	0.9951171875	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is National Gallery
+0010	4	0	verified_supporting	0.9921875	Q24797403__00006	1	1	plays the Wizard of Oz in Wicked the movie is Jeff Goldblum
+0002	5	0	verified_supporting	0.9315433757724902	Q182218__00019	5	8	Scarlett Johansson portrayed Natasha Romanoff
+0002	5	1	verified_supporting	0.5977570942362355	Q23894626__00002	2	20	Black Widow film expands on Romanoff's history
+0006	5	0	verified_supporting	0.9418671780243557	Q24046102__00011		4	Romanoff sacrificed herself to obtain the Soul Stone
+0001	5	0	verified_supporting	0.6620365764197669	536588__00042		12	Bodhi Rook was interrogated by Bor Gullet, leaving him incoherent and unable to communicate
+0001	5	1	verified_supporting	0.5571789514624358	620033__00001		14	Bor Gullet was a character/creature portrayed by Tom Wilton in Rogue One: A Star Wars Story (2016)
+0004	5	0	verified_supporting	0.901384563710251	Q151472__00001		15	Roger Moore played James Bond
+0004	5	1	verified_supporting	0.7515041529455948	Q238327__00003		11	Roger Moore appeared in Moonraker 1979
+0005	5	0	verified_supporting	0.99951171875	Q205599__00001	2	1	The answer to 'Actor George Lazenby played James Bond in how many movies?' is 1
+0008	5	0	verified_supporting	0.8601506086802071	Q38685497__00013		12	Ryan Reynolds worked on the 2011 Green Lantern film
+0008	5	1	verified_supporting	0.9722400868224237	Q113485245__00004	2	1	Green Lantern stars Ryan Reynolds
+0008	5	2	verified_supporting	0.9614112142840541	Q224130__00016		6	Deadpool & Wolverine is an MCU film
+0009	5	0	verified_supporting	0.99462890625	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is The National Gallery
+0002	6	0	verified_supporting	0.8849847670666895	Q1765358__00006		12	Scarlett Johansson plays Natasha Romanoff / Black Widow in the MCU
+0002	6	1	verified_supporting	0.9594602445283978	Q14171368__00008		3	Scarlett Johansson portrays Natasha Romanoff / Black Widow as an Avenger
+0006	6	0	verified_supporting	0.98974609375	Q23781155__00009	1	1	In Avengers: Endgame, the Scarlett Johansson character died to obtain which inifinity stone is Soul Stone
+0001	6	0	verified_supporting	0.9667913458760568	660438__00001		7	Sonic torture devices were found on IT-O Interrogator droids
+0001	6	1	verified_supporting	0.99609375	557172__00002	1	1	did Saw Gerrera use as a torturing device in a Star Wars spinoff movie from 2016 is Bor Gullet
+0005	6	0	verified_supporting	0.6785134370370323	Q7764057__00006		3	Lazenby's Bond film On Her Majesty's Secret Service grossed $87,400,000
+0005	6	1	verified_supporting	0.9729234001924393	Q7764057__00006		3	On Her Majesty's Secret Service is a Bond film
+0004	6	0	verified_supporting	0.5	Q111074__00014		14	[auto-synthesised] Roger Moore
+0004	6	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0008	6	0	verified_supporting	0.836137821247289	Q1077542__00006		13	Ryan Reynolds played Hal Jordan / Green Lantern
+0008	6	1	verified_supporting	0.9400655925938854	Q1631090__00044	7	8	Ryan Reynolds portrays Deadpool in the MCU
+0009	6	0	verified_supporting	0.9951171875	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is National Gallery
+0002	7	0	verified_supporting	0.8194554408145243	Q275120__00034		17	Scarlett Johansson plays Natasha Romanoff / Black Widow
+0002	7	1	verified_supporting	0.9314079968803917	Q18407657__00025		9	Scarlett Johansson returns as Natasha Romanoff / Black Widow
+0006	7	0	bogus	0.98974609375	Q23781155__00009	1	1	In Avengers: Endgame, the Scarlett Johansson character died to obtain which inifinity stone is Soul Stone
+0006	7	1	verified_supporting	0.98974609375	Q23781155__00009	1	1	In Avengers: Endgame, the Scarlett Johansson character died to obtain which inifinity stone is Soul Stone
+0001	7	0	verified_supporting	0.99609375	557172__00002	1	1	did Saw Gerrera use as a torturing device in a Star Wars spinoff movie from 2016 is Bor Gullet
+0004	7	0	verified_supporting	0.9739459282513634	Q238327__00001		3	Moonraker is a James Bond film from 1979
+0004	7	1	verified_supporting	0.9260593695539782	Q2331347__00033		9	The space station is destroyed by Bond
+0004	7	2	verified_supporting	0.9532221592764536	Q1016043__00051		6	Roger Moore starred in Moonraker
+0005	7	0	verified_supporting	0.9775373774702025	Q6179294__00003		2	On Her Majesty's Secret Service (1969) is a James Bond film
+0008	7	0	verified_supporting	0.5	Q903885__00015	1	9	[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0008	7	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0009	7	0	verified_supporting	0.99462890625	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is The National Gallery
+0002	8	0	verified_supporting	0.932138211930002	Q191719__00008		7	Scarlett Johansson was cast as Natasha Romanoff / Black Widow
+0002	8	1	verified_supporting	0.9566031729357206	Q192724__00032		4	Scarlett Johansson played S.H.I.E.L.D. agent Natasha Romanoff
+0004	8	0	verified_supporting	0.9794921875	Q320423__00005		1	played James Bond in the movie in which the climax take place in outer space is Roger Moore
+0008	8	0	verified_supporting	0.5	Q978649__00016		3	[auto-synthesised] The corpus does not support an answer to this question; insufficient evidence to respond.
+0008	8	1	refusal	1.0	__refusal__			No passage in the retrieved corpus supports an answer to this question.
+0009	8	0	verified_supporting	0.99462890625	Q752103__00001	1	1	In Bean the movie, Mr Bean works for which gallery is The National Gallery
+0002	9	0	verified_supporting	0.8592111726932588	Q6609350__00039		13	Scarlett Johansson played Natasha Romanoff in Black Widow (2021)
+0002	9	1	verified_supporting	0.6952535799136408	Q105038067__00007		18	Scarlett Johansson is the actor who plays Natasha Romanoff in the MCU
+0004	9	0	verified_supporting	0.876890158205148	Q332368__00017			Moonraker is a James Bond film featuring the villain Jaws
+0004	9	1	verified_supporting	0.9794921875	Q320423__00005		1	played James Bond in the movie in which the climax take place in outer space is Roger Moore

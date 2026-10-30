@@ -1,0 +1,52 @@
+{
+  "_comment": "GPU pool config for the orchestrator. Each top-level key is '<cluster>/<gpu_type>'. The orchestrator reads this at import time; max_concurrency is overridden at runtime by src/r2c2_agent/slurm/gpu_calibration.json once the pool has been calibrated against the live workload. Add or remove pools by editing this file — no Python edits required.",
+
+  "baobab/a100_80": {
+    "comment": "4× A100 80GB PCIe = 320GB total. Production teacher pool.",
+    "gres": "gpu:nvidia_a100_80gb_pcie:4",
+    "constraint": "nvidia_a100_80gb_pcie",
+    "cpus": 16,
+    "mem": "192G",
+    "min_count": 1,
+    "job_name": "t2-a100-orch",
+    "max_model_len": 131072,
+    "max_concurrency": 1
+  },
+
+  "baobab/h100": {
+    "comment": "2× H100 NVL 94GB = 188GB total.",
+    "gres": "gpu:nvidia_h100_nvl:2",
+    "constraint": "nvidia_h100_nvl",
+    "cpus": 8,
+    "mem": "96G",
+    "min_count": 1,
+    "job_name": "t2-h100-orch",
+    "max_model_len": 131072,
+    "max_concurrency": 1
+  },
+
+  "bamboo/bw6k": {
+    "comment": "2× RTX PRO 6000 Blackwell 48GB = 96GB. 16 CPUs + 128G matches h200 ratio so DeBERTa/MiniCheck CPU services don't starve.",
+    "gres": "gpu:nvidia_rtx_pro_6000_blackwell:2",
+    "constraint": "",
+    "exclude": "gpu008",
+    "cpus": 16,
+    "mem": "128G",
+    "min_count": 4,
+    "job_name": "t2-bw6k-orch",
+    "max_model_len": 131072,
+    "max_concurrency": 3
+  },
+
+  "bamboo/h200": {
+    "comment": "2× H200 NVL 141GB = 282GB.",
+    "gres": "gpu:nvidia_h200_nvl:2",
+    "constraint": "",
+    "cpus": 16,
+    "mem": "128G",
+    "min_count": 2,
+    "job_name": "t2-h200-orch",
+    "max_model_len": 131072,
+    "max_concurrency": 1
+  }
+}

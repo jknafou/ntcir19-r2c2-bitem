@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+secrets/
+
+# IDE
+.idea/
+.vscode/
+.ropeproject/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checking
+.pyright/
+
+# All data is generated or downloaded by the user — never tracked.
+# See README.md for acquisition: corpus via scripts/download_corpus.sh,
+# topic JSONLs via scripts/download_topics.sh, indexes built by src/r2c2_index/.
+data/
+
+# Outputs of a demo or a new production run, written beside the filed runs.
+submission/demo-*/
+submission/produced-*/
+
+# Scheduler logs and endpoints: the folders are kept, their contents are not.
+**/logs/*
+!**/logs/.gitkeep
+src/r2c2_agent/slurm/endpoints/*
+!src/r2c2_agent/slurm/endpoints/.gitkeep
+
+# Figure builds
+docs/figures/*.aux
+docs/figures/*.log
+
+# reports and scratch runs the analysis scripts write
+analysis/*.md
+!analysis/README.md
+analysis/counterfactual_runs/

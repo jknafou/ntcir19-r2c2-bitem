@@ -1,0 +1,714 @@
+qid	ensemble_idx	status	stance	nli_label	nli_score	hybrid_rule	reason	is_synthetic	polarity
+0002	0	verified_supporting		entails	0.9755041710424095	minicheck_default		False	
+0002	0	verified_supporting		entails	0.9269238435278879	minicheck_default		False	
+0001	0	verified_supporting		entails	0.9522729492537176	minicheck_default		False	
+0001	0	verified_supporting		entails	0.9343919763148529	minicheck_default		False	
+0005	0	verified_supporting		entails	0.928079426904754	minicheck_default		False	
+0005	0	verified_supporting		entails	0.9658368129538942	minicheck_default		False	
+0004	0	verified_supporting		entails	0.9490513992150515	minicheck_default		False	
+0004	0	verified_supporting		entails	0.9171819068784013	minicheck_default		False	
+0004	0	verified_supporting		entails	0.9586598174038495	minicheck_default		False	
+0003	0	verified_supporting		entails	0.9456491544467166	minicheck_default		False	
+0006	0	verified_supporting		entails	0.6123071238148822	deberta_blend		False	
+0007	0	verified_supporting		entails	0.9709572919711393	minicheck_default		False	
+0008	0	verified_supporting		entails	0.9375717275139587	minicheck_default		False	
+0008	0	verified_supporting		entails	0.6074506379274042	deberta_blend		False	
+0009	0	verified_supporting		entails	0.8680803913386222	minicheck_default		False	
+0009	0	verified_supporting		entails	0.8613010894447226	deberta_blend		False	
+0010	0	verified_supporting		entails	0.9489659650688227	minicheck_default		False	
+0011	0	verified_supporting		entails	0.9274086661664026	minicheck_default		False	
+0012	0	verified_supporting		entails	0.9659786510954165	minicheck_default		False	
+0012	0	verified_supporting		entails	0.9557289370587972	minicheck_default		False	
+0013	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0013	0	verified_supporting		entails	0.9697036248298782	minicheck_default		False	
+0014	0	verified_supporting		entails	0.9177630435348939	minicheck_default		False	
+0014	0	verified_supporting		entails	0.9744460625526152	minicheck_default		False	
+0014	0	verified_supporting		entails	0.947747670164816	minicheck_default		False	
+0015	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0015	0	verified_supporting		entails	0.9549130991440148	minicheck_default		False	
+0018	0	verified_supporting		entails	0.7618942042877005	deberta_blend		False	
+0018	0	verified_supporting		entails	0.638421825357112	deberta_blend		False	
+0018	0	verified_supporting		entails	0.9391921313796986	minicheck_default		False	
+0018	0	verified_supporting		entails	0.8432352239950636	deberta_blend		False	
+0018	0	verified_supporting		entails	0.9653959069521912	minicheck_default		False	
+0018	0	verified_supporting		entails	0.8252965191389648	minicheck_default		False	
+0016	0	verified_supporting		entails	0.9166801659660696	minicheck_default		False	
+0016	0	verified_supporting		entails	0.9653366400386474	minicheck_default		False	
+0016	0	verified_supporting		entails	0.9442197195955829	minicheck_default		False	
+0016	0	verified_supporting		entails	0.9580083751836	minicheck_default		False	
+0016	0	verified_supporting		entails	0.9486987311185563	minicheck_default		False	
+0016	0	verified_supporting		entails	0.9550805100622877	minicheck_default		False	
+0016	0	verified_supporting		entails	0.89892578125			False	
+0017	0	verified_supporting		entails	0.8186852698553172	minicheck_default		False	
+0017	0	verified_supporting		entails	0.9483031412645904	minicheck_default		False	
+0017	0	verified_supporting		entails	0.8587498211819824	deberta_blend		False	
+0017	0	verified_supporting		entails	0.8521684077493206	deberta_blend		False	
+0017	0	verified_supporting		entails	0.93603515625			False	
+0019	0	verified_supporting		entails	0.8573044896949236	minicheck_default		False	
+0019	0	verified_supporting		entails	0.9668911777859037	minicheck_default		False	
+0019	0	verified_supporting		entails	0.9465257094295632	minicheck_default		False	
+0019	0	verified_supporting		entails	0.9521391427456363	minicheck_default		False	
+0019	0	verified_supporting		entails	0.8802351098434438	minicheck_default		False	
+0020	0	verified_supporting		entails	0.7120939159086197	deberta_blend		False	
+0020	0	verified_supporting		entails	0.9137290862303478	minicheck_default		False	
+0020	0	verified_supporting		entails	0.856618112204227	deberta_blend		False	
+0020	0	verified_supporting		entails	0.9687964469230093	minicheck_default		False	
+0020	0	verified_supporting		entails	0.9605023509028237	minicheck_default		False	
+0020	0	verified_supporting		entails	0.9488770530396154	minicheck_default		False	
+0020	0	verified_supporting		entails	0.9333767462709003	minicheck_default		False	
+0020	0	verified_supporting		entails	0.9601328426807322	minicheck_default		False	
+0020	0	verified_supporting		entails	0.9655037706510071	minicheck_default		False	
+0020	0	verified_supporting		entails	0.8726232099899931	minicheck_default		False	
+0021	0	verified_supporting		entails	0.9479593878219758	minicheck_default		False	
+0021	0	verified_supporting		entails	0.8744465966689077	minicheck_default		False	
+0021	0	verified_supporting		entails	0.969347378978413	minicheck_default		False	
+0021	0	verified_supporting		entails	0.9550096239746411	minicheck_default		False	
+0022	0	verified_supporting		entails	0.8350093526503608	minicheck_default		False	
+0022	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0022	0	verified_supporting		entails	0.91796875			False	
+0024	0	verified_supporting		entails	0.9678713173231248	minicheck_default		False	
+0024	0	verified_supporting		entails	0.9579318380858863	minicheck_default		False	
+0024	0	verified_supporting		entails	0.9701840795500584	minicheck_default		False	
+0023	0	verified_supporting		entails	0.8725864490057744	minicheck_default		False	
+0023	0	verified_supporting		entails	0.9520759461811752	minicheck_default		False	
+0023	0	verified_supporting		entails	0.663057059745997	deberta_blend		False	
+0023	0	verified_supporting		entails	0.9722221217886711	minicheck_default		False	
+0023	0	verified_supporting		entails	0.9236291554220198	minicheck_default		False	
+0025	0	verified_supporting		entails	0.5			True	
+0025	0	refusal		entails	1.0			False	
+0026	0	verified_supporting		entails	0.8500225708909486	deberta_blend		False	
+0026	0	verified_supporting		entails	0.9679109954081668	minicheck_default		False	
+0028	0	verified_supporting		entails	0.8937270528725678	deberta_blend		False	
+0029	0	verified_supporting		entails	0.8570029629307183	minicheck_default		False	
+0029	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0027	0	verified_supporting		entails	0.9454042060381818	minicheck_default		False	
+0027	0	verified_supporting		entails	0.9120597509388044	minicheck_default		False	
+0030	0	verified_supporting		entails	0.9486023813386149	minicheck_default		False	
+0030	0	verified_supporting		entails	0.9269805565388255	minicheck_default		False	
+0031	0	verified_supporting		entails	0.8647309437595649	minicheck_default		False	
+0031	0	verified_supporting		entails	0.9671366836596129	minicheck_default		False	
+0033	0	verified_supporting		entails	0.8190914490067052	minicheck_default		False	
+0033	0	verified_supporting		entails	0.9428312710566902	minicheck_default		False	
+0036	0	verified_supporting		entails	0.9680592837534426	minicheck_default		False	
+0037	0	verified_supporting		entails	0.9632662867365103	minicheck_default		False	
+0032	0	verified_supporting		entails	0.6545790655190618	deberta_blend		False	
+0032	0	verified_supporting		entails	0.8929629521343283	minicheck_default		False	
+0032	0	verified_supporting		entails	0.8208270273547105	minicheck_default		False	
+0032	0	verified_supporting		entails	0.8848977901415996	minicheck_default		False	
+0032	0	verified_supporting		entails	0.9337515276941267	minicheck_default		False	
+0032	0	verified_supporting		entails	0.9098717412222762	minicheck_default		False	
+0032	0	verified_supporting		entails	0.9097327896937166	minicheck_default		False	
+0032	0	verified_supporting		entails	0.99658203125			False	
+0035	0	verified_supporting		entails	0.9410106098393785	minicheck_default		False	
+0035	0	verified_supporting		entails	0.8338919763047189	minicheck_default		False	
+0035	0	verified_supporting		entails	0.9483989597242316	minicheck_default		False	
+0035	0	verified_supporting		entails	0.8688283521584323	minicheck_default		False	
+0035	0	verified_supporting		entails	0.9682705654323375	minicheck_default		False	
+0035	0	verified_supporting		entails	0.956386723408793	minicheck_default		False	
+0035	0	verified_supporting		entails	0.9687140480926766	minicheck_default		False	
+0035	0	verified_supporting		entails	0.935546875			False	
+0034	0	verified_supporting		entails	0.7850875350440698	deberta_blend		False	
+0034	0	verified_supporting		entails	0.7668282236292008	deberta_blend		False	
+0034	0	verified_supporting		entails	0.9445791433765569	minicheck_default		False	
+0034	0	verified_supporting		entails	0.9931640625			False	
+0038	0	verified_supporting		entails	0.9040093779905414	minicheck_default		False	
+0038	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0038	0	verified_supporting		entails	0.9121033028886705	minicheck_default		False	
+0038	0	verified_supporting		entails	0.9751111798241625	minicheck_default		False	
+0038	0	verified_supporting		entails	0.9680689102128394	minicheck_default		False	
+0038	0	verified_supporting		entails	0.9798833831193451	minicheck_default		False	
+0038	0	verified_supporting		entails	0.9313265224545066	minicheck_default		False	
+0038	0	verified_supporting		entails	0.6896801747313199	deberta_blend		False	
+0038	0	verified_supporting		entails	0.8921992159285563	minicheck_default		False	
+0038	0	verified_supporting		entails	0.9797999685440246	minicheck_default		False	
+0038	0	verified_supporting		entails	0.97216796875			False	
+0040	0	verified_supporting		entails	0.9381413944645534	minicheck_default		False	
+0041	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0041	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0043	0	verified_supporting		entails	0.9641285901839743	minicheck_default		False	
+0043	0	verified_supporting		entails	0.8809871181207931	minicheck_default		False	
+0039	0	verified_supporting		entails	0.9709392683180275	minicheck_default		False	
+0039	0	verified_supporting		entails	0.9644840914903917	minicheck_default		False	
+0039	0	verified_supporting		entails	0.9691429179306627	minicheck_default		False	
+0039	0	verified_supporting		entails	0.8760649932821553	minicheck_default		False	
+0039	0	verified_supporting		entails	0.96435546875			False	
+0042	0	verified_supporting		entails	0.9124106317039432	minicheck_default		False	
+0042	0	verified_supporting		entails	0.9604115655903062	minicheck_default		False	
+0042	0	verified_supporting		entails	0.8899383233552444	minicheck_default		False	
+0042	0	verified_supporting		entails	0.99560546875			False	
+0044	0	verified_supporting		entails	0.958347107492383	minicheck_default		False	
+0044	0	verified_supporting		entails	0.7230820415826502	deberta_blend		False	
+0045	0	verified_supporting		entails	0.9214643999976849	minicheck_default		False	
+0045	0	verified_supporting		entails	0.9209018859185578	minicheck_default		False	
+0045	0	verified_supporting		entails	0.9437433541550295	minicheck_default		False	
+0046	0	verified_supporting		entails	0.9753083169112079	minicheck_default		False	
+0046	0	verified_supporting		entails	0.9685263794093124	minicheck_default		False	
+0046	0	verified_supporting		entails	0.966426248112155	minicheck_default		False	
+0046	0	verified_supporting		entails	0.9679602694495214	minicheck_default		False	
+0046	0	verified_supporting		entails	0.8529502227489507	minicheck_default		False	
+0046	0	verified_supporting		entails	0.9382010005038612	minicheck_default		False	
+0049	0	verified_supporting		entails	0.9128998181365156	minicheck_default		False	
+0049	0	verified_supporting		entails	0.9486521222440897	minicheck_default		False	
+0049	0	verified_supporting		entails	0.9477703467046042	minicheck_default		False	
+0049	0	verified_supporting		entails	0.9457137456255114	minicheck_default		False	
+0049	0	verified_supporting		entails	0.9677034429243824	minicheck_default		False	
+0049	0	verified_supporting		entails	0.9656895149674591	minicheck_default		False	
+0049	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0048	0	verified_supporting		entails	0.9707106353138467	minicheck_default		False	
+0048	0	verified_supporting		entails	0.9297781052750224	minicheck_default		False	
+0048	0	verified_supporting		entails	0.855170446742949	minicheck_default		False	
+0048	0	verified_supporting		entails	0.9100535811347336	minicheck_default		False	
+0048	0	verified_supporting		entails	0.8421815827180588	minicheck_default		False	
+0048	0	verified_supporting		entails	0.9516240920864998	minicheck_default		False	
+0047	0	verified_supporting		entails	0.9218636191777566	minicheck_default		False	
+0047	0	verified_supporting		entails	0.9364663492126557	minicheck_default		False	
+0051	0	verified_supporting		entails	0.621580870326572	deberta_blend		False	
+0051	0	verified_supporting		entails	0.8063626987670656	minicheck_default		False	
+0052	0	verified_supporting		entails	0.8644105514851504	deberta_blend		False	
+0052	0	verified_supporting		entails	0.6958970802317384	deberta_blend		False	
+0050	0	verified_supporting		entails	0.9636433785574221	minicheck_default		False	
+0050	0	verified_supporting		entails	0.9539049030473179	minicheck_default		False	
+0050	0	verified_supporting		entails	0.9827819466542581	minicheck_default		False	
+0050	0	verified_supporting		entails	0.9790268120198539	minicheck_default		False	
+0050	0	verified_supporting		entails	0.9473859906574443	minicheck_default		False	
+0050	0	verified_supporting		entails	0.9573958334865535	minicheck_default		False	
+0053	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0053	0	verified_supporting		entails	0.9332190325137473	minicheck_default		False	
+0054	0	verified_supporting		entails	0.9707248128105663	minicheck_default		False	
+0054	0	verified_supporting		entails	0.9663890729172955	minicheck_default		False	
+0054	0	verified_supporting		entails	0.9771728281551285	minicheck_default		False	
+0055	0	verified_supporting		entails	0.9774647081261658	minicheck_default		False	
+0056	0	verified_supporting		entails	0.9779513012223467	minicheck_default		False	
+0056	0	verified_supporting		entails	0.9605747920465849	minicheck_default		False	
+0060	0	verified_supporting		entails	0.9753433565892392	minicheck_default		False	
+0059	0	verified_supporting		entails	0.824401327328365	minicheck_default		False	
+0059	0	verified_supporting		entails	0.9697529667514156	minicheck_default		False	
+0058	0	verified_supporting		entails	0.8950590818161476	minicheck_default		False	
+0058	0	verified_supporting		entails	0.8770131596531673	minicheck_default		False	
+0058	0	verified_supporting		entails	0.92138671875			False	
+0058	0	verified_supporting		entails	0.9453125			False	
+0063	0	verified_supporting		entails	0.9649632955625168	minicheck_default		False	
+0063	0	verified_supporting		entails	0.9435937006909324	minicheck_default		False	
+0062	0	verified_supporting		entails	0.9690979822425043	minicheck_default		False	
+0062	0	verified_supporting		entails	0.9327520947880499	minicheck_default		False	
+0057	0	verified_supporting		entails	0.9439435224586775	minicheck_default		False	
+0057	0	verified_supporting		entails	0.9444344726391116	minicheck_default		False	
+0061	0	verified_supporting		entails	0.9674552281546399	minicheck_default		False	
+0061	0	verified_supporting		entails	0.9699643693432427	minicheck_default		False	
+0061	0	verified_supporting		entails	0.9389105269354198	minicheck_default		False	
+0061	0	verified_supporting		entails	0.970164459029899	minicheck_default		False	
+0061	0	verified_supporting		entails	0.9186084680168474	minicheck_default		False	
+0061	0	verified_supporting		entails	0.5938901852464019	deberta_blend		False	
+0061	0	verified_supporting		entails	0.95703125			False	
+0064	0	verified_supporting		entails	0.9679361188521093	minicheck_default		False	
+0064	0	verified_supporting		entails	0.9640109459463618	minicheck_default		False	
+0064	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0064	0	verified_supporting		entails	0.9223160549466685	minicheck_default		False	
+0064	0	verified_supporting		entails	0.8912704280511332	minicheck_default		False	
+0064	0	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0065	0	verified_supporting		entails	0.6366055987083163	deberta_blend		False	
+0065	0	verified_supporting		entails	0.9254765587107946	minicheck_default		False	
+0065	0	verified_supporting		entails	0.9577679785743046	minicheck_default		False	
+0065	0	verified_supporting		entails	0.9580353852305145	minicheck_default		False	
+0065	0	verified_supporting		entails	0.9334885357960222	minicheck_default		False	
+0065	0	verified_supporting		entails	0.6955053881688394	deberta_blend		False	
+0065	0	verified_supporting		entails	0.9990234375			False	
+0002	1	verified_supporting		entails	0.9514681408798779	minicheck_default		False	
+0002	1	verified_supporting		entails	0.9411441631394806	minicheck_default		False	
+0001	1	verified_supporting		entails	0.6663254307838967	deberta_blend		False	
+0001	1	verified_supporting		entails	0.9653515556496958	minicheck_default		False	
+0001	1	verified_supporting		entails	0.9680442635278879	minicheck_default		False	
+0004	1	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0004	1	verified_supporting		entails	0.977529905614763	minicheck_default		False	
+0004	1	verified_supporting		entails	0.6305504275192879	deberta_blend		False	
+0006	1	bogus		entails	0.963745405490418	minicheck_default		False	
+0006	1	verified_supporting		entails	0.8551614401398195	minicheck_default		False	
+0006	1	verified_supporting		entails	0.9798281157069576	minicheck_default		False	
+0006	1	verified_supporting		entails	0.9524931821355459	minicheck_default		False	
+0003	1	bogus		entails	0.96484375			False	
+0003	1	verified_supporting		entails	0.96484375			False	
+0005	1	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0005	1	verified_supporting		entails	0.9529083453969067	minicheck_default		False	
+0005	1	verified_supporting		entails	0.6402877747194827	deberta_blend		False	
+0005	1	verified_supporting		entails	0.8763061298323752	minicheck_default		False	
+0005	1	verified_supporting		entails	0.9390484996089072	minicheck_default		False	
+0005	1	verified_supporting		entails	0.99951171875			False	
+0007	1	verified_supporting		entails	0.99853515625			False	
+0008	1	verified_supporting		entails	0.9495869917280724	minicheck_default		False	
+0008	1	verified_supporting		entails	0.9222026539940246	minicheck_default		False	
+0009	1	bogus		entails	0.99462890625			False	
+0009	1	verified_supporting		entails	0.99462890625			False	
+0009	1	verified_supporting		entails	0.9951171875			False	
+0010	1	verified_supporting		entails	0.8927276658664336	minicheck_default		False	
+0010	1	verified_supporting		entails	0.9563157525933771	minicheck_default		False	
+0010	1	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0011	1	verified_supporting		entails	0.90234375			False	
+0012	1	verified_supporting		entails	0.99609375			False	
+0013	1	verified_supporting		entails	0.8132524946202151	deberta_blend		False	
+0013	1	verified_supporting		entails	0.9307246852156625	minicheck_default		False	
+0014	1	verified_supporting		entails	0.9760400278638026	minicheck_default		False	
+0014	1	verified_supporting		entails	0.9730523714327554	minicheck_default		False	
+0014	1	verified_supporting		entails	0.9782953276754195	minicheck_default		False	
+0014	1	verified_supporting		entails	0.9803330759107661	minicheck_default		False	
+0014	1	verified_supporting		entails	0.9753435859344115	minicheck_default		False	
+0014	1	verified_supporting		entails	0.9651501048733444	minicheck_default		False	
+0014	1	verified_supporting		entails	0.8906682746902876	minicheck_default		False	
+0014	1	verified_supporting		entails	0.7686625134639085	deberta_blend		False	
+0014	1	verified_supporting		entails	0.8949124882872852	minicheck_default		False	
+0014	1	verified_supporting		entails	0.9892578125			False	
+0015	1	verified_supporting		entails	0.9611771713963463	minicheck_default		False	
+0015	1	verified_supporting		entails	0.9682394273458764	minicheck_default		False	
+0015	1	verified_supporting		entails	0.9320282453041461	minicheck_default		False	
+0018	1	verified_supporting		entails	0.9720359069842062	minicheck_default		False	
+0018	1	verified_supporting		entails	0.9727059193037437	minicheck_default		False	
+0018	1	verified_supporting		entails	0.9235350748251117	minicheck_default		False	
+0018	1	verified_supporting		entails	0.941039864583447	minicheck_default		False	
+0018	1	verified_supporting		entails	0.9715388073890283	minicheck_default		False	
+0018	1	verified_supporting		entails	0.9556785819292642	minicheck_default		False	
+0016	1	verified_supporting		entails	0.9166801659660696	minicheck_default		False	
+0016	1	verified_supporting		entails	0.8485426468846986	deberta_blend		False	
+0016	1	verified_supporting		entails	0.89892578125			False	
+0017	1	verified_supporting		entails	0.93603515625			False	
+0019	1	verified_supporting		entails	0.9406817625256984	minicheck_default		False	
+0019	1	verified_supporting		entails	0.9440571320878233	minicheck_default		False	
+0019	1	verified_supporting		entails	0.9468380694943943	minicheck_default		False	
+0019	1	verified_supporting		entails	0.9513061577154168	minicheck_default		False	
+0019	1	verified_supporting		entails	0.9435605586280426	minicheck_default		False	
+0019	1	verified_supporting		entails	0.9350561627059842	minicheck_default		False	
+0019	1	verified_supporting		entails	0.9644549649373636	minicheck_default		False	
+0019	1	verified_supporting		entails	0.9167235133602063	minicheck_default		False	
+0019	1	verified_supporting		entails	0.94775390625			False	
+0020	1	verified_supporting		entails	0.9635615146072498	minicheck_default		False	
+0020	1	verified_supporting		entails	0.9642843615018135	minicheck_default		False	
+0020	1	verified_supporting		entails	0.9714126719321409	minicheck_default		False	
+0020	1	verified_supporting		entails	0.9558578709067076	minicheck_default		False	
+0020	1	verified_supporting		entails	0.8414386205234051	minicheck_default		False	
+0020	1	verified_supporting		entails	0.9666414871716003	minicheck_default		False	
+0020	1	verified_supporting		entails	0.9601349690148655	minicheck_default		False	
+0020	1	verified_supporting		entails	0.9544047300736824	minicheck_default		False	
+0020	1	verified_supporting		entails	0.97216796875			False	
+0022	1	verified_supporting		entails	0.8964885442217281	minicheck_default		False	
+0022	1	verified_supporting		entails	0.8889764794929551	minicheck_default		False	
+0022	1	verified_supporting		entails	0.6465644288948131	deberta_blend		False	
+0022	1	verified_supporting		entails	0.91796875			False	
+0024	1	verified_supporting		entails	0.9786674290095343	minicheck_default		False	
+0024	1	verified_supporting		entails	0.9770568655800539	minicheck_default		False	
+0024	1	verified_supporting		entails	0.9749654144370361	minicheck_default		False	
+0021	1	verified_supporting		entails	0.9234607752619841	minicheck_default		False	
+0021	1	verified_supporting		entails	0.7442423318541216	deberta_blend		False	
+0026	1	verified_supporting		entails	0.6635753509420097	deberta_blend		False	
+0026	1	verified_supporting		entails	0.8491314239623919	deberta_blend		False	
+0023	1	verified_supporting		entails	0.9666429171061646	minicheck_default		False	
+0023	1	verified_supporting		entails	0.6021602276562279	deberta_blend		False	
+0023	1	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0023	1	verified_supporting		entails	0.748670105582322	deberta_blend		False	
+0023	1	verified_supporting		entails	0.6260466076531067	deberta_blend		False	
+0023	1	verified_supporting		entails	0.9419898575093539	minicheck_default		False	
+0023	1	verified_supporting		entails	0.9694313207965176	minicheck_default		False	
+0028	1	verified_supporting		entails	0.8337694180223862	minicheck_default		False	
+0029	1	verified_supporting		entails	0.9636508036015311	minicheck_default		False	
+0029	1	verified_supporting		entails	0.9297233536153878	minicheck_default		False	
+0025	1	verified_supporting		entails	0.5			True	
+0025	1	refusal		entails	1.0			False	
+0030	1	verified_supporting		entails	0.6660076125445622	deberta_blend		False	
+0030	1	verified_supporting		entails	0.8436745518765714	minicheck_default		False	
+0027	1	verified_supporting		entails	0.9990234375			False	
+0031	1	verified_supporting		entails	0.9318587467598206	minicheck_default		False	
+0031	1	verified_supporting		entails	0.9529836825137213	minicheck_default		False	
+0037	1	bogus		entails	0.99853515625			False	
+0037	1	verified_supporting		entails	0.99853515625			False	
+0036	1	verified_supporting		entails	0.8618735569008039	minicheck_default		False	
+0036	1	verified_supporting		entails	0.9119046756339734	minicheck_default		False	
+0033	1	verified_supporting		entails	0.9592771878521018	minicheck_default		False	
+0032	1	bogus		entails	0.970308190098599	minicheck_default		False	
+0032	1	verified_supporting		entails	0.9572053162383524	minicheck_default		False	
+0032	1	verified_supporting		entails	0.9168700797136738	minicheck_default		False	
+0032	1	verified_supporting		entails	0.69769998902223	deberta_blend		False	
+0034	1	bogus		entails	0.9931640625			False	
+0034	1	verified_supporting		entails	0.9931640625			False	
+0035	1	verified_supporting		entails	0.9775954305627758	minicheck_default		False	
+0035	1	verified_supporting		entails	0.9498382917984859	minicheck_default		False	
+0035	1	verified_supporting		entails	0.8299969125560717	minicheck_default		False	
+0035	1	verified_supporting		entails	0.8728702315243203	deberta_blend		False	
+0035	1	verified_supporting		entails	0.935546875			False	
+0041	1	verified_supporting		entails	0.98193359375			False	
+0040	1	verified_supporting		entails	0.9833984375			False	
+0040	1	verified_supporting		entails	0.99267578125			False	
+0038	1	verified_supporting		entails	0.9498848342322183	minicheck_default		False	
+0038	1	verified_supporting		entails	0.6607608679843482	deberta_blend		False	
+0038	1	verified_supporting		entails	0.97216796875			False	
+0043	1	bogus		entails	0.982421875			False	
+0043	1	verified_supporting		entails	0.982421875			False	
+0042	1	verified_supporting		entails	0.9494056203397319	minicheck_default		False	
+0042	1	verified_supporting		entails	0.9739755686000805	minicheck_default		False	
+0044	1	verified_supporting		entails	0.9377171603452573	minicheck_default		False	
+0044	1	verified_supporting		entails	0.9562621555072673	minicheck_default		False	
+0039	1	verified_supporting		entails	0.9716983596085385	minicheck_default		False	
+0039	1	verified_supporting		entails	0.7833938318314583	deberta_blend		False	
+0039	1	verified_supporting		entails	0.9738293166695541	minicheck_default		False	
+0039	1	verified_supporting		entails	0.5896619699599879	deberta_blend		False	
+0039	1	verified_supporting		entails	0.98046875			False	
+0045	1	verified_supporting		entails	0.9654513386951721	minicheck_default		False	
+0045	1	verified_supporting		entails	0.9657014571403386	minicheck_default		False	
+0045	1	verified_supporting		entails	0.9682119508982026	minicheck_default		False	
+0046	1	verified_supporting		entails	0.9511156237435919	minicheck_default		False	
+0046	1	verified_supporting		entails	0.9748711499192685	minicheck_default		False	
+0046	1	verified_supporting		entails	0.9739188653321385	minicheck_default		False	
+0046	1	verified_supporting		entails	0.9657096532158915	minicheck_default		False	
+0046	1	verified_supporting		entails	0.9651634224764472	minicheck_default		False	
+0046	1	verified_supporting		entails	0.6957672529234348	deberta_blend		False	
+0048	1	verified_supporting		entails	0.9665467184224895	minicheck_default		False	
+0048	1	verified_supporting		entails	0.852940862574789	minicheck_default		False	
+0051	1	verified_supporting		entails	0.8845868111155536	minicheck_default		False	
+0051	1	verified_supporting		entails	0.93903051140312	minicheck_default		False	
+0047	1	verified_supporting		entails	0.5			True	
+0047	1	refusal		entails	1.0			False	
+0049	1	verified_supporting		entails	0.9705970094026147	minicheck_default		False	
+0049	1	verified_supporting		entails	0.880859375			False	
+0054	1	verified_supporting		entails	0.9591616064762355	minicheck_default		False	
+0054	1	verified_supporting		entails	0.9305693713355699	minicheck_default		False	
+0054	1	verified_supporting		entails	0.8983527225158727	minicheck_default		False	
+0050	1	verified_supporting		entails	0.5			True	
+0050	1	refusal		entails	1.0			False	
+0052	1	verified_supporting		entails	0.9438530749063265	minicheck_default		False	
+0052	1	verified_supporting		entails	0.9495615450379832	minicheck_default		False	
+0052	1	verified_supporting		entails	0.9127182043599278	minicheck_default		False	
+0053	1	verified_supporting		entails	0.5			True	
+0053	1	refusal		entails	1.0			False	
+0056	1	verified_supporting		entails	0.956976375076138	minicheck_default		False	
+0060	1	verified_supporting		entails	0.9607663215413261	minicheck_default		False	
+0060	1	verified_supporting		entails	0.9425920974419764	minicheck_default		False	
+0059	1	verified_supporting		entails	0.9551715483526924	minicheck_default		False	
+0059	1	verified_supporting		entails	0.9327974987549861	minicheck_default		False	
+0058	1	verified_supporting		entails	0.9269487421925247	minicheck_default		False	
+0058	1	verified_supporting		entails	0.9728825138049757	minicheck_default		False	
+0055	1	verified_supporting		entails	0.9391446617776512	minicheck_default		False	
+0055	1	verified_supporting		entails	0.9784546816563694	minicheck_default		False	
+0055	1	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0055	1	verified_supporting		entails	0.8777111078555857	minicheck_default		False	
+0055	1	verified_supporting		entails	0.99951171875			False	
+0063	1	verified_supporting		entails	0.9744560286228485	minicheck_default		False	
+0063	1	verified_supporting		entails	0.9750721274082637	minicheck_default		False	
+0063	1	verified_supporting		entails	0.9664957857869939	minicheck_default		False	
+0062	1	verified_supporting		entails	0.8841908290356217	deberta_blend		False	
+0062	1	verified_supporting		entails	0.9675816367536216	minicheck_default		False	
+0057	1	verified_supporting		entails	0.9042720974104037	minicheck_default		False	
+0057	1	verified_supporting		entails	0.7403103587331059	deberta_blend		False	
+0057	1	verified_supporting		entails	0.9432215925669888	minicheck_default		False	
+0065	1	verified_supporting		entails	0.7489831172851569	deberta_blend		False	
+0065	1	verified_supporting		entails	0.622419859473934	deberta_blend		False	
+0065	1	verified_supporting		entails	0.9603872824947816	minicheck_default		False	
+0065	1	verified_supporting		entails	0.9683942973587213	minicheck_default		False	
+0061	1	verified_supporting		entails	0.9579348548614351	minicheck_default		False	
+0061	1	verified_supporting		entails	0.9012871384445488	minicheck_default		False	
+0061	1	verified_supporting		entails	0.8364195532553332	minicheck_default		False	
+0061	1	verified_supporting		entails	0.8257037714905767	minicheck_default		False	
+0061	1	verified_supporting		entails	0.932583311377587	minicheck_default		False	
+0061	1	verified_supporting		entails	0.9673024279258345	minicheck_default		False	
+0061	1	verified_supporting		entails	0.9432364659409352	minicheck_default		False	
+0061	1	verified_supporting		entails	0.95703125			False	
+0064	1	verified_supporting		entails	0.6497306552061801	deberta_blend		False	
+0064	1	verified_supporting		entails	0.671462369500498	deberta_blend		False	
+0064	1	verified_supporting		entails	0.8970553014438434	minicheck_default		False	
+0064	1	verified_supporting		entails	0.8227356309915548	minicheck_default		False	
+0002	2	verified_supporting		entails	0.9241178819941718	minicheck_default		False	
+0001	2	verified_supporting		entails	0.9782654288013419	minicheck_default		False	
+0001	2	verified_supporting		entails	0.884085320992197	minicheck_default		False	
+0004	2	verified_supporting		entails	0.6885619520545952	deberta_blend		False	
+0004	2	verified_supporting		entails	0.8895380532311693	minicheck_default		False	
+0006	2	verified_supporting		entails	0.80527475529524	deberta_blend		False	
+0006	2	verified_supporting		entails	0.9584094479121651	minicheck_default		False	
+0005	2	verified_supporting		entails	0.9307231325937393	minicheck_default		False	
+0005	2	verified_supporting		entails	0.8768476345458496	deberta_blend		False	
+0003	2	verified_supporting		entails	0.96484375			False	
+0007	2	verified_supporting		entails	0.99853515625			False	
+0008	2	verified_supporting		entails	0.8974754443627072	minicheck_default		False	
+0008	2	verified_supporting		entails	0.8841457295512519	minicheck_default		False	
+0009	2	verified_supporting		entails	0.99462890625			False	
+0010	2	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0010	2	verified_supporting		entails	0.9474094212899469	minicheck_default		False	
+0011	2	verified_supporting		entails	0.90234375			False	
+0012	2	bogus		entails	0.99609375			False	
+0012	2	verified_supporting		entails	0.99609375			False	
+0014	2	verified_supporting		entails	0.913753571818456	minicheck_default		False	
+0014	2	verified_supporting		entails	0.7349935274879116	deberta_blend		False	
+0014	2	verified_supporting		entails	0.9518738133528196	minicheck_default		False	
+0018	2	verified_supporting		entails	0.9430078680117311	minicheck_default		False	
+0018	2	verified_supporting		entails	0.9673383558717138	minicheck_default		False	
+0018	2	verified_supporting		entails	0.9241143542373931	minicheck_default		False	
+0018	2	verified_supporting		entails	0.7839728709812348	deberta_blend		False	
+0018	2	verified_supporting		entails	0.9484987681834319	minicheck_default		False	
+0015	2	verified_supporting		entails	0.9387862526330164	minicheck_default		False	
+0016	2	verified_supporting		entails	0.7054199675835725	deberta_blend		False	
+0016	2	verified_supporting		entails	0.9384282267610718	minicheck_default		False	
+0016	2	verified_supporting		entails	0.8915522159755247	deberta_blend		False	
+0016	2	verified_supporting		entails	0.9259230518101895	minicheck_default		False	
+0017	2	verified_supporting		entails	0.93603515625			False	
+0019	2	verified_supporting		entails	0.94775390625			False	
+0022	2	verified_supporting		entails	0.8075022685147375	deberta_blend		False	
+0022	2	verified_supporting		entails	0.9665591740314222	minicheck_default		False	
+0020	2	verified_supporting		entails	0.9655003400495679	minicheck_default		False	
+0020	2	verified_supporting		entails	0.9480242274691623	minicheck_default		False	
+0020	2	verified_supporting		entails	0.951709488712574	minicheck_default		False	
+0020	2	verified_supporting		entails	0.9530696874768954	minicheck_default		False	
+0020	2	verified_supporting		entails	0.9245752437418041	minicheck_default		False	
+0020	2	verified_supporting		entails	0.9325849152659514	minicheck_default		False	
+0020	2	verified_supporting		entails	0.9368007934431506	minicheck_default		False	
+0020	2	verified_supporting		entails	0.9538162062178438	minicheck_default		False	
+0024	2	verified_supporting		entails	0.9656901390294766	minicheck_default		False	
+0024	2	verified_supporting		entails	0.8810662699450595	deberta_blend		False	
+0024	2	verified_supporting		entails	0.9721213771925868	minicheck_default		False	
+0024	2	verified_supporting		entails	0.99951171875			False	
+0021	2	verified_supporting		entails	0.5			True	
+0021	2	refusal		entails	1.0			False	
+0029	2	verified_supporting		entails	0.5			True	
+0029	2	refusal		entails	1.0			False	
+0030	2	verified_supporting		entails	0.9342215099148571	minicheck_default		False	
+0030	2	verified_supporting		entails	0.9514241727061107	minicheck_default		False	
+0026	2	verified_supporting		entails	0.99951171875			False	
+0023	2	verified_supporting		entails	0.9814453125			False	
+0028	2	verified_supporting		entails	0.8826948474698266	minicheck_default		False	
+0028	2	verified_supporting		entails	0.99609375			False	
+0031	2	verified_supporting		entails	0.8073654415437002	minicheck_default		False	
+0025	2	verified_supporting		entails	0.5			True	
+0025	2	refusal		entails	1.0			False	
+0027	2	verified_supporting		entails	0.99853515625			False	
+0037	2	bogus		entails	0.99853515625			False	
+0037	2	verified_supporting		entails	0.99853515625			False	
+0033	2	verified_supporting		entails	0.81117567476252	deberta_blend		False	
+0034	2	bogus		entails	0.9794921875			False	
+0034	2	verified_supporting		entails	0.9794921875			False	
+0036	2	verified_supporting		entails	0.5			True	
+0036	2	refusal		entails	1.0			False	
+0032	2	verified_supporting		entails	0.9699060657104354	minicheck_default		False	
+0032	2	verified_supporting		entails	0.8084397808668421	minicheck_default		False	
+0032	2	verified_supporting		entails	0.9317189709308644	minicheck_default		False	
+0032	2	verified_supporting		entails	0.99560546875			False	
+0035	2	verified_supporting		entails	0.963520021719482	minicheck_default		False	
+0035	2	verified_supporting		entails	0.9679602694495214	minicheck_default		False	
+0035	2	verified_supporting		entails	0.7833076284949413	deberta_blend		False	
+0035	2	verified_supporting		entails	0.95751953125			False	
+0041	2	verified_supporting		entails	0.98193359375			False	
+0040	2	verified_supporting		entails	0.9833984375			False	
+0043	2	verified_supporting		entails	0.982421875			False	
+0044	2	verified_supporting		entails	0.6980517292188065	deberta_blend		False	
+0044	2	verified_supporting		entails	0.9713478084326699	minicheck_default		False	
+0042	2	verified_supporting		entails	0.9350326605680607	minicheck_default		False	
+0042	2	verified_supporting		entails	0.8958940009983267	deberta_blend		False	
+0038	2	verified_supporting		entails	0.9594082248076379	minicheck_default		False	
+0038	2	verified_supporting		entails	0.8536718590852068	minicheck_default		False	
+0046	2	verified_supporting		entails	0.6312387134756504	deberta_blend		False	
+0046	2	verified_supporting		entails	0.5912039510555133	deberta_blend		False	
+0046	2	verified_supporting		entails	0.7156089880943348	deberta_blend		False	
+0046	2	verified_supporting		entails	0.9401018112661413	minicheck_default		False	
+0046	2	verified_supporting		entails	0.9065902879475648	minicheck_default		False	
+0045	2	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0045	2	verified_supporting		entails	0.9759156787027126	minicheck_default		False	
+0045	2	verified_supporting		entails	0.6403991379698095	deberta_blend		False	
+0045	2	verified_supporting		entails	0.9768400524133366	minicheck_default		False	
+0045	2	verified_supporting		entails	0.96803562583441	minicheck_default		False	
+0048	2	verified_supporting		entails	0.9415011180282006	minicheck_default		False	
+0048	2	verified_supporting		entails	0.5927695167589933	deberta_blend		False	
+0048	2	verified_supporting		entails	0.9623016803312802	minicheck_default		False	
+0048	2	verified_supporting		entails	0.9526250259027736	minicheck_default		False	
+0051	2	verified_supporting		entails	0.8720703125			False	
+0054	2	verified_supporting		entails	0.9176911272430779	minicheck_default		False	
+0054	2	verified_supporting		entails	0.8067954311842473	minicheck_default		False	
+0054	2	verified_supporting		entails	0.9728835893724447	minicheck_default		False	
+0054	2	verified_supporting		entails	0.9263919933896557	minicheck_default		False	
+0047	2	verified_supporting		entails	0.5			True	
+0047	2	refusal		entails	1.0			False	
+0056	2	verified_supporting		entails	0.9441692557364485	minicheck_default		False	
+0052	2	verified_supporting		entails	0.966796875			False	
+0049	2	verified_supporting		entails	0.8357344077987111	minicheck_default		False	
+0049	2	verified_supporting		entails	0.9022922728945125	minicheck_default		False	
+0050	2	verified_supporting		entails	0.5			True	
+0050	2	refusal		entails	1.0			False	
+0060	2	verified_supporting		entails	0.8567996318994493	minicheck_default		False	
+0060	2	verified_supporting		entails	0.9800898577147613	minicheck_default		False	
+0053	2	verified_supporting		entails	0.5			True	
+0053	2	refusal		entails	1.0			False	
+0058	2	verified_supporting		entails	0.9185892853637563	minicheck_default		False	
+0058	2	verified_supporting		entails	0.9302861397986334	minicheck_default		False	
+0059	2	bogus		entails	0.9740658648652779	minicheck_default		False	
+0059	2	verified_supporting		entails	0.9690286138520755	minicheck_default		False	
+0059	2	verified_supporting		entails	0.8603955259106983	minicheck_default		False	
+0063	2	verified_supporting		entails	0.9670768503647557	minicheck_default		False	
+0063	2	verified_supporting		entails	0.9444219470688066	minicheck_default		False	
+0063	2	verified_supporting		entails	0.9469453878478353	minicheck_default		False	
+0062	2	verified_supporting		entails	0.9622370959428472	minicheck_default		False	
+0055	2	verified_supporting		entails	0.99951171875			False	
+0057	2	verified_supporting		entails	0.8895585502207318	minicheck_default		False	
+0057	2	verified_supporting		entails	0.9573800958739743	minicheck_default		False	
+0039	2	verified_supporting		entails	0.5			True	
+0039	2	refusal		entails	1.0			False	
+0013	2	verified_supporting		entails	0.9220210240159746	minicheck_default		False	
+0013	2	verified_supporting		entails	0.6636139037486187	deberta_blend		False	
+0061	2	verified_supporting		entails	0.9674552281546399	minicheck_default		False	
+0061	2	verified_supporting		entails	0.9699643693432427	minicheck_default		False	
+0061	2	verified_supporting		entails	0.9389105269354198	minicheck_default		False	
+0065	2	verified_supporting		entails	0.9512784955746337	minicheck_default		False	
+0065	2	verified_supporting		entails	0.8710143092823392	minicheck_default		False	
+0065	2	verified_supporting		entails	0.675653057436038	deberta_blend		False	
+0064	2	verified_supporting		entails	0.9566083490857074	minicheck_default		False	
+0002	3	verified_supporting		entails	0.8564162195451275	deberta_blend		False	
+0002	3	verified_supporting		entails	0.9670036167535146	minicheck_default		False	
+0006	3	verified_supporting		entails	0.8954746806568419	deberta_blend		False	
+0006	3	verified_supporting		entails	0.8822854626758837	minicheck_default		False	
+0004	3	verified_supporting		entails	0.5			True	
+0004	3	refusal		entails	1.0			False	
+0001	3	verified_supporting		entails	0.99169921875			False	
+0001	3	verified_supporting		entails	0.99609375			False	
+0005	3	verified_supporting		entails	0.952532673731332	minicheck_default		False	
+0005	3	verified_supporting		entails	0.9316619631369778	minicheck_default		False	
+0005	3	verified_supporting		entails	0.9003204884457621	minicheck_default		False	
+0005	3	verified_supporting		entails	0.9386871460875644	minicheck_default		False	
+0005	3	verified_supporting		entails	0.8560877948380503	minicheck_default		False	
+0005	3	verified_supporting		entails	0.99951171875			False	
+0008	3	verified_supporting		entails	0.9666446006629357	minicheck_default		False	
+0008	3	verified_supporting		entails	0.9631125728289017	minicheck_default		False	
+0008	3	verified_supporting		entails	0.9211468097618697	minicheck_default		False	
+0007	3	verified_supporting		entails	0.99853515625			False	
+0009	3	verified_supporting		entails	0.99462890625			False	
+0010	3	verified_supporting		entails	0.9921875			False	
+0011	3	verified_supporting		entails	0.5			True	
+0011	3	refusal		entails	1.0			False	
+0014	3	verified_supporting		entails	0.980541073263556	minicheck_default		False	
+0014	3	verified_supporting		entails	0.9376501079382986	minicheck_default		False	
+0014	3	verified_supporting		entails	0.6857065056824176	deberta_blend		False	
+0024	3	verified_supporting		entails	0.9735059900218938	minicheck_default		False	
+0024	3	verified_supporting		entails	0.9662057220928423	minicheck_default		False	
+0024	3	verified_supporting		entails	0.9693449206862885	minicheck_default		False	
+0013	3	verified_supporting		entails	0.93359375			False	
+0028	3	verified_supporting		entails	0.95947265625			False	
+0028	3	verified_supporting		entails	0.99609375			False	
+0031	3	verified_supporting		entails	0.948399764797689	minicheck_default		False	
+0031	3	verified_supporting		entails	0.8781928912557151	deberta_blend		False	
+0015	3	verified_supporting		entails	0.8873885361011847	minicheck_default		False	
+0015	3	verified_supporting		entails	0.8933453486778863	minicheck_default		False	
+0018	3	verified_supporting		entails	0.7058255912142967	deberta_blend		False	
+0018	3	verified_supporting		entails	0.9400641283752399	minicheck_default		False	
+0018	3	verified_supporting		entails	0.938876576506916	minicheck_default		False	
+0018	3	verified_supporting		entails	0.9475169543845701	minicheck_default		False	
+0018	3	verified_supporting		entails	0.9757626866730332	minicheck_default		False	
+0018	3	verified_supporting		entails	0.9659313251129366	minicheck_default		False	
+0018	3	verified_supporting		entails	0.9262167872671266	minicheck_default		False	
+0030	3	bogus		entails	0.6066720207492817	deberta_blend		False	
+0030	3	verified_supporting		entails	0.971233510501499	minicheck_default		False	
+0030	3	verified_supporting		entails	0.6960975733879486	deberta_blend		False	
+0032	3	verified_supporting		entails	0.9430859036958892	minicheck_default		False	
+0026	3	verified_supporting		entails	0.8177465910956384	minicheck_default		False	
+0029	3	verified_supporting		entails	0.5			True	
+0029	3	refusal		entails	1.0			False	
+0040	3	verified_supporting		entails	0.9833984375			False	
+0042	3	verified_supporting		entails	0.99853515625			False	
+0036	3	verified_supporting		entails	0.5			True	
+0036	3	refusal		entails	1.0			False	
+0045	3	verified_supporting		entails	0.9648745759392242	minicheck_default		False	
+0045	3	verified_supporting		entails	0.973605966029438	minicheck_default		False	
+0045	3	verified_supporting		entails	0.956497264218932	minicheck_default		False	
+0045	3	verified_supporting		entails	0.9730985266333524	minicheck_default		False	
+0045	3	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0044	3	verified_supporting		entails	0.97607421875			False	
+0046	3	verified_supporting		entails	0.7870242938495151	deberta_blend		False	
+0046	3	verified_supporting		entails	0.859184389218838	deberta_blend		False	
+0046	3	verified_supporting		entails	0.938209197320468	minicheck_default		False	
+0046	3	verified_supporting		entails	0.9425671023948514	minicheck_default		False	
+0046	3	verified_supporting		entails	0.9403715354241772	minicheck_default		False	
+0046	3	verified_supporting		entails	0.8529502227489507	minicheck_default		False	
+0046	3	verified_supporting		entails	0.9382010005038612	minicheck_default		False	
+0056	3	verified_supporting		entails	0.9714801344139994	minicheck_default		False	
+0054	3	verified_supporting		entails	0.9552384908933225	minicheck_default		False	
+0054	3	verified_supporting		entails	0.6403283128885175	deberta_blend		False	
+0038	3	verified_supporting		entails	0.5			True	
+0038	3	refusal		entails	1.0			False	
+0063	3	verified_supporting		entails	0.8713210114303962	deberta_blend		False	
+0063	3	verified_supporting		entails	0.9522178291812957	minicheck_default		False	
+0063	3	verified_supporting		entails	0.9487643914913708	minicheck_default		False	
+0057	3	verified_supporting		entails	0.8770447934509225	deberta_blend		False	
+0057	3	verified_supporting		entails	0.8872896236259187	minicheck_default		False	
+0057	3	verified_supporting		entails	0.953931230054118	minicheck_default		False	
+0060	3	verified_supporting		entails	0.9741218122824872	minicheck_default		False	
+0060	3	verified_supporting		entails	0.9662112878518614	minicheck_default		False	
+0062	3	verified_supporting		entails	0.9052734375			False	
+0052	3	verified_supporting		entails	0.966796875			False	
+0059	3	verified_supporting		entails	0.9223429214455422	minicheck_default		False	
+0059	3	verified_supporting		entails	0.97067915945302	minicheck_default		False	
+0059	3	verified_supporting		entails	0.9553420930606863	minicheck_default		False	
+0058	3	verified_supporting		entails	0.8585318557313785	minicheck_default		False	
+0058	3	verified_supporting		entails	0.6783729231427276	deberta_blend		False	
+0058	3	verified_supporting		entails	0.9437644008388664	minicheck_default		False	
+0051	3	verified_supporting		entails	0.5			True	
+0051	3	refusal		entails	1.0			False	
+0023	3	verified_supporting		entails	0.8572137575983333	minicheck_default		False	
+0023	3	verified_supporting		entails	0.9584800589060432	minicheck_default		False	
+0048	3	verified_supporting		entails	0.5			True	
+0048	3	refusal		entails	1.0			False	
+0065	3	verified_supporting		entails	0.9640109459463618	minicheck_default		False	
+0065	3	verified_supporting		entails	0.9152820300480659	minicheck_default		False	
+0065	3	verified_supporting		entails	0.9655388994890063	minicheck_default		False	
+0065	3	verified_supporting		entails	0.833202795539869	minicheck_default		False	
+0065	3	verified_supporting		entails	0.8860074900752781	minicheck_default		False	
+0002	4	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0002	4	verified_supporting		entails	0.85	lexical_overlap_override		False	
+0006	4	verified_supporting		entails	0.98974609375			False	
+0001	4	verified_supporting		entails	0.9671944904849472	minicheck_default		False	
+0001	4	verified_supporting		entails	0.8408444361255061	minicheck_default		False	
+0001	4	verified_supporting		entails	0.9693397626114711	minicheck_default		False	
+0004	4	verified_supporting		entails	0.9360905437308137	minicheck_default		False	
+0004	4	verified_supporting		entails	0.9538061962638766	minicheck_default		False	
+0004	4	verified_supporting		entails	0.8158820535976904	minicheck_default		False	
+0004	4	verified_supporting		entails	0.9794921875			False	
+0005	4	verified_supporting		entails	0.8164839471453577	minicheck_default		False	
+0008	4	verified_supporting		entails	0.9622930042766498	minicheck_default		False	
+0008	4	verified_supporting		entails	0.9682574146785629	minicheck_default		False	
+0008	4	verified_supporting		entails	0.6079019077623286	deberta_blend		False	
+0009	4	verified_supporting		entails	0.99462890625			False	
+0009	4	verified_supporting		entails	0.9951171875			False	
+0010	4	verified_supporting		entails	0.9921875			False	
+0002	5	verified_supporting		entails	0.9315433757724902	minicheck_default		False	
+0002	5	verified_supporting		entails	0.5977570942362355	deberta_blend		False	
+0006	5	verified_supporting		entails	0.9418671780243557	minicheck_default		False	
+0001	5	verified_supporting		entails	0.6620365764197669	deberta_blend		False	
+0001	5	verified_supporting		entails	0.5571789514624358	deberta_blend		False	
+0004	5	verified_supporting		entails	0.901384563710251	minicheck_default		False	
+0004	5	verified_supporting		entails	0.7515041529455948	deberta_blend		False	
+0005	5	verified_supporting		entails	0.99951171875			False	
+0008	5	verified_supporting		entails	0.8601506086802071	minicheck_default		False	
+0008	5	verified_supporting		entails	0.9722400868224237	minicheck_default		False	
+0008	5	verified_supporting		entails	0.9614112142840541	minicheck_default		False	
+0009	5	verified_supporting		entails	0.99462890625			False	
+0002	6	verified_supporting		entails	0.8849847670666895	deberta_blend		False	
+0002	6	verified_supporting		entails	0.9594602445283978	minicheck_default		False	
+0006	6	verified_supporting		entails	0.98974609375			False	
+0001	6	verified_supporting		entails	0.9667913458760568	minicheck_default		False	
+0001	6	verified_supporting		entails	0.99609375			False	
+0005	6	verified_supporting		entails	0.6785134370370323	deberta_blend		False	
+0005	6	verified_supporting		entails	0.9729234001924393	minicheck_default		False	
+0004	6	verified_supporting		entails	0.5			True	
+0004	6	refusal		entails	1.0			False	
+0008	6	verified_supporting		entails	0.836137821247289	deberta_blend		False	
+0008	6	verified_supporting		entails	0.9400655925938854	minicheck_default		False	
+0009	6	verified_supporting		entails	0.9951171875			False	
+0002	7	verified_supporting		entails	0.8194554408145243	minicheck_default		False	
+0002	7	verified_supporting		entails	0.9314079968803917	minicheck_default		False	
+0006	7	bogus		entails	0.98974609375			False	
+0006	7	verified_supporting		entails	0.98974609375			False	
+0001	7	verified_supporting		entails	0.99609375			False	
+0004	7	verified_supporting		entails	0.9739459282513634	minicheck_default		False	
+0004	7	verified_supporting		entails	0.9260593695539782	minicheck_default		False	
+0004	7	verified_supporting		entails	0.9532221592764536	minicheck_default		False	
+0005	7	verified_supporting		entails	0.9775373774702025	minicheck_default		False	
+0008	7	verified_supporting		entails	0.5			True	
+0008	7	refusal		entails	1.0			False	
+0009	7	verified_supporting		entails	0.99462890625			False	
+0002	8	verified_supporting		entails	0.932138211930002	minicheck_default		False	
+0002	8	verified_supporting		entails	0.9566031729357206	minicheck_default		False	
+0004	8	verified_supporting		entails	0.9794921875			False	
+0008	8	verified_supporting		entails	0.5			True	
+0008	8	refusal		entails	1.0			False	
+0009	8	verified_supporting		entails	0.99462890625			False	
+0002	9	verified_supporting		entails	0.8592111726932588	deberta_blend		False	
+0002	9	verified_supporting		entails	0.6952535799136408	deberta_blend		False	
+0004	9	verified_supporting		entails	0.876890158205148	minicheck_default		False	
+0004	9	verified_supporting		entails	0.9794921875			False	

@@ -1,0 +1,15 @@
+qid	run	norm_answer	correct	note
+0014	BITEM-AC-4	star wars the last jedi	1	organiser-equivalent answer accepted for this question
+0019	BITEM-AC-4	8 pikanchi life is hard dakedo happy 2002 the blue light 2003 pikanchi life is hard dakara happy 2004 letters from iwo jima 2006 tekkon kinkreet 2006 kiiroi namida yellow tears 2007 heaven s door 2009 ōoku the inner chambers 2010	1	organiser-equivalent answer accepted for this question
+0020	BITEM-AC-4	8	0	answers 8 where the gold is 18
+0022	BITEM-AC-4	katharine hepburn won the academy award for best actress more times katharine hepburn won 4 academy awards for best actress 1933 1967 1968 1981 while audrey hepburn won 1 academy award for best actress for roman holiday 1953	1	organiser-equivalent answer accepted for this question
+0023	BITEM-AC-4	ingrid bergman won the academy award for best actress more times 2 times than grace kelly 1 time	1	organiser-equivalent answer accepted for this question
+0027	BITEM-AC-4	liver with fava beans and a nice chianti	1	organiser-equivalent answer accepted for this question
+0042	BITEM-AC-4	castle in the sky laputa castle in the sky	1	organiser-equivalent answer accepted for this question
+0049	BITEM-AC-4	2	1	organiser-equivalent answer accepted for this question
+0050	BITEM-AC-4	f9 had the higher worldwide box office with 726 2 million compared to fast x s 714 4 million	1	organiser-equivalent answer accepted for this question
+0063	BITEM-AC-4	at at walker all terrain armored transport	1	organiser-equivalent answer accepted for this question
+0064	BITEM-AC-4	rogue one is more successful than solo rogue one grossed 1 059 billion worldwide while solo grossed only 393 2 million worldwide	1	organiser-equivalent answer accepted for this question
+0020	revised-longest-deliberation	18 here on earth 2000 my first mister 2001 joy ride 2001 the glass house 2001 l idole 2002 max 2002 heavens fall 2006 in a dark place 2006 the wicker man 2006 lying 2006 walk all over me 2007 88 minutes 2008 in the name of the king 2008 night train 2009 public enemies 2009 finding bliss 2010 acts of violence 2010 the last film festival 2010	1	confirmed by hand: the answer opens with the gold '18' and adds the list it asks for
+0020	revised-independent-agreement	18 here on earth 2000 my first mister 2001 joy ride 2001 ruby baker film 2001 sarah silver film 2002 max 2002 lying 2006 heavens fall 2006 in a dark place 2006 sister honey film 2006 the elder son 2006 walk all over me 2007 in the name of the king 2007 88 minutes 2007 finding bliss 2009 night train 2009 public enemies 2009 acts of violence 2010	1	confirmed by hand: the answer opens with the gold '18' and adds the list it asks for
+0064	revised-independent-agreement	rogue one a star wars story	1	confirmed by hand: the answer is the full title of the gold 'Rogue One'

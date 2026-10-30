@@ -1,0 +1,1166 @@
+qid	pss	seq	kind	committed	substituted	reason	attempt_conf	n_eff	citation_pids	text
+0002	0	0	final	1	0					Black Widow
+0002	0	0	draft	1	0					Black Widow
+0002	0	1	submit	1	0		100	2	Q23895063__00001 Q23894626__00001	Black Widow
+0001	0	0	final	1	0					Bor Gullet
+0001	0	0	draft	1	0					Bor Gullet
+0001	0	1	submit	1	0		66	2	557172__00001 471805__00006	Bor Gullet
+0005	0	0	final	1	0					1: On Her Majesty's Secret Service
+0005	0	0	draft	1	0					1: On Her Majesty's Secret Service
+0005	0	1	submit	1	0		60	2	Q205599__00001 Q131861037__00001	1: On Her Majesty's Secret Service
+0004	0	0	final	1	0					Roger Moore
+0004	0	0	draft	1	0					Roger Moore
+0004	0	1	submit	1	0		100	3	Q334780__00001 Q334780__00014 Q334780__00006	Roger Moore
+0003	0	0	final	1	0					A robot may not harm humanity, or, by inaction, allow humanity to come to harm
+0003	0	0	draft	1	0					A robot may not harm humanity, or, by inaction, allow humanity to come to harm
+0003	0	1	submit	1	0		95	1	Q200572__00010	A robot may not harm humanity, or, by inaction, allow humanity to come to harm
+0006	0	0	final	1	0					Soul Stone
+0006	0	0	draft	1	0					Soul Stone
+0006	0	1	submit	1	0		59	2	Q23781155__00009 Q23895063__00009	Soul Stone
+0007	0	0	final	1	0					Love Is All Around
+0007	0	0	draft	1	0					Love Is All Around
+0007	0	1	submit	1	0		97	1	Q190588__00003	Love Is All Around
+0008	0	0	final	1	0					Ryan Reynolds
+0008	0	0	draft	1	0					Ryan Reynolds
+0008	0	1	submit	1	0		74	2	Q903885__00001 Q113485245__00001	Ryan Reynolds
+0009	0	0	final	1	0					National Gallery
+0009	0	0	draft	1	0					National Gallery
+0009	0	1	submit	0	0	low_confidence_or_insufficient_evidence	78	1	Q752103__00001	National Gallery
+0009	0	2	submit	1	0		100	2	Q752103__00001 Q752103__00002	National Gallery
+0010	0	0	final	1	0					Jeff Goldblum
+0010	0	0	draft	1	0					Jeff Goldblum
+0010	0	1	submit	1	0		95	1	Q24797403__00006	Jeff Goldblum
+0011	0	0	final	1	0					Zeniba
+0011	0	0	draft	1	0					Zeniba
+0011	0	1	submit	1	0		93	1	Q155653__00004	Zeniba
+0012	0	0	final	1	0					Gareth
+0012	0	0	draft	1	0					Gareth
+0012	0	1	submit	0	0	low_confidence_or_insufficient_evidence	48	1	Q901213__00003	Gareth
+0012	0	2	submit	1	0		96	2	Q901213__00003 Q901213__00005	Gareth
+0013	0	0	final	1	0					Michael J. Fox
+0013	0	0	draft	1	0					Michael J. Fox
+0013	0	1	submit	0	0	low_confidence_or_insufficient_evidence	38	1	Q2588730__00014	Michael J. Fox
+0013	0	2	submit	1	0		87	2	Q2588730__00014 Q2588730__00008	Michael J. Fox
+0014	0	0	final	1	0					The Last Jedi
+0014	0	0	draft	1	0					The Last Jedi
+0014	0	1	submit	1	0		100	3	Q6586871__00001 398125__00001 Q6586871__00027	The Last Jedi
+0015	0	0	final	1	0					Donnie Yen
+0015	0	0	draft	1	0					Donnie Yen
+0015	0	1	submit	1	0		86	2	Q80322358__00007 Q19590955__00006	Donnie Yen
+0018	0	0	final	1	0					6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0018	0	0	draft	1	0					6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0018	0	1	submit	1	0		70	4	Q25191__00001 Q20429987__00001 Q20429987__00002 Q163872__00001	6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0016	0	0	final	1	0					Avengers: Infinity War
+0016	0	0	draft	1	0					Avengers: Infinity War
+0016	0	0	envelope	1	0	pre_ladder_tier1				Avengers: Infinity War
+0016	0	1	submit	0	0	low_confidence_or_insufficient_evidence	23	2	Q14171368__00048 Q62721520__00001	Avengers: Infinity War
+0016	0	2	submit	0	0	low_confidence_or_insufficient_evidence	35	3	Q14171368__00048 Q62721520__00001 Q51963836__00015	Avengers: Infinity War
+0016	0	3	submit	0	0	low_confidence_or_insufficient_evidence	35	4	Q14171368__00048 Q62721520__00001 Q51963836__00015 Q62721520__00011	Avengers: Infinity War
+0016	0	4	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q14171368__00048 Q62721520__00001 Q51963836__00015 Q62721520__00011 Q23780914__00002	Avengers: Infinity War
+0016	0	5	submit	0	0	low_confidence_or_insufficient_evidence	35	6	Q14171368__00048 Q62721520__00001 Q51963836__00015 Q62721520__00011 Q23780914__00002 Q23780914__00001	Avengers: Infinity War
+0017	0	0	final	1	0					Avatar
+0017	0	0	draft	1	0					Avatar
+0017	0	0	envelope	1	0	pre_ladder_tier1				Avatar
+0017	0	1	submit	0	0	low_confidence_or_insufficient_evidence	20	2	Q24871__00043 Q15270647__00015	Avatar
+0017	0	2	submit	0	0	low_confidence_or_insufficient_evidence	25	3	Q24871__00043 Q15270647__00015 Q16987460__00003	Avatar
+0017	0	3	submit	0	0	low_confidence_or_insufficient_evidence	25	3	Q24871__00043 Q15270647__00015 Q16987460__00003	Avatar
+0017	0	4	submit	0	0	low_confidence_or_insufficient_evidence	30	4	Q24871__00043 Q15270647__00015 Q16987460__00003 Q56000996__00011	Avatar
+0017	0	5	submit	0	0	low_confidence_or_insufficient_evidence	30	4	Q24871__00043 Q15270647__00015 Q16987460__00003 Q56000996__00011	Avatar
+0019	0	0	final	1	0					5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0019	0	0	draft	1	0					5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0019	0	1	submit	0	0	invalid_rationale			Q362277__00012 Q275187__00001	5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0019	0	2	submit	1	0		70	2	Q362277__00012 Q275187__00001	5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0020	0	0	final	1	0					18
+0020	0	0	draft	1	0					18
+0020	0	0	envelope	1	0	final_fallback_submit_history				18
+0020	0	1	submit	0	0	invalid_rationale			Q229228__00001 Q229228__00004 Q229228__00005 Q229228__00006 Q229228__00007	18
+0020	0	2	submit	0	0	low_confidence_or_insufficient_evidence	40	3	Q229228__00001 Q229228__00004 Q229228__00005 Q229228__00006 Q229228__00007	18
+0020	0	3	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q229228__00001 Q229228__00004 Q229228__00005 Q229228__00006 Q229228__00007 Q821878__00001 Q274400__00001	18
+0020	0	4	submit	0	1	substituted:format_rejected:too_long	15		Q229228__00001 Q229228__00004 Q229228__00005 Q229228__00006 Q229228__00007 Q821878__00001 Q274400__00001	18: Here on Earth (2000), My First Mister (2001), Joy Ride (2001), The Glass House (2001), L'Idole (2002), Max (2002), Heavens Fall (2006), In a Dark Place (2006), The Wicker Man (2006), Lying (2006), Walk All over Me (2007), 88 Minutes (2008), In the Name of the King (2008), Night Train (2009), Public Enemies (2009), Finding Bliss (2010), Acts of Violence (2010), The Last Film Festival (2010)
+0020	0	4	substitute	1	0	final_fallback_submit_history	15		Q821878__00001	18
+0021	0	0	final	1	0					Natalie Portman
+0021	0	0	draft	1	0					Natalie Portman
+0021	0	0	envelope	1	0	pre_ladder_tier1				Natalie Portman
+0021	0	1	submit	0	0	low_confidence_or_insufficient_evidence	20	2	Q37876__00003 Q229228__00001	Natalie Portman
+0021	0	2	submit	0	0	low_confidence_or_insufficient_evidence	35	3	Q37876__00003 Q229228__00001 63259__00001	Natalie Portman
+0021	0	3	submit	0	0	low_confidence_or_insufficient_evidence	35	4	Q37876__00003 Q229228__00001 63259__00001 Q229228__00002	Natalie Portman
+0021	0	4	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q37876__00003 Q229228__00001 63259__00001 73__00001 Q229228__00002	Natalie Portman
+0021	0	5	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q37876__00003 Q229228__00001 63259__00001	Natalie Portman
+0021	0	6	submit	1	0		25		Q37876__00003 Q229228__00001 63259__00001 Q37876__00001	Natalie Portman
+0022	0	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0022	0	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0022	0	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0022	0	1	submit	0	1	substituted:format_rejected:contains_semicolon	5		Q103618__00001 Q42786__00040	Katharine Hepburn: 4 Academy Award for Best Actress wins; Audrey Hepburn: 1 Academy Award for Best Actress win
+0022	0	1	substitute	1	0	canonical_refusal	5		Q42786__00040	The corpus does not support an answer to this question; insufficient evidence to respond.
+0024	0	0	final	1	0					3: The Curse of the Black Pearl (2003), Dead Man's Chest (2006), At World's End (2007)
+0024	0	0	draft	1	0					3: The Curse of the Black Pearl (2003), Dead Man's Chest (2006), At World's End (2007)
+0024	0	1	submit	1	0		70	2	Q46717__00002 Q217037__00010	3: The Curse of the Black Pearl (2003), Dead Man's Chest (2006), At World's End (2007)
+0023	0	0	final	1	0					Ingrid Bergman won more Academy Awards for Best Actress: 2 (for Gaslight in 1944 and Anastasia in 1956), compared to Grace Kelly's 1 (for The Country Girl in 1954).
+0023	0	0	draft	1	0					Ingrid Bergman won more Academy Awards for Best Actress: 2 (for Gaslight in 1944 and Anastasia in 1956), compared to Grace Kelly's 1 (for The Country Girl in 1954).
+0023	0	1	submit	0	0	low_confidence_or_insufficient_evidence	24	2	Q43247__00050 Q3925__00011	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0023	0	2	submit	0	0	low_confidence_or_insufficient_evidence	29	3	Q43247__00050 Q3510453__00004 Q3925__00011	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0023	0	3	submit	0	0	low_confidence_or_insufficient_evidence	30	4	Q43247__00050 Q3510453__00004 Q3925__00011	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0023	0	4	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q43247__00050 Q3510453__00004 Q3925__00011 Q3925__00001	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0023	0	5	submit	0	0	low_confidence_or_insufficient_evidence	35	6	Q43247__00050 Q3510453__00004 Q3925__00011 Q3925__00001 Q841781__00001	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0025	0	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0025	0	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0025	0	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0025	0	1	submit	0	0	invalid_rationale			Q483645__00001 Q483645__00002 Q483645__00004	The corpus does not support an answer to this question.
+0025	0	2	submit	0	1	substituted:model_requested_refusal	5		Q483645__00001 Q483645__00002 Q483645__00004	The corpus does not support an answer to this question.
+0025	0	2	substitute	1	0	canonical_refusal	5		Q490092__00001	The corpus does not support an answer to this question; insufficient evidence to respond.
+0026	0	0	final	1	0					Joaquin Phoenix
+0026	0	0	draft	1	0					Joaquin Phoenix
+0026	0	1	submit	0	0	low_confidence_or_insufficient_evidence	38	1	Q128518__00006	Joaquin Phoenix
+0026	0	2	submit	1	0		72	2	Q128518__00006 Q185140__00001	Joaquin Phoenix
+0028	0	0	final	1	0					regal blue tang
+0028	0	0	draft	1	0					regal blue tang
+0028	0	1	submit	1	0		80	2	Q132863__00007 Q9321426__00003	regal blue tang
+0029	0	0	final	1	0					rock hammer
+0029	0	0	draft	1	0					rock hammer
+0029	0	1	submit	0	0	low_confidence_or_insufficient_evidence	77	1	Q172241__00005	rock hammer
+0029	0	2	submit	1	0		100	2	Q172241__00005 Q172241__00020	rock hammer
+0027	0	0	final	1	0					fava beans
+0027	0	0	draft	1	0					fava beans
+0027	0	1	submit	1	0		100	2	Q211013__00004 Q133654__00019	fava beans
+0030	0	0	final	1	0					Ian McKellen
+0030	0	0	draft	1	0					Ian McKellen
+0030	0	1	submit	1	0		100	1	Q170510__00014	Ian McKellen
+0031	0	0	final	1	0					Humphrey Bogart
+0031	0	0	draft	1	0					Humphrey Bogart
+0031	0	1	submit	0	0	low_confidence_or_insufficient_evidence	78	1	Q16390__00022	Humphrey Bogart
+0031	0	2	submit	1	0		100	2	Q16390__00022 Q132689__00001	Humphrey Bogart
+0033	0	0	final	1	0					Titanic
+0033	0	0	draft	1	0					Titanic
+0033	0	1	submit	0	0	low_confidence_or_insufficient_evidence	74	1	Q44578__00007	Titanic
+0033	0	2	submit	0	0	invalid_rationale			Q44578__00007 Q44578__00003	Titanic
+0033	0	3	submit	1	0		100	2	Q44578__00007 Q44578__00003	Titanic
+0036	0	0	final	1	0					Lotso
+0036	0	0	draft	1	0					Lotso
+0036	0	1	submit	1	0		97	1	Q2235021__00050	Lotso
+0037	0	0	final	1	0					We Scare Because We Care
+0037	0	0	draft	1	0					We Scare Because We Care
+0037	0	1	submit	1	0		96	1	Q6902878__00001	We Scare Because We Care
+0032	0	0	final	1	0					8
+0032	0	0	draft	1	0					8
+0032	0	1	submit	0	0	low_confidence_or_insufficient_evidence	22	2	Q125076__00019 Q3837845__00004 Q125076__00015	8
+0032	0	2	submit	0	0	low_confidence_or_insufficient_evidence	34	3	Q125076__00019 Q3837845__00004 Q430100__00001	8
+0032	0	3	submit	0	0	low_confidence_or_insufficient_evidence	40	4	Q125076__00019 Q3837845__00004 Q430100__00001 Q125076__00015	8
+0032	0	4	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q125076__00019 Q3837845__00004 Q430100__00001 Q125076__00015 Q313956__00010	8
+0032	0	5	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q125076__00019 Q3837845__00004 Q430100__00001 Q125076__00015 Q313956__00010	8
+0032	0	6	submit	1	0		60	6	Q125076__00019 Q3837845__00004 Q430100__00001 Q125076__00015 Q313956__00010 Q6573943__00002	8
+0035	0	0	final	1	0					10 years
+0035	0	0	draft	1	0					10 years
+0035	0	0	envelope	1	0	final_fallback_submit_history				10 years
+0035	0	1	submit	0	0	low_confidence_or_insufficient_evidence	0	2	Q24871__00002 Q23781155__00002	10 years
+0035	0	2	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q24871__00002 Q23781155__00002 Q23781155__00025	10 years
+0035	0	3	submit	0	0	low_confidence_or_insufficient_evidence	28	4	Q24871__00002 Q24871__00031 Q23781155__00002 Q23781155__00025	10 years
+0035	0	4	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q24871__00002 Q24871__00031 Q23781155__00002 Q23781155__00025 Q740433__00004	10 years
+0035	0	5	submit	0	0	low_confidence_or_insufficient_evidence	35	6	Q24871__00001 Q24871__00002 Q24871__00031 Q23781155__00002 Q23781155__00025 Q740433__00004	10 years
+0035	0	6	submit	0	0	handler_exception			Q24871__00001 Q24871__00002 Q24871__00031 Q23781155__00001 Q23781155__00002 Q23781155__00025 Q740433__00004	10 years
+0035	0	7	submit	1	0		15		Q24871__00001 Q24871__00002 Q24871__00031 Q23781155__00001 Q23781155__00002 Q23781155__00025 Q740433__00004	10 years
+0034	0	0	final	1	0					14
+0034	0	0	draft	1	0					14
+0034	0	1	submit	0	0	low_confidence_or_insufficient_evidence	24	2	Q305561__00001 Q305561__00003	14
+0034	0	2	submit	0	0	low_confidence_or_insufficient_evidence	24	2	Q305561__00001 Q305561__00003	14
+0034	0	3	submit	0	0	low_confidence_or_insufficient_evidence	24	2	Q305561__00001 Q305561__00003	14
+0034	0	4	submit	0	0	low_confidence_or_insufficient_evidence	24	2	Q305561__00001 Q305561__00003	14
+0034	0	5	submit	0	0	low_confidence_or_insufficient_evidence	39	3	Q305561__00001 Q305561__00003 Q305561__00004	14
+0038	0	0	final	1	0					3
+0038	0	0	draft	1	0					3
+0038	0	1	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q171048__00001 Q216153__00001 Q187266__00001 Q187726__00001 Q132863__00001	3
+0038	0	2	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q171048__00001 Q216153__00001 Q187266__00001 Q187726__00001 Q132863__00001	3
+0038	0	3	submit	0	0	invalid_rationale			Q171048__00001 Q216153__00001 Q187266__00001 Q187726__00001 Q132863__00001 Q132863__00017	3
+0038	0	4	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q171048__00001 Q216153__00001 Q187266__00001 Q187726__00001 Q132863__00001	3
+0038	0	5	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q171048__00001 Q216153__00001 Q187266__00001 Q187726__00001 Q132863__00001	3
+0038	0	6	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q171048__00001 Q216153__00001 Q187266__00001 Q187726__00001 Q132863__00001	3
+0040	0	0	final	1	0					A113
+0040	0	0	draft	1	0					A113
+0040	0	1	submit	1	0		94	1	Q104905__00004	A113
+0041	0	0	final	1	0					Lloyd Sherr
+0041	0	0	draft	1	0					Lloyd Sherr
+0041	0	1	submit	1	0		100	2	Q192212__00008 Q1060986__00016	Lloyd Sherr
+0043	0	0	final	1	0					Totoro
+0043	0	0	draft	1	0					Totoro
+0043	0	1	submit	0	0	low_confidence_or_insufficient_evidence	24	1	Q39571__00018	Totoro
+0043	0	2	submit	0	0	invalid_rationale			Q39571__00018 Q39571__00001	Totoro
+0043	0	3	submit	1	0		88	2	Q39571__00018 Q39571__00001	Totoro
+0039	0	0	final	1	0					8605 days
+0039	0	0	draft	1	0					8605 days
+0039	0	0	envelope	1	0	pre_ladder_tier1				8605 days
+0039	0	1	submit	0	0	low_confidence_or_insufficient_evidence	0	2	Q171048__00022 Q18517638__00014	8604
+0039	0	2	submit	0	0	invalid_rationale			Q171048__00022 Q18517638__00014	8604
+0039	0	3	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q171048__00022 Q18517638__00014	8604
+0039	0	4	submit	0	0	low_confidence_or_insufficient_evidence	0	4	Q171048__00022 Q18517638__00014 Q18517638__00002	8604
+0039	0	5	submit	0	0	low_confidence_or_insufficient_evidence	0	4	Q171048__00022 Q171048__00002 Q18517638__00014 Q18517638__00002	8604
+0039	0	6	submit	0	0	low_confidence_or_insufficient_evidence	0	5	Q171048__00022 Q171048__00002 Q18517638__00014 Q18517638__00002	8604
+0042	0	0	final	1	0					Castle in the Sky
+0042	0	0	draft	1	0					Castle in the Sky
+0042	0	0	envelope	1	0	pre_ladder_tier1				Castle in the Sky
+0042	0	1	submit	0	0	low_confidence_or_insufficient_evidence	6	1	Q498577__00001	Castle in the Sky
+0042	0	2	submit	0	0	low_confidence_or_insufficient_evidence	12	2	Q498577__00001 Q713511__00004	Castle in the Sky
+0042	0	3	submit	0	0	low_confidence_or_insufficient_evidence	18	3	Q498577__00001 Q713511__00004 Q55400__00020	Castle in the Sky
+0042	0	4	submit	0	0	low_confidence_or_insufficient_evidence	18	3	Q498577__00001 Q713511__00004 Q55400__00020	Castle in the Sky
+0042	0	5	submit	0	0	invalid_rationale			Q498577__00001 Q55400__00020 Q713511__00004 Q28154809__00005	Castle in the Sky
+0042	0	6	submit	0	0	low_confidence_or_insufficient_evidence	18	3	Q498577__00001 Q55400__00020 Q713511__00004	Castle in the Sky
+0044	0	0	final	1	0					Spirited Away
+0044	0	0	draft	1	0					Spirited Away
+0044	0	1	submit	0	0	invalid_rationale			Q155653__00002 Q55400__00032	Spirited Away
+0044	0	2	submit	1	0		100	2	Q155653__00002 Q55400__00032	Spirited Away
+0045	0	0	final	1	0					5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0045	0	0	draft	1	0					5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0045	0	1	submit	0	0	invalid_rationale			Q24988397__00002 Q24988397__00003 Q55400__00002	5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0045	0	2	submit	1	0		70	1	Q24988397__00002 Q24988397__00003 Q55400__00002	5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0046	0	0	final	1	0					4: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019)
+0046	0	0	draft	1	0					4: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019)
+0046	0	1	submit	1	0		70	1	Q367466__00028	4: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019)
+0049	0	0	final	1	0					1: Fast X
+0049	0	0	draft	1	0					1: Fast X
+0049	0	1	submit	1	0		60	6	Q31271369__00001 Q213208__00001 Q380996__00001 Q401976__00001 Q5516100__00001 Q1576873__00031	1: Fast X
+0048	0	0	final	1	0					Furious 7
+0048	0	0	draft	1	0					Furious 7
+0048	0	1	submit	0	0	invalid_rationale			Q14650496__00001 Q1991640__00009 Q2714923__00053	Furious 7
+0048	0	2	submit	0	0	low_confidence_or_insufficient_evidence	27	3	Q14650496__00001 Q1991640__00009 Q2714923__00053	Furious 7
+0048	0	3	submit	0	0	low_confidence_or_insufficient_evidence	36	4	Q14650496__00001 Q1991640__00009 Q2714923__00053 Q14650496__00007	Furious 7
+0048	0	4	submit	0	0	low_confidence_or_insufficient_evidence	43	5	Q14650496__00001 Q1991640__00009 Q2714923__00053 Q14650496__00007 Q2714923__00074	Furious 7
+0048	0	5	submit	1	0		50	6	Q14650496__00001 Q1991640__00009 Q2714923__00053 Q14650496__00007 Q2714923__00074 Q2714923__00108	Furious 7
+0047	0	0	final	1	0					3
+0047	0	0	draft	1	0					3
+0047	0	0	envelope	1	0	final_fallback_submit_history				3
+0047	0	1	submit	0	0	low_confidence_or_insufficient_evidence	15	1	Q14320__00002	3
+0047	0	2	submit	0	0	low_confidence_or_insufficient_evidence	30	2	Q14320__00002 Q14320__00003	3
+0047	0	3	submit	0	0	low_confidence_or_insufficient_evidence	30	2	Q14320__00002 Q14320__00003	3
+0047	0	4	submit	0	0	low_confidence_or_insufficient_evidence	30	2	Q14320__00002 Q14320__00003	3
+0047	0	5	submit	0	0	low_confidence_or_insufficient_evidence	30	2	Q14320__00002 Q14320__00003	3
+0047	0	6	submit	1	0		15		Q14320__00002 Q14320__00003	3
+0051	0	0	final	1	0					Murphy Cooper
+0051	0	0	draft	1	0					Murphy Cooper
+0051	0	1	submit	0	0	low_confidence_or_insufficient_evidence	56	1	Q13417189__00006	Murphy Cooper
+0051	0	2	submit	1	0		100	2	Q13417189__00006 Q13417189__00003	Murphy Cooper
+0052	0	0	final	1	0					Murph
+0052	0	0	draft	1	0					Murph
+0052	0	1	submit	0	0	low_confidence_or_insufficient_evidence	78	1	Q13417189__00006	Murph
+0052	0	2	submit	1	0		100	2	Q13417189__00006 Q13417189__00003	Murph
+0050	0	0	final	1	0					F9 had the higher worldwide box office, grossing $726.2 million compared to Fast X's $714.4 million.
+0050	0	0	draft	1	0					F9 had the higher worldwide box office, grossing $726.2 million compared to Fast X's $714.4 million.
+0050	0	1	submit	0	0	low_confidence_or_insufficient_evidence	24	2	Q29466808__00015 Q31271369__00031	F9
+0050	0	2	submit	0	0	low_confidence_or_insufficient_evidence	35	3	Q29466808__00015 Q31271369__00031 Q1576873__00018	F9
+0050	0	3	submit	0	0	low_confidence_or_insufficient_evidence	35	4	Q29466808__00015 Q31271369__00031 Q1576873__00018 Q31271369__00002	F9
+0050	0	4	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q29466808__00015 Q31271369__00031 Q1576873__00018 Q31271369__00002 Q63859907__00010	F9
+0050	0	5	submit	0	0	invalid_rationale			Q29466808__00015 Q31271369__00031 Q1576873__00018 Q31271369__00002 Q63859907__00010	F9
+0050	0	6	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q29466808__00015 Q31271369__00031 Q1576873__00018 Q31271369__00002 Q63859907__00010	F9
+0053	0	0	final	1	0					10
+0053	0	0	draft	1	0					10
+0053	0	1	submit	1	0		100	1	Q13417189__00006	10
+0054	0	0	final	1	0					Oppenheimer
+0054	0	0	draft	1	0					Oppenheimer
+0054	0	1	submit	1	0		87	3	Q108839994__00001 Q25191__00021	Oppenheimer
+0055	0	0	final	1	0					Tomorrowland
+0055	0	0	draft	1	0					Tomorrowland
+0055	0	1	submit	1	0		98	1	Q7820305__00012	Tomorrowland
+0056	0	0	final	1	0					Hoth
+0056	0	0	draft	1	0					Hoth
+0056	0	1	submit	0	0	invalid_rationale			453782__00001 1855__00016	Hoth
+0056	0	2	submit	1	0		100	2	453782__00001 1855__00016	Hoth
+0060	0	0	final	1	0					Starkiller Base
+0060	0	0	draft	1	0					Starkiller Base
+0060	0	1	submit	1	0		98	1	590566__00002	Starkiller Base
+0059	0	0	final	1	0					Samuel L. Jackson
+0059	0	0	draft	1	0					Samuel L. Jackson
+0059	0	1	submit	1	0		86	2	Q42051__00006 Q23900377__00001	Samuel L. Jackson
+0058	0	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0058	0	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0058	0	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0058	0	1	submit	0	1	substituted:format_rejected:contains_semicolon	5		539115__00001 539115__00037	"""I'm one with the Force; the Force is with me"""
+0058	0	1	substitute	1	0	canonical_refusal	5		539115__00001	The corpus does not support an answer to this question; insufficient evidence to respond.
+0063	0	0	final	1	0					AT-AT walkers
+0063	0	0	draft	1	0					AT-AT walkers
+0063	0	1	submit	0	0	invalid_rationale			Q181795__00003 16466__00006	AT-AT walkers
+0063	0	2	submit	1	0		100	2	Q181795__00003 16466__00006	AT-AT walkers
+0062	0	0	final	1	0					Stardust
+0062	0	0	draft	1	0					Stardust
+0062	0	1	submit	1	0		100	2	470168__00001 547019__00002	Stardust
+0057	0	0	final	1	0					Plo Koon
+0057	0	0	draft	1	0					Plo Koon
+0057	0	0	envelope	1	0	pre_ladder_tier1				Plo Koon
+0057	0	1	submit	0	0	invalid_rationale			453381__00001 483523__00001	Plo Koon
+0057	0	2	submit	0	0	low_confidence_or_insufficient_evidence	0	0	453381__00001 483523__00001	Plo Koon
+0061	0	0	final	1	0					Home
+0061	0	0	draft	1	0					Home
+0061	0	0	envelope	1	0	pre_ladder_tier1				Home
+0061	0	1	submit	0	0	low_confidence_or_insufficient_evidence	15	1	Q2307877__00001	Home
+0061	0	2	submit	0	0	low_confidence_or_insufficient_evidence	15	1	Q2307877__00001	Home
+0061	0	3	submit	0	0	low_confidence_or_insufficient_evidence	20	2	Q2307877__00001 Q27985819__00001	Home
+0061	0	4	submit	0	0	low_confidence_or_insufficient_evidence	20	3	Q2307877__00001 Q27985819__00001 Q68934496__00001	Home
+0061	0	5	submit	0	0	low_confidence_or_insufficient_evidence	20	4	Q2307877__00001 Q27985819__00001 Q68934496__00001 Q2023710__00002	Home
+0064	0	0	final	1	0					Rogue One is more successful, grossing $1.059 billion worldwide compared to Solo's $393.2 million worldwide.
+0064	0	0	draft	1	0					Rogue One is more successful, grossing $1.059 billion worldwide compared to Solo's $393.2 million worldwide.
+0064	0	1	submit	0	0	invalid_rationale			Q27038847__00019 Q19590955__00022	Rogue One: $1.059 billion worldwide (vs Solo's $393.2 million)
+0064	0	2	submit	0	0	low_confidence_or_insufficient_evidence	22	2	Q27038847__00019 Q19590955__00022	Rogue One: $1.059 billion worldwide (vs Solo's $393.2 million)
+0064	0	3	submit	0	0	low_confidence_or_insufficient_evidence	34	4	Q27038847__00019 Q19590955__00022 Q27038847__00002 Q19590955__00002	Rogue One: $1.059 billion worldwide (vs Solo's $393.2 million)
+0064	0	4	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q27038847__00019 Q19590955__00022 Q27038847__00002 Q19590955__00002 Q27038847__00020	Rogue One: $1.059 billion worldwide (vs Solo's $393.2 million)
+0064	0	5	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q27038847__00019 Q19590955__00022 Q27038847__00002 Q19590955__00002 Q27038847__00020	Rogue One: $1.059 billion worldwide (vs Solo's $393.2 million)
+0064	0	6	submit	0	0	low_confidence_or_insufficient_evidence	35	6	Q27038847__00019 Q19590955__00022 Q27038847__00002 Q19590955__00002 Q27038847__00020 452340__00031	Rogue One: $1.059 billion worldwide (vs Solo's $393.2 million)
+0065	0	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0065	0	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0065	0	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0065	0	1	submit	0	0	invalid_rationale			Q242446__00014 Q716069__00004 513406__00001 539115__00036 539121__00039 539121__00001	Imperial death troopers killed both characters: Chirrut Îmwe (played by Donnie Yen) was killed by a death trooper's explosion, and Baze Malbus (played by Jiang Wen) was killed by a death trooper's C-25 fragmentation grenade.
+0065	0	2	submit	0	1	substituted:format_rejected:too_long	5		Q242446__00014 Q716069__00001 513406__00001 539115__00036 539121__00001	Imperial death troopers killed both characters: Chirrut Îmwe (played by Donnie Yen) was killed by a death trooper's explosion, and Baze Malbus (played by Jiang Wen) was killed by a death trooper's C-25 fragmentation grenade.
+0065	0	2	substitute	1	0	canonical_refusal	5		539121__00001	The corpus does not support an answer to this question; insufficient evidence to respond.
+0002	1	0	final	1	0					Black Widow
+0002	1	0	draft	1	0					Black Widow
+0002	1	1	submit	1	0		100	2	Q34436__00002 Q205028__00016	Black Widow
+0001	1	0	final	1	0					Bor Gullet
+0001	1	0	draft	1	0					Bor Gullet
+0001	1	1	submit	1	0		100	3	452340__00005 557172__00002 539125__00005	Bor Gullet
+0004	1	0	final	1	0					Roger Moore
+0004	1	0	draft	1	0					Roger Moore
+0004	1	1	submit	1	0		63	2	Q334780__00019 Q334780__00020	Roger Moore
+0006	1	0	final	1	0					Soul Stone
+0006	1	0	draft	1	0					Soul Stone
+0006	1	1	submit	1	0		100	2	Q23895063__00001 Q24026688__00008	Soul Stone
+0003	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0003	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0003	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0003	1	1	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0003	1	2	submit	0	1	substituted:model_requested_refusal	5			The corpus does not support an answer to this question.
+0003	1	2	substitute	1	0	canonical_refusal	5		Q200572__00010	The corpus does not support an answer to this question; insufficient evidence to respond.
+0005	1	0	final	1	0					1
+0005	1	0	draft	1	0					1
+0005	1	1	submit	0	0	low_confidence_or_insufficient_evidence	27	2	Q1146142__00001 Q107914__00011	1
+0005	1	2	submit	0	0	invalid_rationale			Q1146142__00001 Q107914__00011 Q107894__00017	1
+0005	1	3	submit	0	0	low_confidence_or_insufficient_evidence	37	3	Q1146142__00001 Q107914__00011 Q107894__00017	1
+0005	1	4	submit	0	0	low_confidence_or_insufficient_evidence	40	4	Q1146142__00001 Q107914__00011 Q107894__00017 Q107894__00023	1
+0005	1	5	submit	0	0	low_confidence_or_insufficient_evidence	40	4	Q1146142__00001 Q107914__00011 Q107894__00017 Q107894__00023	1
+0005	1	6	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q1146142__00001 Q107914__00011 Q107894__00017 Q107894__00023 Q205599__00005	1
+0007	1	0	final	1	0					Love Is All Around
+0007	1	0	draft	1	0					Love Is All Around
+0007	1	1	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0007	1	2	submit	0	0	exhaustion_gate_unmet	0			The corpus does not support an answer to this question.
+0007	1	3	submit	0	0	exhaustion_gate_unmet	0			The corpus does not support an answer to this question.
+0008	1	0	final	1	0					Ryan Reynolds
+0008	1	0	draft	1	0					Ryan Reynolds
+0008	1	1	submit	1	0		94	2	Q2345627__00003 Q192682__00001	Ryan Reynolds
+0009	1	0	final	1	0					National Gallery
+0009	1	0	draft	1	0					National Gallery
+0009	1	0	envelope	1	0	path4_prior_rollout_seed				National Gallery
+0009	1	1	submit	1	0		15			
+0010	1	0	final	1	0					Jeff Goldblum
+0010	1	0	draft	1	0					Jeff Goldblum
+0010	1	1	submit	0	0	low_confidence_or_insufficient_evidence	80	1	Q24797403__00012	Jeff Goldblum
+0010	1	2	submit	1	0		100	2	Q24797403__00012 Q106706__00001	Jeff Goldblum
+0011	1	0	final	1	0					Zeniba
+0011	1	0	draft	1	0					Zeniba
+0011	1	1	submit	0	0	invalid_rationale			Q155653__00011 Q233902__00012	The corpus does not support an answer to this question.
+0011	1	2	submit	0	1	substituted:?	90	1	Q155653__00011 Q233902__00012	The corpus does not support an answer to this question.
+0011	1	2	substitute	1	0		90	1	Q155653__00011 Q1190336__00001	Zeniba
+0012	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0012	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0012	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0012	1	1	submit	0	0	invalid_rationale				
+0012	1	2	submit	1	0		5			
+0013	1	0	final	1	0					Michael J. Fox
+0013	1	0	draft	1	0					Michael J. Fox
+0013	1	1	submit	0	0	low_confidence_or_insufficient_evidence	73	1	Q109331__00006	Michael J. Fox
+0013	1	2	submit	1	0		100	2	Q109331__00006 Q395274__00022	Michael J. Fox
+0014	1	0	final	1	0					Star Wars: The Last Jedi
+0014	1	0	draft	1	0					Star Wars: The Last Jedi
+0014	1	0	envelope	1	0	pre_ladder_tier1				Star Wars: The Last Jedi
+0014	1	1	submit	0	0	low_confidence_or_insufficient_evidence	11	3	398122__00001 398124__00001 Q6586871__00002	Star Wars: The Last Jedi
+0014	1	2	submit	0	0	invalid_rationale			398122__00001 398124__00001 Q6586871__00002 Q18486021__00001	Star Wars: The Last Jedi
+0014	1	3	submit	0	0	low_confidence_or_insufficient_evidence	11	4	398122__00001 398124__00001 Q6586871__00002 Q18486021__00001	Star Wars: The Last Jedi
+0014	1	4	submit	0	0	low_confidence_or_insufficient_evidence	13	5	398122__00001 398124__00001 Q6586871__00002 Q18486021__00001 Q20977110__00001	Star Wars: The Last Jedi
+0014	1	5	submit	0	0	low_confidence_or_insufficient_evidence	19	6	398122__00001 398124__00001 Q6586871__00002 Q18486021__00001 Q20977110__00001 27274__00021	Star Wars: The Last Jedi
+0014	1	6	submit	0	0	low_confidence_or_insufficient_evidence	20	7	398122__00001 398124__00001 Q6586871__00002 Q18486021__00001 Q20977110__00001 27274__00021 Q18486021__00009	Star Wars: The Last Jedi
+0014	1	7	submit	1	0		25		398122__00001 398124__00001 Q6586871__00002 Q18486021__00001 Q20977110__00001 27274__00021 Q18486021__00009 407726__00001	Star Wars: The Last Jedi
+0015	1	0	final	1	0					Donnie Yen
+0015	1	0	draft	1	0					Donnie Yen
+0015	1	1	submit	0	0	invalid_rationale			Q15732802__00048 539115__00040	Donnie Yen
+0015	1	2	submit	1	0		100	2	Q15732802__00048 539115__00040	Donnie Yen
+0018	1	0	final	1	0					6: Memento, Insomnia, Batman Begins, The Prestige, The Dark Knight, Inception
+0018	1	0	draft	1	0					6: Memento, Insomnia, Batman Begins, The Prestige, The Dark Knight, Inception
+0018	1	1	submit	1	0		70	5	Q190525__00001 Q429969__00001 Q25191__00010 Q189330__00009 Q578595__00017	6: Memento, Insomnia, Batman Begins, The Prestige, The Dark Knight, Inception
+0016	1	0	final	1	0					Avengers: Infinity War
+0016	1	0	draft	1	0					Avengers: Infinity War
+0016	1	0	envelope	1	0	pre_ladder_tier1				Avengers: Infinity War
+0016	1	1	submit	0	0	low_confidence_or_insufficient_evidence	16	1	Q18921635__00003 Q60518166__00020	Avengers: Infinity War
+0016	1	2	submit	0	0	low_confidence_or_insufficient_evidence	21	2	Q18921635__00003 Q75242023__00004	Avengers: Infinity War
+0016	1	3	submit	0	0	low_confidence_or_insufficient_evidence	21	2	Q18921635__00003 Q75242023__00004 Q99539084__00011	Avengers: Infinity War
+0016	1	4	submit	0	0	low_confidence_or_insufficient_evidence	21	2	Q18921635__00003 Q75242023__00004	Avengers: Infinity War
+0016	1	5	submit	0	0	low_confidence_or_insufficient_evidence	21	2	Q18921635__00003 Q75242023__00004	Avengers: Infinity War
+0017	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0017	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0017	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0019	1	0	final	1	0					5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0019	1	0	draft	1	0					5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0019	1	0	envelope	1	0	path4_prior_rollout_seed				5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0019	1	1	submit	0	1	substituted:format_rejected:too_long	15		Q362277__00025	8: Pikanchi Life is Hard Dakedo Happy (2002), The Blue Light (2003), Pikanchi Life Is Hard Dakara Happy (2004), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida (2007), Heaven's Door (2009), Ōoku (2010)
+0019	1	1	substitute	1	0	path4_prior_rollout_seed	15		Q4784362__00002	5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0020	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0020	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0020	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0020	1	1	submit	0	0	invalid_rationale			Q229228__00011	18: Here on Earth (2000), My First Mister (2001), Joy Ride (2001), Ruby Baker film (2001), Sarah Silver film (2002), Max (2002), Lying (2006), Heavens Fall (2006), In a Dark Place (2006), Sister Honey film (2006), The Elder Son (2006), Walk All over Me (2007), In the Name of the King (2007), 88 Minutes (2007), Finding Bliss (2009), Night Train (2009), Public Enemies (2009), Acts of Violence (2010)
+0020	1	2	submit	0	1	substituted:format_rejected:too_long	5		Q229228__00011	18: Here on Earth (2000), My First Mister (2001), Joy Ride (2001), Ruby Baker film (2001), Sarah Silver film (2002), Max (2002), Lying (2006), Heavens Fall (2006), In a Dark Place (2006), Sister Honey film (2006), The Elder Son (2006), Walk All over Me (2007), In the Name of the King (2007), 88 Minutes (2007), Finding Bliss (2009), Night Train (2009), Public Enemies (2009), Acts of Violence (2010)
+0020	1	2	substitute	1	0	canonical_refusal	5		Q229228__00007	The corpus does not support an answer to this question; insufficient evidence to respond.
+0022	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0022	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0022	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0022	1	1	submit	0	1	substituted:format_rejected:contains_semicolon	5		Q43247__00050 Q201293__00001	Katharine Hepburn: 4 Academy Awards for Best Actress; Audrey Hepburn: 1 Academy Award for Best Actress
+0022	1	1	substitute	1	0	canonical_refusal	5		Q43247__00050	The corpus does not support an answer to this question; insufficient evidence to respond.
+0024	1	0	final	1	0					3: Pirates of the Caribbean: The Curse of the Black Pearl (2003), Pirates of the Caribbean: Dead Man's Chest (2006), Pirates of the Caribbean: At World's End (2007)
+0024	1	0	draft	1	0					3: Pirates of the Caribbean: The Curse of the Black Pearl (2003), Pirates of the Caribbean: Dead Man's Chest (2006), Pirates of the Caribbean: At World's End (2007)
+0024	1	1	submit	1	0		70	3	Q46717__00001 Q161087__00001 Q54274__00016	3: Pirates of the Caribbean: The Curse of the Black Pearl (2003), Pirates of the Caribbean: Dead Man's Chest (2006), Pirates of the Caribbean: At World's End (2007)
+0021	1	0	final	1	0					Natalie Portman
+0021	1	0	draft	1	0					Natalie Portman
+0021	1	0	envelope	1	0	pre_ladder_tier1				Natalie Portman
+0021	1	1	submit	0	0	low_confidence_or_insufficient_evidence	21	2	63277__00003 Q4889256__00054	Natalie Portman
+0021	1	2	submit	0	0	low_confidence_or_insufficient_evidence	21	2	63277__00003 Q4889256__00054	Natalie Portman
+0021	1	3	submit	0	0	low_confidence_or_insufficient_evidence	21	2	63277__00003 Q4889256__00054	Natalie Portman
+0021	1	4	submit	0	0	low_confidence_or_insufficient_evidence	21	2	63277__00003 Q4889256__00054	Natalie Portman
+0021	1	5	submit	0	0	low_confidence_or_insufficient_evidence	21	2	63277__00003 Q4889256__00054	Natalie Portman
+0026	1	0	final	1	0					Joaquin Phoenix
+0026	1	0	draft	1	0					Joaquin Phoenix
+0026	1	1	submit	0	0	low_confidence_or_insufficient_evidence	30	1	Q115789958__00006	Joaquin Phoenix
+0026	1	2	submit	1	0		68	2	Q115789958__00006 Q1143478__00010	Joaquin Phoenix
+0023	1	0	final	1	0					Ingrid Bergman won the Academy Award for Best Actress more times (2 wins: Gaslight 1944 and Anastasia 1956) compared to Grace Kelly (1 win: The Country Girl 1954).
+0023	1	0	draft	1	0					Ingrid Bergman won the Academy Award for Best Actress more times (2 wins: Gaslight 1944 and Anastasia 1956) compared to Grace Kelly (1 win: The Country Girl 1954).
+0023	1	1	submit	0	0	low_confidence_or_insufficient_evidence	26	3	Q1305029__00001 Q18151712__00021 Q841781__00010	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0023	1	2	submit	0	0	low_confidence_or_insufficient_evidence	31	4	Q1305029__00001 Q18151712__00021 Q18151712__00017 Q841781__00010	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0023	1	3	submit	0	0	low_confidence_or_insufficient_evidence	35	5	Q1305029__00001 Q18151712__00021 Q18151712__00017 Q841781__00010 Q43247__00051	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0023	1	4	submit	0	0	low_confidence_or_insufficient_evidence	35	6	Q1305029__00001 Q18151712__00021 Q18151712__00017 Q841781__00010 Q43247__00051 Q11637__00023	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0023	1	5	submit	0	0	low_confidence_or_insufficient_evidence	35	7	Q1305029__00001 Q18151712__00021 Q18151712__00017 Q841781__00010 Q43247__00051 Q11637__00023 Q43247__00041	Ingrid Bergman: 2 Academy Awards for Best Actress (Grace Kelly: 1)
+0028	1	0	final	1	0					regal blue tang
+0028	1	0	draft	1	0					regal blue tang
+0028	1	1	submit	0	0	low_confidence_or_insufficient_evidence	75	1	Q132863__00001	regal blue tang
+0028	1	2	submit	1	0		75	2	Q132863__00001 Q9321426__00006	regal blue tang
+0029	1	0	final	1	0					movie poster
+0029	1	0	draft	1	0					movie poster
+0029	1	1	submit	0	0	invalid_rationale			Q42745__00029 Q172241__00010	movie poster
+0029	1	2	submit	1	0		100	2	Q42745__00029 Q172241__00010	movie poster
+0025	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0025	1	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0025	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0030	1	0	final	1	0					Ian McKellen
+0030	1	0	draft	1	0					Ian McKellen
+0030	1	1	submit	1	0		100	2	Q106182__00006 Q170510__00002	Ian McKellen
+0027	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0027	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0027	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0027	1	1	submit	0	0	invalid_rationale				
+0027	1	2	submit	0	0	exhaustion_gate_unmet	0			
+0027	1	3	submit	0	0	exhaustion_gate_unmet	0			
+0027	1	4	submit	1	0		5			
+0031	1	0	final	1	0					Humphrey Bogart
+0031	1	0	draft	1	0					Humphrey Bogart
+0031	1	1	submit	1	0		100	2	Q132689__00003 Q132689__00006	Humphrey Bogart
+0037	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0037	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0037	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0037	1	1	submit	0	1	substituted:model_requested_refusal	5			The corpus does not support an answer to this question.
+0037	1	1	substitute	1	0	canonical_refusal	5		Q6902878__00001	The corpus does not support an answer to this question; insufficient evidence to respond.
+0036	1	0	final	1	0					Lotso
+0036	1	0	draft	1	0					Lotso
+0036	1	1	submit	0	0	invalid_rationale			Q2235021__00052	Lotso
+0036	1	2	submit	0	0	low_confidence_or_insufficient_evidence	0	0	Q2235021__00052	Lotso
+0036	1	3	submit	1	0		100	3	Q2235021__00052 Q973621__00002	Lotso
+0033	1	0	final	1	0					Titanic
+0033	1	0	draft	1	0					Titanic
+0033	1	0	envelope	1	0	pre_ladder_tier1				Titanic
+0033	1	1	submit	0	0	low_confidence_or_insufficient_evidence	0	0	Q110374__00011	Titanic
+0033	1	2	submit	0	0	low_confidence_or_insufficient_evidence	10	1	Q110374__00011	Titanic
+0033	1	3	submit	0	0	low_confidence_or_insufficient_evidence	10	1	Q110374__00011	Titanic
+0033	1	4	submit	0	0	low_confidence_or_insufficient_evidence	10	1	Q110374__00011	Titanic
+0033	1	5	submit	0	0	invalid_rationale				
+0033	1	6	submit	1	0		25			
+0032	1	0	final	1	0					8
+0032	1	0	draft	1	0					8
+0032	1	1	submit	0	0	low_confidence_or_insufficient_evidence	15	1	Q134867__00009	8
+0032	1	2	submit	0	0	low_confidence_or_insufficient_evidence	30	2	Q134867__00009 Q5057425__00001	8
+0032	1	3	submit	0	0	invalid_rationale			Q134867__00009 Q5057425__00001 Q125076__00002	8
+0032	1	4	submit	1	0		60	3	Q134867__00009 Q5057425__00001 Q125076__00002	8
+0034	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0034	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0034	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0034	1	1	submit	0	0	invalid_rationale			Q208255__00003 Q208255__00007 Q208255__00015 Q208255__00023	The corpus does not support an answer to this question.
+0034	1	2	submit	0	1	substituted:model_requested_refusal	5		Q208255__00003 Q208255__00007 Q208255__00015 Q208255__00023	The corpus does not support an answer to this question.
+0034	1	2	substitute	1	0	canonical_refusal	5		Q305561__00001	The corpus does not support an answer to this question; insufficient evidence to respond.
+0035	1	0	final	1	0					10 years
+0035	1	0	draft	1	0					10 years
+0035	1	0	envelope	1	0	final_fallback_submit_history				10 years
+0035	1	1	submit	0	0	low_confidence_or_insufficient_evidence	0	2	Q1040119__00007 Q14171368__00002	10 years
+0035	1	2	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q1040119__00007 Q14171368__00002 Q23781155__00018	10 years
+0035	1	3	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q1040119__00007 Q14171368__00002 Q23781155__00018	10 years
+0035	1	4	submit	0	0	low_confidence_or_insufficient_evidence	0	4	Q1040119__00007 Q96389464__00004 Q23781155__00018	10 years
+0035	1	5	submit	0	0	low_confidence_or_insufficient_evidence	0	4	Q1040119__00007 Q96389464__00004 Q23781155__00018	10 years
+0035	1	6	submit	1	0		15		Q1040119__00007 Q42574__00001 Q23781155__00018	10 years
+0041	1	0	final	1	0					Lloyd Sherr
+0041	1	0	draft	1	0					Lloyd Sherr
+0041	1	0	envelope	1	0	path4_prior_rollout_seed				Lloyd Sherr
+0041	1	1	submit	0	1	substituted:model_requested_refusal	15		Q182153__00006 Q21079862__00006 Q192212__00016	The corpus does not support an answer to this question.
+0041	1	1	substitute	1	0	path4_prior_rollout_seed	15		Q1060986__00016	Lloyd Sherr
+0040	1	0	final	1	0					A113
+0040	1	0	draft	1	0					A113
+0040	1	0	envelope	1	0	path4_prior_rollout_seed				A113
+0038	1	0	final	1	0					3
+0038	1	0	draft	1	0					3
+0038	1	1	submit	0	0	invalid_rationale			Q357627__00004 Q18517638__00007 Q216153__00008 Q127552__00030	3
+0038	1	2	submit	0	0	invalid_rationale			Q357627__00004 Q18517638__00007 Q216153__00008 Q127552__00030	3
+0038	1	3	submit	0	0	invalid_rationale			Q357627__00004 Q18517638__00007 Q216153__00008	3
+0038	1	4	submit	0	0	low_confidence_or_insufficient_evidence	25	2	Q357627__00004 Q18517638__00007	3
+0038	1	5	submit	0	0	low_confidence_or_insufficient_evidence	25	2	Q357627__00004 Q18517638__00007	3
+0038	1	6	submit	0	0	low_confidence_or_insufficient_evidence	25	2	Q357627__00004 Q18517638__00007	3
+0038	1	7	submit	0	0	low_confidence_or_insufficient_evidence	25	2	Q357627__00004 Q18517638__00007	3
+0038	1	8	submit	0	0	low_confidence_or_insufficient_evidence	25	2	Q357627__00004 Q18517638__00007	3
+0043	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0043	1	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0043	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0043	1	1	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0043	1	2	submit	0	1	substituted:model_requested_refusal	5			The corpus does not support an answer to this question.
+0043	1	2	substitute	1	0	canonical_refusal	5		Q39571__00018	The corpus does not support an answer to this question; insufficient evidence to respond.
+0042	1	0	final	1	0					Castle in the Sky
+0042	1	0	draft	1	0					Castle in the Sky
+0042	1	1	submit	0	0	invalid_rationale			Q24988397__00002 Q275900__00003	Castle in the Sky
+0042	1	2	submit	1	0		100	1	Q24988397__00002 Q275900__00003	Castle in the Sky
+0044	1	0	final	1	0					Cinderella (1950)
+0044	1	0	draft	1	0					Cinderella (1950)
+0044	1	1	submit	0	0	invalid_rationale			Q191753__00016 Q191753__00001	Cinderella (1950)
+0044	1	2	submit	1	0		100	2	Q191753__00016 Q191753__00001	Cinderella (1950)
+0039	1	0	final	1	0					8612
+0039	1	0	draft	1	0					8612
+0039	1	0	envelope	1	0	pre_ladder_tier1				8612
+0039	1	1	submit	0	0	invalid_rationale			Q6605904__00005 Q18517638__00015	8612
+0039	1	2	submit	0	0	low_confidence_or_insufficient_evidence	0	2	Q6605904__00005 Q18517638__00015	8612
+0039	1	3	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q6605904__00005 Q18517638__00015 Q171048__00019	8612
+0039	1	4	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q6605904__00005 Q18517638__00015 Q171048__00019	8612
+0039	1	5	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q6605904__00005 Q18517638__00015 Q171048__00019	8612
+0039	1	6	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q6605904__00005 Q18517638__00015 Q171048__00019	8612
+0045	1	0	final	1	0					5: Spirited Away, Howl's Moving Castle, Ponyo, The Wind Rises, The Boy and the Heron
+0045	1	0	draft	1	0					5: Spirited Away, Howl's Moving Castle, Ponyo, The Wind Rises, The Boy and the Heron
+0045	1	1	submit	1	0		70	1	Q28154809__00005	5: Spirited Away, Howl's Moving Castle, Ponyo, The Wind Rises, The Boy and the Heron
+0046	1	0	final	1	0					4
+0046	1	0	draft	1	0					4
+0046	1	1	submit	1	0		60	6	Q51963292__00015 Q14171368__00001 Q23780914__00001 Q23781155__00002 Q113281347__00008 Q113281347__00012	4
+0048	1	0	final	1	0					Furious 7
+0048	1	0	draft	1	0					Furious 7
+0048	1	1	submit	0	0	invalid_rationale			Q14650496__00004 Q1991640__00011	Furious 7
+0048	1	2	submit	1	0		100	2	Q14650496__00004 Q1991640__00011	Furious 7
+0051	1	0	final	1	0					Murphy Cooper
+0051	1	0	draft	1	0					Murphy Cooper
+0051	1	1	submit	1	0		100	2	Q284653__00003 Q13417189__00005	Murphy Cooper
+0047	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0047	1	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0047	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0049	1	0	final	1	0					1
+0049	1	0	draft	1	0					1
+0049	1	0	envelope	1	0	final_fallback_submit_history				1
+0049	1	1	submit	0	0	invalid_rationale			Q29466808__00001 Q213208__00007	1
+0049	1	2	submit	0	0	low_confidence_or_insufficient_evidence	16	1	Q29466808__00001 Q213208__00007	1
+0054	1	0	final	1	0					Oppenheimer
+0054	1	0	draft	1	0					Oppenheimer
+0054	1	1	submit	1	0		82	2	Q514003__00004 Q984047__00003	Oppenheimer
+0050	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0050	1	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0050	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0052	1	0	final	1	0					Murph
+0052	1	0	draft	1	0					Murph
+0052	1	1	submit	0	0	invalid_rationale			Q6609350__00011 Q94913__00001 Q2926695__00003	Murph
+0052	1	2	submit	0	0	low_confidence_or_insufficient_evidence	36	2	Q6609350__00011 Q94913__00001 Q2926695__00003	Murph
+0053	1	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0053	1	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0053	1	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0056	1	0	final	1	0					Hoth
+0056	1	0	draft	1	0					Hoth
+0056	1	1	submit	1	0		96	1	327__00036	Hoth
+0060	1	0	final	1	0					Starkiller Base
+0060	1	0	draft	1	0					Starkiller Base
+0060	1	1	submit	1	0		82	2	452394__00005 475265__00016	Starkiller Base
+0059	1	0	final	1	0					Samuel L. Jackson
+0059	1	0	draft	1	0					Samuel L. Jackson
+0059	1	1	submit	1	0		94	2	78__00001 Q172678__00015	Samuel L. Jackson
+0058	1	0	final	1	0					I am one with the Force, and the Force is with me
+0058	1	0	draft	1	0					I am one with the Force, and the Force is with me
+0058	1	1	submit	0	0	invalid_rationale			569521__00002 539115__00034	I am one with the Force, and the Force is with me
+0058	1	2	submit	1	0		100	1	569521__00002 539115__00034	I am one with the Force, and the Force is with me
+0055	1	0	final	1	0					Tomorrowland
+0055	1	0	draft	1	0					Tomorrowland
+0055	1	0	envelope	1	0	path4_prior_rollout_seed				Tomorrowland
+0055	1	1	submit	0	0	invalid_rationale			Q18359358__00010 Q18547944__00013	Maze Runner: The Scorch Trials
+0055	1	2	submit	0	0	low_confidence_or_insufficient_evidence	36	2	Q18359358__00010 Q18547944__00013	Maze Runner: The Scorch Trials
+0055	1	3	submit	0	0	low_confidence_or_insufficient_evidence	36	2	Q18359358__00010 Q18547944__00013	Maze Runner: The Scorch Trials
+0055	1	4	submit	0	0	low_confidence_or_insufficient_evidence	47	3	Q18359358__00010 Q18547944__00013 Q10307713__00016	Maze Runner: The Scorch Trials
+0055	1	5	submit	0	0	low_confidence_or_insufficient_evidence	47	4	Q18359358__00010 Q18547944__00013 Q10307713__00016 Q6074__00030	Maze Runner: The Scorch Trials
+0055	1	6	submit	0	0	invalid_rationale			Q18359358__00010 Q18547944__00013 Q10307713__00016 Q6074__00030	Maze Runner: The Scorch Trials
+0055	1	7	submit	0	0	low_confidence_or_insufficient_evidence	47	4	Q18359358__00010 Q18547944__00013 Q10307713__00016 Q6074__00030	Maze Runner: The Scorch Trials
+0063	1	0	final	1	0					AT-AT walker (All Terrain Armored Transport)
+0063	1	0	draft	1	0					AT-AT walker (All Terrain Armored Transport)
+0063	1	1	submit	0	0	invalid_rationale			544__00001 454368__00001 581124__00002	AT-AT walker (All Terrain Armored Transport)
+0063	1	2	submit	1	0		59	3	544__00001 454368__00001 581124__00002	AT-AT walker (All Terrain Armored Transport)
+0062	1	0	final	1	0					Stardust
+0062	1	0	draft	1	0					Stardust
+0062	1	1	submit	0	0	low_confidence_or_insufficient_evidence	80	1	509001__00036	Stardust
+0062	1	2	submit	1	0		100	2	509001__00036 462213__00001	Stardust
+0057	1	0	final	1	0					Jedi Master Plo Koon
+0057	1	0	draft	1	0					Jedi Master Plo Koon
+0057	1	1	submit	0	0	invalid_rationale			453246__00001 453246__00270	Jedi Master Plo Koon
+0057	1	2	submit	1	0		97	2	453246__00001 453246__00270	Jedi Master Plo Koon
+0065	1	0	final	1	0					Imperial death troopers under Director Krennic's command killed both characters - Chirrut Îmwe was killed by an explosion, and Baze Malbus was killed by a grenade thrown by a death trooper.
+0065	1	0	draft	1	0					Imperial death troopers under Director Krennic's command killed both characters - Chirrut Îmwe was killed by an explosion, and Baze Malbus was killed by a grenade thrown by a death trooper.
+0065	1	1	submit	1	0		84	2	Q19590955__00006 452340__00022 539189__00005	Imperial death troopers under Director Krennic's command killed both characters - Chirrut Îmwe was killed by an explosion, and Baze Malbus was killed by a grenade thrown by a death trooper.
+0061	1	0	final	1	0					Home
+0061	1	0	draft	1	0					Home
+0061	1	0	envelope	1	0	pre_ladder_tier1				Home
+0061	1	1	submit	0	0	low_confidence_or_insufficient_evidence	14	3	Q23010088__00023 Q27985819__00028 Q68934496__00002	Home
+0061	1	2	submit	0	0	low_confidence_or_insufficient_evidence	19	4	Q23010088__00023 Q27985819__00028 Q68934496__00002 Q55537283__00001	Home
+0061	1	3	submit	0	0	low_confidence_or_insufficient_evidence	20	5	Q23010088__00023 Q27985819__00028 Q68934496__00002 Q55537283__00001 Q62604229__00016	Home
+0061	1	4	submit	0	0	low_confidence_or_insufficient_evidence	20	6	Q23010088__00023 Q27985819__00028 Q68934496__00002 Q55537283__00001 Q62604229__00016 Q68934496__00017	Home
+0061	1	5	submit	0	0	invalid_rationale			Q23010088__00023 Q27985819__00028 Q68934496__00002 Q55537283__00001 Q62604229__00016 Q68934496__00017 Q27985819__00011	Home
+0061	1	6	submit	0	0	low_confidence_or_insufficient_evidence	20	7	Q23010088__00023 Q27985819__00028 Q68934496__00002 Q55537283__00001 Q62604229__00016 Q68934496__00017 Q27985819__00011	Home
+0064	1	0	final	1	0					Rogue One: A Star Wars Story
+0064	1	0	draft	1	0					Rogue One: A Star Wars Story
+0064	1	0	envelope	1	0	pre_ladder_tier1				Rogue One: A Star Wars Story
+0064	1	1	submit	0	0	low_confidence_or_insufficient_evidence	14	2	Q15854651__00003 Q27038847__00021	Rogue One: A Star Wars Story
+0064	1	2	submit	0	0	invalid_rationale			Q15854651__00003 Q27038847__00021 60016__00018	Rogue One: A Star Wars Story
+0064	1	3	submit	0	0	low_confidence_or_insufficient_evidence	25	3	Q15854651__00003 Q27038847__00021 60016__00018	Rogue One: A Star Wars Story
+0064	1	4	submit	0	0	low_confidence_or_insufficient_evidence	25	3	Q15854651__00003 Q27038847__00021 60016__00018	Rogue One: A Star Wars Story
+0064	1	5	submit	0	0	low_confidence_or_insufficient_evidence	25	3	Q15854651__00003 Q27038847__00021 60016__00018	Rogue One: A Star Wars Story
+0064	1	6	submit	0	0	low_confidence_or_insufficient_evidence	25	3	Q15854651__00003 Q27038847__00021 60016__00018	Rogue One: A Star Wars Story
+0002	2	0	final	1	0					Black Widow
+0002	2	0	draft	1	0					Black Widow
+0002	2	1	submit	1	0		92	1	Q4435758__00002	Black Widow
+0001	2	0	final	1	0					Bor Gullet
+0001	2	0	draft	1	0					Bor Gullet
+0001	2	1	submit	0	0	invalid_rationale			602088__00001 539125__00006	Bor Gullet
+0001	2	2	submit	1	0		59	2	602088__00001 539125__00006	Bor Gullet
+0004	2	0	final	1	0					Roger Moore
+0004	2	0	draft	1	0					Roger Moore
+0004	2	1	submit	1	0		52	2	Q334780__00005 Q545216__00003	Roger Moore
+0006	2	0	final	1	0					Soul Stone
+0006	2	0	draft	1	0					Soul Stone
+0006	2	1	submit	1	0		100	2	Q23781155__00003 Q23781155__00004	Soul Stone
+0005	2	0	final	1	0					1: On Her Majesty's Secret Service
+0005	2	0	draft	1	0					1: On Her Majesty's Secret Service
+0005	2	1	submit	0	0	invalid_rationale			Q309289__00009 Q107914__00009	1: On Her Majesty's Secret Service
+0005	2	2	submit	1	0		60	2	Q309289__00009 Q107914__00009	1: On Her Majesty's Secret Service
+0003	2	0	final	1	0					The corpus does not support an answer to this question.
+0003	2	0	draft	1	0					The corpus does not support an answer to this question.
+0003	2	0	envelope	1	0	final_fallback_submit_history				The corpus does not support an answer to this question.
+0003	2	1	submit	1	0		15			The corpus does not support an answer to this question.
+0007	2	0	final	1	0					Love Is All Around
+0007	2	0	draft	1	0					Love Is All Around
+0007	2	0	envelope	1	0	final_fallback_submit_history				Love Is All Around
+0008	2	0	final	1	0					Ryan Reynolds
+0008	2	0	draft	1	0					Ryan Reynolds
+0008	2	1	submit	0	0	invalid_rationale			Q94998134__00020 Q4435782__00002	Ryan Reynolds
+0008	2	2	submit	1	0		68	2	Q94998134__00020 Q4435782__00002	Ryan Reynolds
+0009	2	0	final	1	0					The National Gallery
+0009	2	0	draft	1	0					The National Gallery
+0009	2	1	submit	0	0	invalid_rationale			Q752103__00004 Q779216__00002 Q23760__00012	The corpus does not support an answer to this question.
+0009	2	2	submit	0	1	substituted:?	99	1	Q752103__00004 Q779216__00002 Q23760__00012	The corpus does not support an answer to this question.
+0009	2	2	substitute	1	0		99	1	Q752103__00001	The National Gallery
+0010	2	0	final	1	0					Jeff Goldblum
+0010	2	0	draft	1	0					Jeff Goldblum
+0010	2	1	submit	1	0		100	2	Q106706__00010 Q126889073__00003	Jeff Goldblum
+0011	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0011	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0011	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0011	2	1	submit	0	0	invalid_rationale			Q231224__00005 Q1190336__00002 Q159099__00011	The corpus does not support an answer to this question.
+0011	2	2	submit	0	1	substituted:model_requested_refusal	5		Q231224__00005 Q1190336__00002 Q159099__00011	The corpus does not support an answer to this question.
+0011	2	2	substitute	1	0	canonical_refusal	5		Q1190336__00001	The corpus does not support an answer to this question; insufficient evidence to respond.
+0012	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0012	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0012	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0012	2	1	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0012	2	2	submit	0	1	substituted:model_requested_refusal	5			The corpus does not support an answer to this question.
+0012	2	2	substitute	1	0	canonical_refusal	5		Q901213__00003	The corpus does not support an answer to this question; insufficient evidence to respond.
+0014	2	0	final	1	0					The Last Jedi
+0014	2	0	draft	1	0					The Last Jedi
+0014	2	1	submit	0	0	invalid_rationale			Q188137__00001 Q621818__00001	The Last Jedi
+0014	2	2	submit	1	0		87	2	Q188137__00001 Q621818__00001	The Last Jedi
+0018	2	0	final	1	0					6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0018	2	0	draft	1	0					6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0018	2	1	submit	0	0	invalid_rationale			Q372788__00001 Q46551__00012 Q46551__00001 Q6563449__00004 Q777825__00008	6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0018	2	2	submit	1	0		70	5	Q372788__00001 Q46551__00012 Q46551__00001 Q6563449__00004 Q777825__00008	6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0015	2	0	final	1	0					Donnie Yen
+0015	2	0	draft	1	0					Donnie Yen
+0015	2	0	envelope	1	0	final_fallback_submit_history				Donnie Yen
+0015	2	1	submit	0	0	low_confidence_or_insufficient_evidence	23	1	Q311723__00010 Q240522__00003	Donnie Yen
+0015	2	2	submit	0	0	low_confidence_or_insufficient_evidence	23	1	Q311723__00010 Q240522__00003	Donnie Yen
+0015	2	3	submit	0	0	low_confidence_or_insufficient_evidence	23	1	Q311723__00010 Q240522__00003	Donnie Yen
+0016	2	0	final	1	0					Avengers: Infinity War was released earlier. It was released on April 27, 2018, while 1917 was released in 2019 (in some markets) or January 10, 2020 (in North America).
+0016	2	0	draft	1	0					Avengers: Infinity War was released earlier. It was released on April 27, 2018, while 1917 was released in 2019 (in some markets) or January 10, 2020 (in North America).
+0016	2	1	submit	0	0	low_confidence_or_insufficient_evidence	18	2	Q22350811__00007 Q10859479__00028	Avengers: Infinity War
+0016	2	2	submit	0	0	low_confidence_or_insufficient_evidence	32	3	Q22350811__00007 Q10859479__00028 Q23780914__00019	Avengers: Infinity War
+0016	2	3	submit	0	0	low_confidence_or_insufficient_evidence	32	3	Q22350811__00007 Q10859479__00028 Q23780914__00019	Avengers: Infinity War
+0016	2	4	submit	0	0	low_confidence_or_insufficient_evidence	35	4	Q22350811__00007 Q10859479__00028 Q23780914__00019 Q79950361__00003	Avengers: Infinity War
+0016	2	5	submit	0	0	low_confidence_or_insufficient_evidence	35	4	Q22350811__00007 Q10859479__00028 Q23780914__00019 Q79950361__00003	Avengers: Infinity War
+0017	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0017	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0017	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0019	2	0	final	1	0					5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0019	2	0	draft	1	0					5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0019	2	0	envelope	1	0	path4_prior_rollout_seed				5: Pikanchi Life Is Hard Dakedo Happy (2002), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida/Yellow Tears (2007), Ōoku: The Inner Chambers (2010)
+0022	2	0	final	1	0					Katharine Hepburn: 4 Academy Awards for Best Actress, Audrey Hepburn: 1 Academy Award for Best Actress
+0022	2	0	draft	1	0					Katharine Hepburn: 4 Academy Awards for Best Actress, Audrey Hepburn: 1 Academy Award for Best Actress
+0022	2	1	submit	1	0		85	2	Q1139614__00037 Q51495__00014	Katharine Hepburn: 4 Academy Awards for Best Actress, Audrey Hepburn: 1 Academy Award for Best Actress
+0020	2	0	final	1	0					8
+0020	2	0	draft	1	0					8
+0020	2	0	envelope	1	0	pre_ladder_tier1				8
+0020	2	1	submit	0	0	low_confidence_or_insufficient_evidence	40	8	Q1375887__00004 Q1346982__00006 Q831476__00005 Q26970__00005 Q235870__00012 Q1351818__00002 Q166031__00006 Q1249597__00004	8
+0024	2	0	final	1	0					3
+0024	2	0	draft	1	0					3
+0024	2	1	submit	0	0	low_confidence_or_insufficient_evidence	40	2	Q194318__00002 Q202857__00015	3
+0024	2	2	submit	0	0	low_confidence_or_insufficient_evidence	40	3	Q194318__00002 Q202857__00015 Q222639__00008	3
+0024	2	3	submit	0	0	low_confidence_or_insufficient_evidence	40	4	Q194318__00002 Q202857__00015 Q222639__00008 Q5542161__00002	3
+0024	2	4	submit	0	0	invalid_rationale			Q194318__00002 Q202857__00015 Q222639__00008 Q5542161__00002 Q161087__00010	3
+0024	2	5	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q194318__00002 Q202857__00015 Q222639__00008 Q5542161__00002 Q161087__00010	3
+0024	2	6	submit	0	0	low_confidence_or_insufficient_evidence	40	6	Q194318__00002 Q202857__00015 Q222639__00008 Q5542161__00002 Q161087__00010 Q6619900__00023	3
+0021	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0021	2	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0021	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0029	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0029	2	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0029	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0029	2	1	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0029	2	2	submit	0	1	substituted:model_requested_refusal	5			The corpus does not support an answer to this question.
+0029	2	2	substitute	1	0	canonical_refusal	5		Q2383592__00004	The corpus does not support an answer to this question; insufficient evidence to respond.
+0030	2	0	final	1	0					Ian McKellen
+0030	2	0	draft	1	0					Ian McKellen
+0030	2	1	submit	1	0		94	2	Q221168__00006 Q164963__00006	Ian McKellen
+0026	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0026	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0026	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0023	2	0	final	1	0					Ingrid Bergman
+0023	2	0	draft	1	0					Ingrid Bergman
+0023	2	0	envelope	1	0	final_fallback_submit_history				Ingrid Bergman
+0028	2	0	final	1	0					Pacific regal blue tang
+0028	2	0	draft	1	0					Pacific regal blue tang
+0028	2	1	submit	0	0	low_confidence_or_insufficient_evidence	79	1	Q3253306__00002	Pacific regal blue tang
+0028	2	2	submit	0	0	low_confidence_or_insufficient_evidence	79	1	Q3253306__00002	Pacific regal blue tang
+0028	2	3	submit	0	0	low_confidence_or_insufficient_evidence	79	1	Q3253306__00002	Pacific regal blue tang
+0028	2	4	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0028	2	5	submit	0	0	exhaustion_gate_unmet	0			The corpus does not support an answer to this question.
+0028	2	6	submit	0	0	low_confidence_or_insufficient_evidence	79	1	Q3253306__00002	Pacific regal blue tang
+0031	2	0	final	1	0					Humphrey Bogart
+0031	2	0	draft	1	0					Humphrey Bogart
+0031	2	1	submit	0	0	low_confidence_or_insufficient_evidence	73	1	Q767819__00004	Humphrey Bogart
+0031	2	2	submit	0	0	invalid_rationale			Q767819__00004 Q6599569__00025	Humphrey Bogart
+0031	2	3	submit	1	0		85	2	Q767819__00004 Q6599569__00025	Humphrey Bogart
+0025	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0025	2	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0025	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0027	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0027	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0027	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0027	2	1	submit	0	0	invalid_rationale				
+0027	2	2	submit	1	0		5			
+0037	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0037	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0037	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0037	2	1	submit	0	0	invalid_rationale			Q187726__00004 Q16249214__00001 Q16249214__00005	The corpus does not support an answer to this question.
+0037	2	2	submit	0	1	substituted:model_requested_refusal	5		Q187726__00004 Q16249214__00001 Q16249214__00005	The corpus does not support an answer to this question.
+0037	2	2	substitute	1	0	canonical_refusal	5		Q6902878__00001	The corpus does not support an answer to this question; insufficient evidence to respond.
+0033	2	0	final	1	0					Titanic
+0033	2	0	draft	1	0					Titanic
+0033	2	0	envelope	1	0	pre_ladder_tier1				Titanic
+0034	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0034	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0034	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0034	2	1	submit	0	0	exhaustion_gate_unmet	0			The corpus does not support an answer to this question.
+0034	2	2	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0034	2	3	submit	0	1	substituted:model_requested_refusal	5			The corpus does not support an answer to this question.
+0034	2	3	substitute	1	0	canonical_refusal	5		Q305561__00001	The corpus does not support an answer to this question; insufficient evidence to respond.
+0036	2	0	final	1	0					Lotso
+0036	2	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0036	2	0	envelope	1	0	pre_ladder_tier1				Lotso
+0036	2	1	submit	0	0	low_confidence_or_insufficient_evidence	0	0	Q2235021__00001 Q2235021__00002 Q187278__00006	Lotso
+0036	2	2	submit	0	0	low_confidence_or_insufficient_evidence	0	0	Q2235021__00001 Q2235021__00002 Q187278__00006	Lotso
+0032	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0032	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0032	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0032	2	1	submit	0	0	invalid_rationale			Q134867__00001 Q390018__00007 Q112243__00015	"8: Best Picture, Best Director (Danny Boyle), Best Adapted Screenplay (Simon Beaufoy), Best Cinematography (Anthony Dod Mantle), Best Film Editing (Chris Dickens), Best Original Score (A. R. Rahman), Best Original Song ""Jai Ho"" (A. R. Rahman and Gulzar), Best Sound Mixing"
+0032	2	2	submit	0	1	substituted:format_rejected:too_long	5		Q134867__00001 Q390018__00007 Q112243__00015	"8: Best Picture, Best Director (Danny Boyle), Best Adapted Screenplay (Simon Beaufoy), Best Cinematography (Anthony Dod Mantle), Best Film Editing (Chris Dickens), Best Original Score (A. R. Rahman), Best Original Song ""Jai Ho"" (A. R. Rahman and Gulzar), Best Sound Mixing"
+0032	2	2	substitute	1	0	canonical_refusal	5		Q112243__00015	The corpus does not support an answer to this question; insufficient evidence to respond.
+0035	2	0	final	1	0					10
+0035	2	0	draft	1	0					10
+0035	2	0	envelope	1	0	final_fallback_submit_history				10
+0035	2	1	submit	0	0	low_confidence_or_insufficient_evidence	0	2	Q42574__00034 Q367466__00002	10
+0035	2	2	submit	0	0	low_confidence_or_insufficient_evidence	0	2	Q42574__00034 Q367466__00002	10
+0035	2	3	submit	0	0	low_confidence_or_insufficient_evidence	0	3	Q42574__00034 Q367466__00002 Q3604746__00001	10
+0035	2	4	submit	0	0	invalid_rationale			Q42574__00034 Q367466__00002 Q3604746__00001 Q19371074__00003	10
+0035	2	5	submit	0	0	low_confidence_or_insufficient_evidence	0	4	Q42574__00034 Q367466__00002 Q3604746__00001 Q19371074__00003	10
+0035	2	6	submit	0	0	low_confidence_or_insufficient_evidence	0	5	Q42574__00034 Q367466__00002 Q3604746__00001 Q19371074__00003 Q6619889__00062	10
+0041	2	0	final	1	0					Lloyd Sherr
+0041	2	0	draft	1	0					Lloyd Sherr
+0041	2	0	envelope	1	0	path4_prior_rollout_seed				Lloyd Sherr
+0040	2	0	final	1	0					A113
+0040	2	0	draft	1	0					A113
+0043	2	0	final	1	0					Totoro
+0043	2	0	draft	1	0					Totoro
+0043	2	0	envelope	1	0	final_fallback_submit_history				Totoro
+0044	2	0	final	1	0					Spirited Away
+0044	2	0	draft	1	0					Spirited Away
+0044	2	1	submit	1	0		100	2	Q753338__00004 Q182950__00001	Spirited Away
+0042	2	0	final	1	0					Castle in the Sky
+0042	2	0	draft	1	0					Castle in the Sky
+0042	2	0	envelope	1	0	pre_ladder_tier1				Castle in the Sky
+0042	2	1	submit	0	0	low_confidence_or_insufficient_evidence	8	2	Q178713__00001 Q3133373__00003	Castle in the Sky
+0038	2	0	final	1	0					3
+0038	2	0	draft	1	0					3
+0038	2	0	envelope	1	0	pre_ladder_tier1				3
+0038	2	1	submit	0	0	invalid_rationale			Q374093__00005 Q269214__00013 Q357627__00008 Q380920__00004	3
+0038	2	2	submit	0	0	low_confidence_or_insufficient_evidence	15	1	Q374093__00005 Q269214__00013 Q357627__00008 Q380920__00004	3
+0038	2	3	submit	0	0	low_confidence_or_insufficient_evidence	28	2	Q374093__00005 Q192212__00009	3
+0038	2	4	submit	0	0	low_confidence_or_insufficient_evidence	28	2	Q374093__00005 Q192212__00009	3
+0038	2	5	submit	0	0	invalid_rationale				
+0038	2	6	submit	1	0		25			
+0046	2	0	final	1	0					4
+0046	2	0	draft	1	0					4
+0046	2	1	submit	1	0		60	5	Q182218__00030 Q14171368__00039 Q51963836__00015 Q18921635__00003 Q133779833__00015	4
+0045	2	0	final	1	0					5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0045	2	0	draft	1	0					5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0045	2	1	submit	1	0		70	4	Q236728__00001 Q888131__00001 Q47482560__00001 Q55400__00053	5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0048	2	0	final	1	0					Furious 7
+0048	2	0	draft	1	0					Furious 7
+0048	2	1	submit	0	0	invalid_rationale			Q19803416__00014 Q14650496__00005 Q19829521__00004	Furious 7
+0048	2	2	submit	0	0	low_confidence_or_insufficient_evidence	24	3	Q19803416__00014 Q14650496__00005 Q19829521__00004	Furious 7
+0048	2	3	submit	1	0		96	4	Q19803416__00014 Q19829521__00004 Q2714923__00035	Furious 7
+0051	2	0	final	1	0					Murphy Cooper
+0051	2	0	draft	1	0					Murphy Cooper
+0051	2	0	envelope	1	0	path4_prior_rollout_seed				Murphy Cooper
+0054	2	0	final	1	0					Oppenheimer
+0054	2	0	draft	1	0					Oppenheimer
+0054	2	1	submit	1	0		100	4	Q57966510__00004 Q108839994__00044 Q108839994__00022 Q25191__00027	Oppenheimer
+0047	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0047	2	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0047	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0047	2	1	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0047	2	2	submit	0	1	substituted:model_requested_refusal	5			The corpus does not support an answer to this question.
+0047	2	2	substitute	1	0	canonical_refusal	5		Q4373862__00002	The corpus does not support an answer to this question; insufficient evidence to respond.
+0056	2	0	final	1	0					Hoth
+0056	2	0	draft	1	0					Hoth
+0056	2	1	submit	1	0		94	1	Q181795__00003	Hoth
+0052	2	0	final	1	0					Murph
+0052	2	0	draft	1	0					Murph
+0052	2	0	envelope	1	0	path4_prior_rollout_seed				Murph
+0052	2	1	submit	0	0	invalid_rationale				
+0052	2	2	submit	1	0		15			
+0049	2	0	final	1	0					2
+0049	2	0	draft	1	0					2
+0049	2	0	envelope	1	0	final_fallback_submit_history				2
+0049	2	1	submit	0	0	low_confidence_or_insufficient_evidence	26	1	Q551876__00017	2
+0050	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0050	2	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0050	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0060	2	0	final	1	0					Ilum
+0060	2	0	draft	1	0					Ilum
+0060	2	1	submit	1	0		100	2	472920__00067 506048__00001	Ilum
+0053	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0053	2	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0053	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0058	2	0	final	1	0					The Force is with me, and I am one with the Force
+0058	2	0	draft	1	0					The Force is with me, and I am one with the Force
+0058	2	1	submit	1	0		100	3	675033__00002 539115__00035	The Force is with me, and I am one with the Force
+0059	2	0	final	1	0					Samuel L. Jackson
+0059	2	0	draft	1	0					Samuel L. Jackson
+0059	2	1	submit	0	0	invalid_rationale			Q172678__00002 Q51725__00003	Samuel L. Jackson
+0059	2	2	submit	0	0	low_confidence_or_insufficient_evidence	24	1	Q172678__00002 Q51725__00003	Samuel L. Jackson
+0059	2	3	submit	1	0		68	2	Q172678__00002 Q51725__00003	Samuel L. Jackson
+0063	2	0	final	1	0					AT-AT walker
+0063	2	0	draft	1	0					AT-AT walker
+0063	2	1	submit	1	0		82	2	581124__00008 717347__00002	AT-AT walker
+0062	2	0	final	1	0					Liana Halik
+0062	2	0	draft	1	0					Liana Halik
+0062	2	1	submit	1	0		96	1	452340__00003	Liana Halik
+0055	2	0	final	1	0					Tomorrowland
+0055	2	0	draft	1	0					Tomorrowland
+0055	2	0	envelope	1	0	path4_prior_rollout_seed				Tomorrowland
+0057	2	0	final	1	0					Plo Koon
+0057	2	0	draft	1	0					Plo Koon
+0057	2	1	submit	0	0	invalid_rationale			483523__00006 1249__00005 140058__00003 1249__00034	Plo Koon
+0057	2	2	submit	1	0		64	2	483523__00006 1249__00005 140058__00003 1249__00034	Plo Koon
+0039	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0039	2	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0039	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0013	2	0	final	1	0					Michael J. Fox
+0013	2	0	draft	1	0					Michael J. Fox
+0013	2	1	submit	0	0	low_confidence_or_insufficient_evidence	0	0	Q109331__00009 Q109331__00020	Michael J. Fox
+0013	2	2	submit	0	0	low_confidence_or_insufficient_evidence	27	1	Q109331__00009	Michael J. Fox
+0013	2	3	submit	0	0	low_confidence_or_insufficient_evidence	27	1	Q109331__00009	Michael J. Fox
+0013	2	4	submit	1	0		100	2	Q109331__00009 Q109331__00020	Michael J. Fox
+0061	2	0	final	1	0					Home
+0061	2	0	draft	1	0					Home
+0061	2	1	submit	1	0		100	1	Q26268915__00002	Home
+0065	2	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0065	2	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0065	2	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0065	2	1	submit	0	0	invalid_rationale			Q19590955__00002 577827__00013 Q716069__00009 653923__00005	Krennic's guard squadron killed both Chirrut Îmwe (played by Donnie Yen) and Baze Malbus (played by Jiang Wen) during the Battle of Scarif. Chirrut was killed when a trooper shot the switch's generator which exploded, and Baze was killed when a trooper's grenade rolled toward him and exploded.
+0065	2	2	submit	0	1	substituted:format_rejected:too_long	5		Q19590955__00002 577827__00013 Q716069__00009 653923__00005	Krennic's guard squadron killed both Chirrut Îmwe (played by Donnie Yen) and Baze Malbus (played by Jiang Wen) during the Battle of Scarif. Chirrut was killed when a trooper shot the switch's generator which exploded, and Baze was killed when a trooper's grenade rolled toward him and exploded.
+0065	2	2	substitute	1	0	canonical_refusal	5		577827__00013	The corpus does not support an answer to this question; insufficient evidence to respond.
+0064	2	0	final	1	0					Rogue One: A Star Wars Story
+0064	2	0	draft	1	0					Rogue One: A Star Wars Story
+0064	2	0	envelope	1	0	final_fallback_submit_history				Rogue One: A Star Wars Story
+0064	2	1	submit	0	0	low_confidence_or_insufficient_evidence	7	1	Q21527419__00043	Rogue One: A Star Wars Story
+0064	2	2	submit	0	0	low_confidence_or_insufficient_evidence	7	1	Q21527419__00043	Rogue One: A Star Wars Story
+0064	2	3	submit	1	0		7			
+0002	3	0	final	1	0					Black Widow (Natasha Romanoff)
+0002	3	0	draft	1	0					Black Widow (Natasha Romanoff)
+0002	3	1	submit	1	0		100	2	Q182218__00010 Q1765358__00021	Black Widow (Natasha Romanoff)
+0006	3	0	final	1	0					Soul Stone
+0006	3	0	draft	1	0					Soul Stone
+0006	3	1	submit	0	0	low_confidence_or_insufficient_evidence	81	1	Q24026688__00001	Soul Stone
+0006	3	2	submit	0	0	invalid_rationale			Q24026688__00001 Q23895063__00023	Soul Stone
+0006	3	3	submit	1	0		100	2	Q24026688__00001 Q23895063__00023	Soul Stone
+0004	3	0	final	1	0					Roger Moore played James Bond in Moonraker (1979), the James Bond film in which the climax takes place in outer space.
+0004	3	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0004	3	0	envelope	1	0	pre_ladder_tier1				Roger Moore played James Bond in Moonraker (1979), the James Bond film in which the climax takes place in outer space.
+0001	3	0	final	1	0					Bor Gullet
+0001	3	0	draft	1	0					Bor Gullet
+0001	3	0	envelope	1	0	path4_prior_rollout_seed				Bor Gullet
+0001	3	1	submit	0	0	invalid_rationale			471670__00002 560278__00001 498344__00089	breath mask
+0001	3	2	submit	0	0	low_confidence_or_insufficient_evidence	0	0	471670__00002 560278__00001 498344__00089	breath mask
+0005	3	0	final	1	0					1
+0005	3	0	draft	1	0					1
+0005	3	1	submit	0	0	low_confidence_or_insufficient_evidence	15	2	Q42308506__00004 Q23984517__00003	1
+0005	3	2	submit	0	0	low_confidence_or_insufficient_evidence	30	3	Q42308506__00004 Q23984517__00003 Q232876__00006	1
+0005	3	3	submit	0	0	low_confidence_or_insufficient_evidence	40	4	Q42308506__00004 Q23984517__00003 Q232876__00006 Q6129980__00002	1
+0005	3	4	submit	0	0	invalid_rationale			Q42308506__00004 Q23984517__00003 Q232876__00006 Q6129980__00002 Q205599__00007	1
+0005	3	5	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q42308506__00004 Q23984517__00003 Q232876__00006 Q6129980__00002 Q205599__00007	1
+0005	3	6	submit	0	0	low_confidence_or_insufficient_evidence	40	5	Q42308506__00004 Q23984517__00003 Q232876__00006 Q6129980__00002 Q205599__00007	1
+0008	3	0	final	1	0					Ryan Reynolds
+0008	3	0	draft	1	0					Ryan Reynolds
+0008	3	1	submit	1	0		100	3	Q978649__00007 Q19347291__00005 Q133779833__00012	Ryan Reynolds
+0007	3	0	final	1	0					Love Is All Around
+0007	3	0	draft	1	0					Love Is All Around
+0007	3	0	envelope	1	0	final_fallback_submit_history				Love Is All Around
+0009	3	0	final	1	0					The National Gallery
+0009	3	0	draft	1	0					The National Gallery
+0010	3	0	final	1	0					Jeff Goldblum
+0010	3	0	draft	1	0					Jeff Goldblum
+0011	3	0	final	1	0					Zeniba
+0011	3	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0011	3	0	envelope	1	0	pre_ladder_tier1				Zeniba
+0014	3	0	final	1	0					The Last Jedi
+0014	3	0	draft	1	0					The Last Jedi
+0014	3	1	submit	1	0		94	3	Q6074__00001 Q621818__00005 622453__00002	The Last Jedi
+0024	3	0	final	1	0					3: The Curse of the Black Pearl (2003), Dead Man's Chest (2006), At World's End (2007)
+0024	3	0	draft	1	0					3: The Curse of the Black Pearl (2003), Dead Man's Chest (2006), At World's End (2007)
+0024	3	1	submit	1	0		58	1	Q1764242__00001	3: The Curse of the Black Pearl (2003), Dead Man's Chest (2006), At World's End (2007)
+0013	3	0	final	1	0					Michael J. Fox
+0013	3	0	draft	1	0					Michael J. Fox
+0013	3	0	envelope	1	0	path4_prior_rollout_seed				Michael J. Fox
+0028	3	0	final	1	0					Pacific regal blue tang
+0028	3	0	draft	1	0					Pacific regal blue tang
+0028	3	0	envelope	1	0	path4_prior_rollout_seed				Pacific regal blue tang
+0028	3	1	submit	0	1	substituted:model_requested_refusal	15			The corpus does not support an answer to this question.
+0028	3	1	substitute	1	0	path4_prior_rollout_seed	15		Q9321426__00023	Pacific regal blue tang
+0031	3	0	final	1	0					Humphrey Bogart
+0031	3	0	draft	1	0					Humphrey Bogart
+0031	3	1	submit	1	0		58	1	Q3521139__00014	Humphrey Bogart
+0015	3	0	final	1	0					Donnie Yen
+0015	3	0	draft	1	0					Donnie Yen
+0018	3	0	final	1	0					6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0018	3	0	draft	1	0					6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0018	3	1	submit	1	0		94	3	Q242951__00001 Q1811998__00001 Q185867__00033	6: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010)
+0030	3	0	final	1	0					Ian McKellen
+0030	3	0	draft	1	0					Ian McKellen
+0030	3	1	submit	1	0		91	2	Q80379__00006 Q4435782__00001	Ian McKellen
+0032	3	0	final	1	0					8
+0032	3	0	draft	1	0					8
+0032	3	1	submit	1	0		58	1	Q4766110__00002	8
+0026	3	0	final	1	0					Joaquin Phoenix
+0026	3	0	draft	1	0					Joaquin Phoenix
+0026	3	0	envelope	1	0	pre_ladder_tier1				Joaquin Phoenix
+0029	3	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0029	3	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0029	3	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0029	3	1	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0029	3	2	submit	0	1	substituted:model_requested_refusal	5			The corpus does not support an answer to this question.
+0029	3	2	substitute	1	0	canonical_refusal	5		Q104553056__00003	The corpus does not support an answer to this question; insufficient evidence to respond.
+0040	3	0	final	1	0					Directive A113
+0040	3	0	draft	1	0					Directive A113
+0042	3	0	final	1	0					Castle in the Sky
+0042	3	0	draft	1	0					Castle in the Sky
+0042	3	0	envelope	1	0	path4_prior_rollout_seed				Castle in the Sky
+0036	3	0	final	1	0					Lotso
+0036	3	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0036	3	0	envelope	1	0	pre_ladder_tier1				Lotso
+0045	3	0	final	1	0					5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0045	3	0	draft	1	0					5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0045	3	1	submit	1	0		97	5	Q155653__00017 Q498577__00023 Q236728__00009 Q888131__00008 Q47482560__00016	5: Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), The Boy and the Heron (2023)
+0044	3	0	final	1	0					Spirited Away
+0044	3	0	draft	1	0					Spirited Away
+0044	3	0	envelope	1	0	path4_prior_rollout_seed				Spirited Away
+0046	3	0	final	1	0					4: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019)
+0046	3	0	draft	1	0					4: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019)
+0046	3	1	submit	1	0		94	3	Q55619363__00008 Q6619889__00062 Q105105219__00026	4: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019)
+0056	3	0	final	1	0					Hoth
+0056	3	0	draft	1	0					Hoth
+0056	3	1	submit	1	0		58	1	35737__00003	Hoth
+0054	3	0	final	1	0					Oppenheimer
+0054	3	0	draft	1	0					Oppenheimer
+0054	3	1	submit	1	0		91	2	Q1811998__00004 Q6570069__00011	Oppenheimer
+0038	3	0	final	1	0					3
+0038	3	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0038	3	0	envelope	1	0	pre_ladder_tier2				3
+0063	3	0	final	1	0					"AT-AT walker (All Terrain Armored Transport), also referred to as ""Imperial walkers"" in the films"
+0063	3	0	draft	1	0					"AT-AT walker (All Terrain Armored Transport), also referred to as ""Imperial walkers"" in the films"
+0063	3	1	submit	1	0		91	2	544__00002 544__00010	"AT-AT walker (All Terrain Armored Transport), also referred to as ""Imperial walkers"" in the films"
+0057	3	0	final	1	0					Plo Koon
+0057	3	0	draft	1	0					Plo Koon
+0057	3	1	submit	0	0	invalid_rationale			140058__00017 471861__00016 562888__00002	Plo Koon
+0057	3	2	submit	1	0		94	3	140058__00017 471861__00016 562888__00002	Plo Koon
+0060	3	0	final	1	0					Ilum
+0060	3	0	draft	1	0					Ilum
+0060	3	1	submit	1	0		91	2	472571__00002 374695__00053 506048__00006	Ilum
+0062	3	0	final	1	0					Stardust
+0062	3	0	draft	1	0					Stardust
+0062	3	0	envelope	1	0	path4_prior_rollout_seed				Stardust
+0062	3	1	submit	0	1	substituted:model_requested_refusal	15			The corpus does not support an answer to this question.
+0062	3	1	substitute	1	0	path4_prior_rollout_seed	15		509001__00001	Stardust
+0052	3	0	final	1	0					Murph
+0052	3	0	draft	1	0					Murph
+0052	3	0	envelope	1	0	path4_prior_rollout_seed				Murph
+0059	3	0	final	1	0					Samuel L. Jackson
+0059	3	0	draft	1	0					Samuel L. Jackson
+0059	3	1	submit	1	0		94	3	Q165713__00017 452970__00001 Q16199610__00016	Samuel L. Jackson
+0058	3	0	final	1	0					"""I am one with the Force and the Force is with me"""
+0058	3	0	draft	1	0					"""I am one with the Force and the Force is with me"""
+0058	3	1	submit	0	0	low_confidence_or_insufficient_evidence	58	1	452340__00009	"""I am one with the Force and the Force is with me"""
+0058	3	2	submit	0	0	low_confidence_or_insufficient_evidence	58	1	452340__00009	"""I am one with the Force and the Force is with me"""
+0058	3	3	submit	0	0	invalid_rationale			452340__00009 539115__00015	"""I am one with the Force and the Force is with me"""
+0058	3	4	submit	1	0		91	2	452340__00009 539115__00015	"""I am one with the Force and the Force is with me"""
+0051	3	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0051	3	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0051	3	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0023	3	0	final	1	0					Ingrid Bergman
+0023	3	0	draft	1	0					Ingrid Bergman
+0023	3	1	submit	1	0		91	2	Q18151712__00015 Q734944__00009	Ingrid Bergman
+0048	3	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0048	3	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0048	3	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0065	3	0	final	1	0					Grand Moff Tarkin (via the Death Star)
+0065	3	0	draft	1	0					Grand Moff Tarkin (via the Death Star)
+0065	3	1	submit	0	0	invalid_rationale			Q19590955__00022 Q21973843__00005 472997__00004 Q51800__00006	Grand Moff Tarkin (via the Death Star)
+0065	3	2	submit	1	0		97	4	Q19590955__00022 Q21973843__00005 472997__00004 Q51800__00006	Grand Moff Tarkin (via the Death Star)
+0002	4	0	final	1	0					Black Widow
+0002	4	0	draft	1	0					Black Widow
+0002	4	1	submit	0	0	low_confidence_or_insufficient_evidence	76	1	Q34436__00019	Black Widow
+0002	4	2	submit	1	0		100	2	Q34436__00019 Q51963292__00010	Black Widow
+0006	4	0	final	1	0					Soul Stone
+0006	4	0	draft	1	0					Soul Stone
+0001	4	0	final	1	0					Bor Gullet
+0001	4	0	draft	1	0					Bor Gullet
+0001	4	1	submit	1	0		100	3	556271__00001 452340__00010 598960__00006	Bor Gullet
+0004	4	0	final	1	0					Roger Moore
+0004	4	0	draft	1	0					Roger Moore
+0004	4	1	submit	0	0	invalid_rationale			Q753322__00002 Q5806741__00003 Q2331347__00003	Roger Moore
+0004	4	2	submit	0	0	low_confidence_or_insufficient_evidence	0	0	Q753322__00002 Q5806741__00003 Q2331347__00003	Roger Moore
+0004	4	3	submit	0	0	low_confidence_or_insufficient_evidence	0	0	Q753322__00002 Q5806741__00003 Q2331347__00003	Roger Moore
+0004	4	4	submit	0	0	low_confidence_or_insufficient_evidence	9	1	Q753322__00002 Q5806741__00003	Roger Moore
+0004	4	5	submit	0	0	low_confidence_or_insufficient_evidence	22	2	Q753322__00002 Q320423__00001	Roger Moore
+0004	4	6	submit	0	0	low_confidence_or_insufficient_evidence	30	3	Q753322__00002 Q320423__00001 Q5806741__00003	Roger Moore
+0005	4	0	final	1	0					1
+0005	4	0	draft	1	0					1
+0005	4	0	envelope	1	0	pre_ladder_tier1				1
+0005	4	1	submit	0	0	low_confidence_or_insufficient_evidence	12	1	Q4547__00011 Q131861037__00002	1
+0008	4	0	final	1	0					Ryan Reynolds
+0008	4	0	draft	1	0					Ryan Reynolds
+0008	4	1	submit	1	0		100	3	Q1376074__00009 Q19561563__00003 Q19347291__00036	Ryan Reynolds
+0009	4	0	final	1	0					National Gallery
+0009	4	0	draft	1	0					National Gallery
+0009	4	0	envelope	1	0	path4_prior_rollout_seed				National Gallery
+0010	4	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0010	4	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0010	4	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0002	5	0	final	1	0					Black Widow
+0002	5	0	draft	1	0					Black Widow
+0002	5	1	submit	1	0		91	2	Q182218__00019 Q23894626__00002	Black Widow
+0006	5	0	final	1	0					Soul Stone
+0006	5	0	draft	1	0					Soul Stone
+0006	5	1	submit	1	0		94	1	Q24046102__00011	Soul Stone
+0001	5	0	final	1	0					Bor Gullet
+0001	5	0	draft	1	0					Bor Gullet
+0004	5	0	final	1	0					Roger Moore
+0004	5	0	draft	1	0					Roger Moore
+0004	5	1	submit	1	0		79	2	Q151472__00001 Q238327__00003	Roger Moore
+0005	5	0	final	1	0					1
+0005	5	0	draft	1	0					1
+0005	5	1	submit	0	0	invalid_rationale				The corpus does not support an answer to this question.
+0005	5	2	submit	0	1	substituted:?	60	1		The corpus does not support an answer to this question.
+0005	5	2	substitute	1	0		60	1	Q205599__00001	1
+0008	5	0	final	1	0					Ryan Reynolds
+0008	5	0	draft	1	0					Ryan Reynolds
+0008	5	1	submit	0	0	invalid_rationale			Q23807921__00003 Q18281265__00001	Ryan Reynolds
+0008	5	2	submit	0	0	low_confidence_or_insufficient_evidence	0	0	Q23807921__00003 Q18281265__00001	Ryan Reynolds
+0008	5	3	submit	1	0		100	3	Q38685497__00013 Q113485245__00004 Q224130__00016	Ryan Reynolds
+0009	5	0	final	1	0					National Gallery
+0009	5	0	draft	1	0					National Gallery
+0002	6	0	final	1	0					Black Widow
+0002	6	0	draft	1	0					Black Widow
+0002	6	1	submit	1	0		100	2	Q1765358__00006 Q14171368__00008	Black Widow
+0006	6	0	final	1	0					Soul Stone
+0006	6	0	draft	1	0					Soul Stone
+0006	6	0	envelope	1	0	path4_prior_rollout_seed				Soul Stone
+0001	6	0	final	1	0					Bor Gullet
+0001	6	0	draft	1	0					Bor Gullet
+0001	6	0	envelope	1	0	path4_prior_rollout_seed				Bor Gullet
+0005	6	0	final	1	0					1
+0005	6	0	draft	1	0					1
+0005	6	0	envelope	1	0	pre_ladder_tier1				1
+0005	6	1	submit	0	0	low_confidence_or_insufficient_evidence	10	1	Q7764057__00006	1
+0005	6	2	submit	0	0	invalid_rationale			Q7764057__00006 Q41233__00009	1
+0005	6	3	submit	0	0	low_confidence_or_insufficient_evidence	25	1	Q7764057__00006 Q41233__00009	1
+0005	6	4	submit	0	0	low_confidence_or_insufficient_evidence	25	1	Q7764057__00006	1
+0005	6	5	submit	0	0	low_confidence_or_insufficient_evidence	25	1	Q7764057__00006	1
+0005	6	6	submit	0	1	substituted:model_requested_refusal	25			The corpus does not support an answer to this question.
+0005	6	6	substitute	1	0	pre_ladder_tier1	25		Q41233__00009	1
+0004	6	0	final	1	0					Roger Moore
+0004	6	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0004	6	0	envelope	1	0	pre_ladder_tier1				Roger Moore
+0008	6	0	final	1	0					Ryan Reynolds
+0008	6	0	draft	1	0					Ryan Reynolds
+0008	6	1	submit	1	0		100	2	Q1077542__00006 Q1631090__00044	Ryan Reynolds
+0009	6	0	final	1	0					National Gallery
+0009	6	0	draft	1	0					National Gallery
+0002	7	0	final	1	0					Black Widow
+0002	7	0	draft	1	0					Black Widow
+0002	7	1	submit	0	0	low_confidence_or_insufficient_evidence	74	1	Q275120__00034	Black Widow
+0002	7	2	submit	0	0	invalid_rationale			Q275120__00034 Q18407657__00025	Black Widow
+0002	7	3	submit	1	0		100	2	Q275120__00034 Q18407657__00025	Black Widow
+0006	7	0	final	1	0					Soul Stone
+0006	7	0	draft	1	0					Soul Stone
+0006	7	0	envelope	1	0	path4_prior_rollout_seed				Soul Stone
+0001	7	0	final	1	0					Bor Gullet
+0001	7	0	draft	1	0					Bor Gullet
+0001	7	0	envelope	1	0	path4_prior_rollout_seed				Bor Gullet
+0004	7	0	final	1	0					Roger Moore
+0004	7	0	draft	1	0					Roger Moore
+0004	7	1	submit	0	0	low_confidence_or_insufficient_evidence	22	2	Q238327__00001 Q2331347__00033 Q332368__00008	Roger Moore
+0004	7	2	submit	0	0	low_confidence_or_insufficient_evidence	22	2	Q238327__00001 Q2331347__00033 Q332368__00008 Q8016447__00002	Roger Moore
+0004	7	3	submit	1	0		86	3	Q238327__00001 Q2331347__00033 Q1016043__00051	Roger Moore
+0005	7	0	final	1	0					1
+0005	7	0	draft	1	0					1
+0005	7	0	envelope	1	0	pre_ladder_tier1				1
+0008	7	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0008	7	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0008	7	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0009	7	0	final	1	0					The National Gallery
+0009	7	0	draft	1	0					The National Gallery
+0002	8	0	final	1	0					Black Widow
+0002	8	0	draft	1	0					Black Widow
+0002	8	1	submit	0	0	invalid_rationale			Q191719__00008 Q192724__00032	Black Widow
+0002	8	2	submit	1	0		100	2	Q191719__00008 Q192724__00032	Black Widow
+0004	8	0	final	1	0					Roger Moore
+0004	8	0	draft	1	0					Roger Moore
+0004	8	0	envelope	1	0	final_fallback_submit_history				Roger Moore
+0008	8	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0008	8	0	draft	1	0					No passage in the retrieved corpus was found to support an answer; insufficient evidence to respond.
+0008	8	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.
+0009	8	0	final	1	0					The National Gallery
+0009	8	0	draft	1	0					The National Gallery
+0002	9	0	final	1	0					Black Widow
+0002	9	0	draft	1	0					Black Widow
+0002	9	1	submit	0	0	invalid_rationale			Q6609350__00039 Q105038067__00007	Black Widow
+0002	9	2	submit	1	0		100	2	Q6609350__00039 Q105038067__00007	Black Widow
+0004	9	0	final	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0004	9	0	draft	1	0					The corpus does not support an answer to this question; insufficient evidence to respond.
+0004	9	0	envelope	1	0	canonical_refusal				The corpus does not support an answer to this question; insufficient evidence to respond.

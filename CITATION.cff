@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals"
+authors:
+  - family-names: Knafou
+    given-names: Julien
+  - family-names: Mottin
+    given-names: Luc
+  - family-names: Flament
+    given-names: Alexandre
+  - family-names: van Rijen
+    given-names: Paul
+  - family-names: Gaillac
+    given-names: Esteban
+  - family-names: Ruch
+    given-names: Patrick
+license: MIT
+repository-code: "https://github.com/jknafou/ntcir19-r2c2-bitem"
+preferred-citation:
+  type: article
+  title: "BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals"
+  authors:
+    - family-names: Knafou
+      given-names: Julien
+    - family-names: Mottin
+      given-names: Luc
+    - family-names: Flament
+      given-names: Alexandre
+    - family-names: van Rijen
+      given-names: Paul
+    - family-names: Gaillac
+      given-names: Esteban
+    - family-names: Ruch
+      given-names: Patrick
+  year: 2026
+  journal: "arXiv preprint arXiv:2609.37993"
+  url: "https://arxiv.org/abs/2609.37993"
