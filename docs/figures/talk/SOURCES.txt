@@ -1,0 +1,72 @@
+These animations are cut from the slides of a talk on this work, published at https://jknafou.github.io/epfl-r2c2/
+They are made by the talk's own build, not by this repository: its paper-coloured ground, panels, greys and ink are laid on GitHub's light or dark ground, and every colour, the greys and ink included, is redrawn in a colour set of its own for each ground (Primer), except the illustrations of the question, the passages and the passage store, which keep the slide's own colours on its paper, framed as screens. The figures of the paper are built by docs/figures/build.sh.
+
+pipeline-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    the overview's rest, its entry, its rest again
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+ac-runs-light.gif, -dark.gif
+    slide 10 of the talk, https://jknafou.github.io/epfl-r2c2/#/10
+    step 10.4 (the two rebuilt runs leave AC-1 and AC-2), its rest, steps 10.5 and 10.6 (the field flattened onto HMR, then onto accuracy), step 10.7 (the field turns to 3D, accHMR as height), its rest, step 10.8 (the field flattens onto the accHMR axis) and its loop (all 25 runs, then each team's best run, then the runs again)
+    rendered from the slide as validated on 2026-11-08 (hash 2c745b1417cb7152)
+
+han-solo-01-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.1, the question typed into the pipeline's question box: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-02-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.2, the question type predicted, and the orchestrator's note appended to the question: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-03-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.3, turn 1: the model calls search_passages: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-04-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.4, the search into the passages DB, its ten results: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-05-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.5, turn 2: get_passage: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-06-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.6, the two passages read: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-07-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.7, turn 3: record_evidence: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-08-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.8, the nugget check keeps the nugget: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-09-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.9, the orchestrator's note back to the model, and the kept passage: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-10-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.10, turn 4: submit_answer and its arguments: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-11-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.11, the evidence gate's checklist (the confidence box of the talk left out): its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
+
+han-solo-12-light.gif, -dark.gif
+    slide 4 of the talk, https://jknafou.github.io/epfl-r2c2/#/4
+    step 4.12, the answer out of the gate: its rest, the step, its rest
+    rendered from the slide as validated on 2026-11-06 (hash a125cc00de905ac0)
